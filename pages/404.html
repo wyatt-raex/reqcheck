@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ReqCheck - FAQ</title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico?">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+    		<ul>
+    			<li><a href="index.html";>HOME</a></li>
+    			<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+    			<li><a href="faq.html">FAQ</a></li>
+          <li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+          <li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+          <!-- Search Bar -->
+          <li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+          <div id="search">
+            <input id="searchBar"; type="text"; placeholder="Search...">
+            <nav id="matchList"></nav>
+          </div>
+    		</ul>
+    	</div>
+    </nav>
+
+    <!-- Content -->
+    <div class="container">
+      <p>
+        <div style="text-align: center;">
+            <h1>404 Error</h1>
+            <h2>Page not found</h2>
+        </div>
+        
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="../index.html">HOME</a>
+    			<a href="hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="faq.html">FAQ</a>
+    </footer>
+
+  </body>
+
+
+  <script type="text/javascript" src="../js/faq.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+</html>

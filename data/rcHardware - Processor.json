@@ -1,0 +1,4650 @@
+{
+  "AMD Ryzen Threadripper PRO 5995WX": {
+    "name": "AMD Ryzen Threadripper PRO 5995WX",
+    "value": 108822
+  },
+  "AMD Ryzen Threadripper PRO 3995WX": {
+    "name": "AMD Ryzen Threadripper PRO 3995WX",
+    "value": 83745
+  },
+  "AMD Ryzen Threadripper 3990X": {
+    "name": "AMD Ryzen Threadripper 3990X",
+    "value": 81366
+  },
+  "AMD Ryzen Threadripper PRO 5975WX": {
+    "name": "AMD Ryzen Threadripper PRO 5975WX",
+    "value": 80842
+  },
+  "AMD Ryzen Threadripper PRO 5965WX": {
+    "name": "AMD Ryzen Threadripper PRO 5965WX",
+    "value": 68405
+  },
+  "AMD Ryzen Threadripper 3970X": {
+    "name": "AMD Ryzen Threadripper 3970X",
+    "value": 63857
+  },
+  "AMD Ryzen Threadripper PRO 3975WX": {
+    "name": "AMD Ryzen Threadripper PRO 3975WX",
+    "value": 63192
+  },
+  "AMD Ryzen Threadripper 3960X": {
+    "name": "AMD Ryzen Threadripper 3960X",
+    "value": 54749
+  },
+  "AMD Ryzen Threadripper PRO 5955WX": {
+    "name": "AMD Ryzen Threadripper PRO 5955WX",
+    "value": 51656
+  },
+  "Intel Core i9 12900KS": {
+    "name": "Intel Core i9 12900KS",
+    "value": 47649
+  },
+  "AMD Ryzen 9 5950X": {
+    "name": "AMD Ryzen 9 5950X",
+    "value": 46209
+  },
+  "AMD Ryzen Threadripper PRO 5945WX": {
+    "name": "AMD Ryzen Threadripper PRO 5945WX",
+    "value": 41578
+  },
+  "Apple M1 Ultra 20 Core": {
+    "name": "Apple M1 Ultra 20 Core",
+    "value": 41478
+  },
+  "Intel Core i9 12900KF": {
+    "name": "Intel Core i9 12900KF",
+    "value": 41038
+  },
+  "Intel Core i9 12900K": {
+    "name": "Intel Core i9 12900K",
+    "value": 40910
+  },
+  "AMD Ryzen Threadripper PRO 3955WX": {
+    "name": "AMD Ryzen Threadripper PRO 3955WX",
+    "value": 40197
+  },
+  "Intel Xeon W 3265M": {
+    "name": "Intel Xeon W 3265M",
+    "value": 39620
+  },
+  "AMD Ryzen 9 5900X": {
+    "name": "AMD Ryzen 9 5900X",
+    "value": 39472
+  },
+  "AMD Ryzen 9 3950X": {
+    "name": "AMD Ryzen 9 3950X",
+    "value": 39172
+  },
+  "Intel Core i9 12900": {
+    "name": "Intel Core i9 12900",
+    "value": 37747
+  },
+  "Intel Xeon W 3175X": {
+    "name": "Intel Xeon W 3175X",
+    "value": 37167
+  },
+  "Intel Core i9 12900T": {
+    "name": "Intel Core i9 12900T",
+    "value": 35833
+  },
+  "Intel Core i9 12900F": {
+    "name": "Intel Core i9 12900F",
+    "value": 34980
+  },
+  "AMD Ryzen 9 5900": {
+    "name": "AMD Ryzen 9 5900",
+    "value": 34722
+  },
+  "Intel Core i7 12700K": {
+    "name": "Intel Core i7 12700K",
+    "value": 33982
+  },
+  "Intel Core i7 12700KF": {
+    "name": "Intel Core i7 12700KF",
+    "value": 33965
+  },
+  "Intel Core i9 10980XE": {
+    "name": "Intel Core i9 10980XE",
+    "value": 33614
+  },
+  "AMD Ryzen Threadripper PRO 3945WX": {
+    "name": "AMD Ryzen Threadripper PRO 3945WX",
+    "value": 33425
+  },
+  "AMD Ryzen 9 3900XT": {
+    "name": "AMD Ryzen 9 3900XT",
+    "value": 32872
+  },
+  "AMD Ryzen 9 3900X": {
+    "name": "AMD Ryzen 9 3900X",
+    "value": 32764
+  },
+  "AMD Ryzen Threadripper 2990WX": {
+    "name": "AMD Ryzen Threadripper 2990WX",
+    "value": 32572
+  },
+  "Intel Core i9 9980XE": {
+    "name": "Intel Core i9 9980XE",
+    "value": 31985
+  },
+  "Intel Core i7 12700F": {
+    "name": "Intel Core i7 12700F",
+    "value": 31723
+  },
+  "Intel Core i7 12700": {
+    "name": "Intel Core i7 12700",
+    "value": 31681
+  },
+  "AMD Ryzen 9 PRO 3900": {
+    "name": "AMD Ryzen 9 PRO 3900",
+    "value": 31372
+  },
+  "Intel Core i9 9960X": {
+    "name": "Intel Core i9 9960X",
+    "value": 30795
+  },
+  "AMD Ryzen 9 3900": {
+    "name": "AMD Ryzen 9 3900",
+    "value": 30699
+  },
+  "AMD Ryzen Threadripper 2970WX": {
+    "name": "AMD Ryzen Threadripper 2970WX",
+    "value": 30339
+  },
+  "Intel Core i9 9990XE": {
+    "name": "Intel Core i9 9990XE",
+    "value": 30162
+  },
+  "AMD Ryzen Threadripper 2950X": {
+    "name": "AMD Ryzen Threadripper 2950X",
+    "value": 29959
+  },
+  "Intel Core i9 7980XE": {
+    "name": "Intel Core i9 7980XE",
+    "value": 29541
+  },
+  "Intel Core i9 10940X": {
+    "name": "Intel Core i9 10940X",
+    "value": 28619
+  },
+  "Intel Core i9 9940X": {
+    "name": "Intel Core i9 9940X",
+    "value": 28411
+  },
+  "AMD Ryzen 7 5800X": {
+    "name": "AMD Ryzen 7 5800X",
+    "value": 28385
+  },
+  "AMD Ryzen Threadripper 1950X": {
+    "name": "AMD Ryzen Threadripper 1950X",
+    "value": 28037
+  },
+  "Intel Xeon W 2275": {
+    "name": "Intel Xeon W 2275",
+    "value": 27904
+  },
+  "Intel Core i5 12600K": {
+    "name": "Intel Core i5 12600K",
+    "value": 27309
+  },
+  "Intel Core i5 12600KF": {
+    "name": "Intel Core i5 12600KF",
+    "value": 27191
+  },
+  "Intel Core i9 10920X": {
+    "name": "Intel Core i9 10920X",
+    "value": 26749
+  },
+  "Intel Core i9 7960X": {
+    "name": "Intel Core i9 7960X",
+    "value": 26699
+  },
+  "Intel Core i9 7940X": {
+    "name": "Intel Core i9 7940X",
+    "value": 26508
+  },
+  "AMD Ryzen Threadripper 2990X": {
+    "name": "AMD Ryzen Threadripper 2990X",
+    "value": 26469
+  },
+  "Intel Xeon W 1390P": {
+    "name": "Intel Xeon W 1390P",
+    "value": 26031
+  },
+  "Intel Xeon W 3323": {
+    "name": "Intel Xeon W 3323",
+    "value": 25875
+  },
+  "AMD Ryzen 7 5800": {
+    "name": "AMD Ryzen 7 5800",
+    "value": 25566
+  },
+  "Intel Core i9 11900K": {
+    "name": "Intel Core i9 11900K",
+    "value": 25557
+  },
+  "Intel Core i9 11900KF": {
+    "name": "Intel Core i9 11900KF",
+    "value": 25465
+  },
+  "AMD Ryzen Threadripper 2920X": {
+    "name": "AMD Ryzen Threadripper 2920X",
+    "value": 25410
+  },
+  "Intel Core i9 9920X": {
+    "name": "Intel Core i9 9920X",
+    "value": 25357
+  },
+  "Intel Xeon W 1370P": {
+    "name": "Intel Xeon W 1370P",
+    "value": 25202
+  },
+  "AMD Ryzen 7 PRO 5750G": {
+    "name": "AMD Ryzen 7 PRO 5750G",
+    "value": 25045
+  },
+  "Intel Core i7 11700K": {
+    "name": "Intel Core i7 11700K",
+    "value": 24794
+  },
+  "AMD Ryzen 7 5700G": {
+    "name": "AMD Ryzen 7 5700G",
+    "value": 24559
+  },
+  "Intel Core i7 11700KF": {
+    "name": "Intel Core i7 11700KF",
+    "value": 24203
+  },
+  "Intel Xeon W 1370": {
+    "name": "Intel Xeon W 1370",
+    "value": 24149
+  },
+  "Intel Core i9 11900F": {
+    "name": "Intel Core i9 11900F",
+    "value": 23916
+  },
+  "AMD Ryzen 7 3800XT": {
+    "name": "AMD Ryzen 7 3800XT",
+    "value": 23818
+  },
+  "Intel Core i9 10900K": {
+    "name": "Intel Core i9 10900K",
+    "value": 23793
+  },
+  "Intel Core i9 10900KF": {
+    "name": "Intel Core i9 10900KF",
+    "value": 23526
+  },
+  "AMD Ryzen 7 3800X": {
+    "name": "AMD Ryzen 7 3800X",
+    "value": 23283
+  },
+  "Intel Core i9 7920X": {
+    "name": "Intel Core i9 7920X",
+    "value": 23246
+  },
+  "Intel Core i9 11900": {
+    "name": "Intel Core i9 11900",
+    "value": 23207
+  },
+  "Intel Core i9 11900KB": {
+    "name": "Intel Core i9 11900KB",
+    "value": 23143
+  },
+  "Intel Core i9 10850K": {
+    "name": "Intel Core i9 10850K",
+    "value": 23129
+  },
+  "AMD Ryzen Threadripper 1920X": {
+    "name": "AMD Ryzen Threadripper 1920X",
+    "value": 22917
+  },
+  "AMD Ryzen 7 PRO 3700": {
+    "name": "AMD Ryzen 7 PRO 3700",
+    "value": 22734
+  },
+  "Intel Core i9 10900X": {
+    "name": "Intel Core i9 10900X",
+    "value": 22726
+  },
+  "AMD Ryzen 7 3700X": {
+    "name": "AMD Ryzen 7 3700X",
+    "value": 22718
+  },
+  "Apple M1 Max 10 Core 3200 MHz": {
+    "name": "Apple M1 Max 10 Core 3200 MHz",
+    "value": 22632
+  },
+  "AMD Ryzen 7 5700GE": {
+    "name": "AMD Ryzen 7 5700GE",
+    "value": 22566
+  },
+  "Intel Core i7 11700B": {
+    "name": "Intel Core i7 11700B",
+    "value": 22539
+  },
+  "Apple M1 Pro 10 Core 3200 MHz": {
+    "name": "Apple M1 Pro 10 Core 3200 MHz",
+    "value": 22397
+  },
+  "AMD Ryzen 7 PRO 5750GE": {
+    "name": "AMD Ryzen 7 PRO 5750GE",
+    "value": 22346
+  },
+  "AMD Ryzen 5 5600X": {
+    "name": "AMD Ryzen 5 5600X",
+    "value": 22100
+  },
+  "AMD Ryzen Threadripper 1920": {
+    "name": "AMD Ryzen Threadripper 1920",
+    "value": 22066
+  },
+  "Intel Xeon W 2255": {
+    "name": "Intel Xeon W 2255",
+    "value": 21981
+  },
+  "AMD Ryzen 5 5600": {
+    "name": "AMD Ryzen 5 5600",
+    "value": 21916
+  },
+  "Intel Core i9 9900X": {
+    "name": "Intel Core i9 9900X",
+    "value": 21862
+  },
+  "Intel Core i9 10910": {
+    "name": "Intel Core i9 10910",
+    "value": 21753
+  },
+  "Intel Core i7 11700F": {
+    "name": "Intel Core i7 11700F",
+    "value": 21459
+  },
+  "Intel Core i9 7900X": {
+    "name": "Intel Core i9 7900X",
+    "value": 21322
+  },
+  "Intel Core i5 12600": {
+    "name": "Intel Core i5 12600",
+    "value": 21217
+  },
+  "Intel Core i9 10900F": {
+    "name": "Intel Core i9 10900F",
+    "value": 20909
+  },
+  "AMD Ryzen 7 PRO 4700G": {
+    "name": "AMD Ryzen 7 PRO 4700G",
+    "value": 20848
+  },
+  "AMD Ryzen 5 PRO 5650G": {
+    "name": "AMD Ryzen 5 PRO 5650G",
+    "value": 20750
+  },
+  "Intel Core i7 11700": {
+    "name": "Intel Core i7 11700",
+    "value": 20730
+  },
+  "Intel Core i9 10900E": {
+    "name": "Intel Core i9 10900E",
+    "value": 20658
+  },
+  "AMD Ryzen 7 PRO 4750G": {
+    "name": "AMD Ryzen 7 PRO 4750G",
+    "value": 20588
+  },
+  "Intel Core i9 10900": {
+    "name": "Intel Core i9 10900",
+    "value": 20464
+  },
+  "AMD Ryzen 7 4700GE": {
+    "name": "AMD Ryzen 7 4700GE",
+    "value": 20414
+  },
+  "Intel Core i5 12500": {
+    "name": "Intel Core i5 12500",
+    "value": 20391
+  },
+  "Intel Core i9 11900T": {
+    "name": "Intel Core i9 11900T",
+    "value": 20225
+  },
+  "AMD Ryzen 7 4700G": {
+    "name": "AMD Ryzen 7 4700G",
+    "value": 20138
+  },
+  "AMD Ryzen 5 5600G": {
+    "name": "AMD Ryzen 5 5600G",
+    "value": 19828
+  },
+  "Intel Core i5 11600K": {
+    "name": "Intel Core i5 11600K",
+    "value": 19822
+  },
+  "Intel Core i5 11600KF": {
+    "name": "Intel Core i5 11600KF",
+    "value": 19796
+  },
+  "Intel Core i5 12400": {
+    "name": "Intel Core i5 12400",
+    "value": 19766
+  },
+  "Intel Core i5 12400F": {
+    "name": "Intel Core i5 12400F",
+    "value": 19627
+  },
+  "Intel Core i9 9900KS": {
+    "name": "Intel Core i9 9900KS",
+    "value": 19505
+  },
+  "AMD Ryzen 5 5500": {
+    "name": "AMD Ryzen 5 5500",
+    "value": 19404
+  },
+  "Intel Core i7 7900X": {
+    "name": "Intel Core i7 7900X",
+    "value": 19358
+  },
+  "Intel Core i7 10700K": {
+    "name": "Intel Core i7 10700K",
+    "value": 19310
+  },
+  "Intel Core i7 10700KF": {
+    "name": "Intel Core i7 10700KF",
+    "value": 19148
+  },
+  "AMD Ryzen 5 5600GE": {
+    "name": "AMD Ryzen 5 5600GE",
+    "value": 18879
+  },
+  "AMD Ryzen 5 3600XT": {
+    "name": "AMD Ryzen 5 3600XT",
+    "value": 18784
+  },
+  "AMD Ryzen 5 PRO 5650GE": {
+    "name": "AMD Ryzen 5 PRO 5650GE",
+    "value": 18734
+  },
+  "Intel Core i9 9900K": {
+    "name": "Intel Core i9 9900K",
+    "value": 18727
+  },
+  "Intel Core i9 9900KF": {
+    "name": "Intel Core i9 9900KF",
+    "value": 18710
+  },
+  "AMD Ryzen 7 PRO 4750GE": {
+    "name": "AMD Ryzen 7 PRO 4750GE",
+    "value": 18531
+  },
+  "Intel Core i5 11600": {
+    "name": "Intel Core i5 11600",
+    "value": 18335
+  },
+  "Intel Core i9 9820X": {
+    "name": "Intel Core i9 9820X",
+    "value": 18288
+  },
+  "AMD Ryzen 5 3600X": {
+    "name": "AMD Ryzen 5 3600X",
+    "value": 18284
+  },
+  "Intel Core i7 9800X": {
+    "name": "Intel Core i7 9800X",
+    "value": 18255
+  },
+  "AMD 4700S": {
+    "name": "AMD 4700S",
+    "value": 18212
+  },
+  "Intel Core i5 12600T": {
+    "name": "Intel Core i5 12600T",
+    "value": 18202
+  },
+  "Intel Core i5 12500T": {
+    "name": "Intel Core i5 12500T",
+    "value": 18133
+  },
+  "AMD Ryzen 5 PRO 3600": {
+    "name": "AMD Ryzen 5 PRO 3600",
+    "value": 17900
+  },
+  "AMD Ryzen 5 3600": {
+    "name": "AMD Ryzen 5 3600",
+    "value": 17826
+  },
+  "Intel Core i5 11500B": {
+    "name": "Intel Core i5 11500B",
+    "value": 17783
+  },
+  "Intel Core i5 11500": {
+    "name": "Intel Core i5 11500",
+    "value": 17719
+  },
+  "Apple M1 Pro 8 Core 3200 MHz": {
+    "name": "Apple M1 Pro 8 Core 3200 MHz",
+    "value": 17600
+  },
+  "AMD Ryzen 7 2700X": {
+    "name": "AMD Ryzen 7 2700X",
+    "value": 17581
+  },
+  "Intel Core i7 7820X": {
+    "name": "Intel Core i7 7820X",
+    "value": 17289
+  },
+  "Intel Core i5 11400F": {
+    "name": "Intel Core i5 11400F",
+    "value": 17283
+  },
+  "AMD Ryzen 7 PRO 2700X": {
+    "name": "AMD Ryzen 7 PRO 2700X",
+    "value": 17221
+  },
+  "Intel Core i7 6950X": {
+    "name": "Intel Core i7 6950X",
+    "value": 17161
+  },
+  "Intel Core i5 11400": {
+    "name": "Intel Core i5 11400",
+    "value": 17141
+  },
+  "Intel Core i7 10700": {
+    "name": "Intel Core i7 10700",
+    "value": 16995
+  },
+  "Intel Core i7 10700F": {
+    "name": "Intel Core i7 10700F",
+    "value": 16952
+  },
+  "AMD Ryzen Threadripper 1900X": {
+    "name": "AMD Ryzen Threadripper 1900X",
+    "value": 16896
+  },
+  "Intel Core i9 9900": {
+    "name": "Intel Core i9 9900",
+    "value": 16885
+  },
+  "AMD Ryzen 5 PRO 4400G": {
+    "name": "AMD Ryzen 5 PRO 4400G",
+    "value": 16456
+  },
+  "AMD Ryzen 5 PRO 4650G": {
+    "name": "AMD Ryzen 5 PRO 4650G",
+    "value": 16431
+  },
+  "AMD Ryzen 7 1800X": {
+    "name": "AMD Ryzen 7 1800X",
+    "value": 16306
+  },
+  "AMD Ryzen 5 PRO 4650GE": {
+    "name": "AMD Ryzen 5 PRO 4650GE",
+    "value": 15694
+  },
+  "AMD Ryzen 5 4600GE": {
+    "name": "AMD Ryzen 5 4600GE",
+    "value": 15656
+  },
+  "AMD Ryzen 7 2700": {
+    "name": "AMD Ryzen 7 2700",
+    "value": 15654
+  },
+  "AMD Ryzen 5 4600G": {
+    "name": "AMD Ryzen 5 4600G",
+    "value": 15564
+  },
+  "AMD Ryzen 7 PRO 1700X": {
+    "name": "AMD Ryzen 7 PRO 1700X",
+    "value": 15530
+  },
+  "AMD Ryzen 7 1700X": {
+    "name": "AMD Ryzen 7 1700X",
+    "value": 15496
+  },
+  "Intel Core i7 11700T": {
+    "name": "Intel Core i7 11700T",
+    "value": 15271
+  },
+  "Intel Core i5 11600T": {
+    "name": "Intel Core i5 11600T",
+    "value": 15254
+  },
+  "Intel Core i9 10900T": {
+    "name": "Intel Core i9 10900T",
+    "value": 15133
+  },
+  "AMD Ryzen 7 PRO 2700": {
+    "name": "AMD Ryzen 7 PRO 2700",
+    "value": 15068
+  },
+  "Intel Core i3 12300": {
+    "name": "Intel Core i3 12300",
+    "value": 14955
+  },
+  "Intel Xeon W 1250P": {
+    "name": "Intel Xeon W 1250P",
+    "value": 14924
+  },
+  "Apple M1 8 Core 3200 MHz": {
+    "name": "Apple M1 8 Core 3200 MHz",
+    "value": 14747
+  },
+  "AMD Ryzen 7 1700": {
+    "name": "AMD Ryzen 7 1700",
+    "value": 14659
+  },
+  "AMD Ryzen 7 2700E": {
+    "name": "AMD Ryzen 7 2700E",
+    "value": 14657
+  },
+  "AMD Ryzen 7 PRO 1700": {
+    "name": "AMD Ryzen 7 PRO 1700",
+    "value": 14590
+  },
+  "Intel Core i3 12100": {
+    "name": "Intel Core i3 12100",
+    "value": 14590
+  },
+  "Intel Core i5 10600KF": {
+    "name": "Intel Core i5 10600KF",
+    "value": 14569
+  },
+  "Intel Core i7 8086K": {
+    "name": "Intel Core i7 8086K",
+    "value": 14565
+  },
+  "Intel Core i7 9700K": {
+    "name": "Intel Core i7 9700K",
+    "value": 14550
+  },
+  "Intel Core i5 10600K": {
+    "name": "Intel Core i5 10600K",
+    "value": 14544
+  },
+  "Intel Core i7 9700KF": {
+    "name": "Intel Core i7 9700KF",
+    "value": 14516
+  },
+  "Intel Core i7 6900K": {
+    "name": "Intel Core i7 6900K",
+    "value": 14291
+  },
+  "AMD Ryzen 5 2600X": {
+    "name": "AMD Ryzen 5 2600X",
+    "value": 14053
+  },
+  "AMD Ryzen 3 PRO 5350G": {
+    "name": "AMD Ryzen 3 PRO 5350G",
+    "value": 13976
+  },
+  "Intel Core i5 10600": {
+    "name": "Intel Core i5 10600",
+    "value": 13974
+  },
+  "Intel Core i9 9900T": {
+    "name": "Intel Core i9 9900T",
+    "value": 13947
+  },
+  "Intel Core i7 8700K": {
+    "name": "Intel Core i7 8700K",
+    "value": 13875
+  },
+  "AMD Ryzen 3 5300GE": {
+    "name": "AMD Ryzen 3 5300GE",
+    "value": 13843
+  },
+  "Intel Core i5 11500T": {
+    "name": "Intel Core i5 11500T",
+    "value": 13724
+  },
+  "AMD Ryzen 3 PRO 5350GE": {
+    "name": "AMD Ryzen 3 PRO 5350GE",
+    "value": 13707
+  },
+  "Intel Core i7 9700F": {
+    "name": "Intel Core i7 9700F",
+    "value": 13448
+  },
+  "Intel Core i7 9700": {
+    "name": "Intel Core i7 9700",
+    "value": 13386
+  },
+  "AMD Ryzen 5 3500X": {
+    "name": "AMD Ryzen 5 3500X",
+    "value": 13345
+  },
+  "AMD Ryzen 5 PRO 2600": {
+    "name": "AMD Ryzen 5 PRO 2600",
+    "value": 13250
+  },
+  "AMD Ryzen 5 2600": {
+    "name": "AMD Ryzen 5 2600",
+    "value": 13198
+  },
+  "Intel Core i7 10700T": {
+    "name": "Intel Core i7 10700T",
+    "value": 13143
+  },
+  "AMD Ryzen 3 5300G": {
+    "name": "AMD Ryzen 3 5300G",
+    "value": 13103
+  },
+  "Intel Core i7 8700": {
+    "name": "Intel Core i7 8700",
+    "value": 13057
+  },
+  "Intel Core i5 10500": {
+    "name": "Intel Core i5 10500",
+    "value": 13046
+  },
+  "Intel Core i5 11400T": {
+    "name": "Intel Core i5 11400T",
+    "value": 12951
+  },
+  "AMD Ryzen 5 1600X": {
+    "name": "AMD Ryzen 5 1600X",
+    "value": 12949
+  },
+  "Intel Core i7 7800X": {
+    "name": "Intel Core i7 7800X",
+    "value": 12900
+  },
+  "AMD Ryzen 5 3500": {
+    "name": "AMD Ryzen 5 3500",
+    "value": 12832
+  },
+  "Intel Core i3 12100T": {
+    "name": "Intel Core i3 12100T",
+    "value": 12767
+  },
+  "AMD Ryzen 3 3300X": {
+    "name": "AMD Ryzen 3 3300X",
+    "value": 12751
+  },
+  "Intel Core i7 5960X": {
+    "name": "Intel Core i7 5960X",
+    "value": 12721
+  },
+  "Intel Core i5 10400F": {
+    "name": "Intel Core i5 10400F",
+    "value": 12438
+  },
+  "Intel Core i5 10400": {
+    "name": "Intel Core i5 10400",
+    "value": 12320
+  },
+  "Intel Core i5 10505": {
+    "name": "Intel Core i5 10505",
+    "value": 12320
+  },
+  "AMD Ryzen 5 1600": {
+    "name": "AMD Ryzen 5 1600",
+    "value": 12317
+  },
+  "Intel Core i7 9700E": {
+    "name": "Intel Core i7 9700E",
+    "value": 11905
+  },
+  "AMD Ryzen 3 3100": {
+    "name": "AMD Ryzen 3 3100",
+    "value": 11670
+  },
+  "Intel Core i5 10600T": {
+    "name": "Intel Core i5 10600T",
+    "value": 11376
+  },
+  "Intel Core i3 11100B": {
+    "name": "Intel Core i3 11100B",
+    "value": 11357
+  },
+  "AMD Ryzen 3 4300GE": {
+    "name": "AMD Ryzen 3 4300GE",
+    "value": 11350
+  },
+  "AMD Ryzen 3 PRO 4200G": {
+    "name": "AMD Ryzen 3 PRO 4200G",
+    "value": 11315
+  },
+  "Intel Core i7 6850K": {
+    "name": "Intel Core i7 6850K",
+    "value": 11310
+  },
+  "AMD Ryzen 3 PRO 4350GE": {
+    "name": "AMD Ryzen 3 PRO 4350GE",
+    "value": 11285
+  },
+  "Intel Core i5 9600KF": {
+    "name": "Intel Core i5 9600KF",
+    "value": 10837
+  },
+  "AMD Ryzen 3 PRO 4350G": {
+    "name": "AMD Ryzen 3 PRO 4350G",
+    "value": 10833
+  },
+  "Intel Core i7 9700TE": {
+    "name": "Intel Core i7 9700TE",
+    "value": 10826
+  },
+  "Intel Core i5 9600K": {
+    "name": "Intel Core i5 9600K",
+    "value": 10793
+  },
+  "AMD Ryzen 3 4300G": {
+    "name": "AMD Ryzen 3 4300G",
+    "value": 10792
+  },
+  "Intel Core i7 9700T": {
+    "name": "Intel Core i7 9700T",
+    "value": 10736
+  },
+  "Intel Core i7 6800K": {
+    "name": "Intel Core i7 6800K",
+    "value": 10668
+  },
+  "Intel Core i7 8700T": {
+    "name": "Intel Core i7 8700T",
+    "value": 10460
+  },
+  "AMD Ryzen 5 PRO 1600": {
+    "name": "AMD Ryzen 5 PRO 1600",
+    "value": 10401
+  },
+  "Intel Core i5 10500T": {
+    "name": "Intel Core i5 10500T",
+    "value": 10393
+  },
+  "Intel Core i5 9600": {
+    "name": "Intel Core i5 9600",
+    "value": 10369
+  },
+  "Intel Core i3 10325": {
+    "name": "Intel Core i3 10325",
+    "value": 10347
+  },
+  "Intel Core i5 9500F": {
+    "name": "Intel Core i5 9500F",
+    "value": 10330
+  },
+  "Intel Core i7 5930K": {
+    "name": "Intel Core i7 5930K",
+    "value": 10292
+  },
+  "Intel Core i5 8600K": {
+    "name": "Intel Core i5 8600K",
+    "value": 10192
+  },
+  "Intel Core i3 10320": {
+    "name": "Intel Core i3 10320",
+    "value": 10132
+  },
+  "Intel Core i5 10400T": {
+    "name": "Intel Core i5 10400T",
+    "value": 10021
+  },
+  "Intel Core i7 4960X": {
+    "name": "Intel Core i7 4960X",
+    "value": 9906
+  },
+  "Intel Core i7 7740X": {
+    "name": "Intel Core i7 7740X",
+    "value": 9864
+  },
+  "Intel Core i5 8600": {
+    "name": "Intel Core i5 8600",
+    "value": 9839
+  },
+  "Intel Core i7 5820K": {
+    "name": "Intel Core i7 5820K",
+    "value": 9809
+  },
+  "Intel Core i5 9500": {
+    "name": "Intel Core i5 9500",
+    "value": 9721
+  },
+  "Intel Core i3 10305": {
+    "name": "Intel Core i3 10305",
+    "value": 9689
+  },
+  "AMD Ryzen 5 3350GE": {
+    "name": "AMD Ryzen 5 3350GE",
+    "value": 9684
+  },
+  "Intel Core i7 7700K": {
+    "name": "Intel Core i7 7700K",
+    "value": 9662
+  },
+  "AMD Ryzen 5 PRO 3350GE": {
+    "name": "AMD Ryzen 5 PRO 3350GE",
+    "value": 9643
+  },
+  "Intel Core i5 8500": {
+    "name": "Intel Core i5 8500",
+    "value": 9594
+  },
+  "Intel Core i5 9400F": {
+    "name": "Intel Core i5 9400F",
+    "value": 9549
+  },
+  "AMD Ryzen 5 PRO 3350G": {
+    "name": "AMD Ryzen 5 PRO 3350G",
+    "value": 9498
+  },
+  "Intel Core i5 9400": {
+    "name": "Intel Core i5 9400",
+    "value": 9495
+  },
+  "AMD Ryzen 5 PRO 1500": {
+    "name": "AMD Ryzen 5 PRO 1500",
+    "value": 9402
+  },
+  "AMD Ryzen 5 2500X": {
+    "name": "AMD Ryzen 5 2500X",
+    "value": 9384
+  },
+  "Intel Core i7 4930K": {
+    "name": "Intel Core i7 4930K",
+    "value": 9384
+  },
+  "AMD Ryzen 5 3400G": {
+    "name": "AMD Ryzen 5 3400G",
+    "value": 9335
+  },
+  "Intel Core i3 10300": {
+    "name": "Intel Core i3 10300",
+    "value": 9329
+  },
+  "AMD Ryzen 5 PRO 3400G": {
+    "name": "AMD Ryzen 5 PRO 3400G",
+    "value": 9303
+  },
+  "Intel Core i5 8400": {
+    "name": "Intel Core i5 8400",
+    "value": 9218
+  },
+  "Intel Core i3 10105F": {
+    "name": "Intel Core i3 10105F",
+    "value": 9162
+  },
+  "Intel Core i7 9850HL": {
+    "name": "Intel Core i7 9850HL",
+    "value": 9112
+  },
+  "AMD Ryzen 5 1500X": {
+    "name": "AMD Ryzen 5 1500X",
+    "value": 9082
+  },
+  "AMD Ryzen 5 3350G": {
+    "name": "AMD Ryzen 5 3350G",
+    "value": 9061
+  },
+  "AMD Ryzen 5 3400GE": {
+    "name": "AMD Ryzen 5 3400GE",
+    "value": 8994
+  },
+  "Intel Core i3 10105": {
+    "name": "Intel Core i3 10105",
+    "value": 8959
+  },
+  "Intel Core i7 6700K": {
+    "name": "Intel Core i7 6700K",
+    "value": 8958
+  },
+  "Intel Core i3 10100F": {
+    "name": "Intel Core i3 10100F",
+    "value": 8855
+  },
+  "Intel Core i3 10100": {
+    "name": "Intel Core i3 10100",
+    "value": 8807
+  },
+  "AMD Ryzen 5 2400G": {
+    "name": "AMD Ryzen 5 2400G",
+    "value": 8729
+  },
+  "Intel Core i5 10300H": {
+    "name": "Intel Core i5 10300H",
+    "value": 8695
+  },
+  "Intel Core i7 7700": {
+    "name": "Intel Core i7 7700",
+    "value": 8643
+  },
+  "Intel Core i7 3960X": {
+    "name": "Intel Core i7 3960X",
+    "value": 8596
+  },
+  "Intel Core i5 9600T": {
+    "name": "Intel Core i5 9600T",
+    "value": 8393
+  },
+  "Intel Core i7 3970X": {
+    "name": "Intel Core i7 3970X",
+    "value": 8373
+  },
+  "AMD Ryzen 5 PRO 2400G": {
+    "name": "AMD Ryzen 5 PRO 2400G",
+    "value": 8320
+  },
+  "AMD Ryzen 5 PRO 3400GE": {
+    "name": "AMD Ryzen 5 PRO 3400GE",
+    "value": 8271
+  },
+  "Intel Core i5 9500T": {
+    "name": "Intel Core i5 9500T",
+    "value": 8253
+  },
+  "Intel Core i7 3930K": {
+    "name": "Intel Core i7 3930K",
+    "value": 8250
+  },
+  "Intel Core i3 10100E": {
+    "name": "Intel Core i3 10100E",
+    "value": 8229
+  },
+  "Intel Core i5 8600T": {
+    "name": "Intel Core i5 8600T",
+    "value": 8227
+  },
+  "AMD Ryzen Embedded V1756B": {
+    "name": "AMD Ryzen Embedded V1756B",
+    "value": 8215
+  },
+  "Intel Core i3 10305T": {
+    "name": "Intel Core i3 10305T",
+    "value": 8136
+  },
+  "AMD Ryzen 5 2400GE": {
+    "name": "AMD Ryzen 5 2400GE",
+    "value": 8134
+  },
+  "Intel Core i7 6700": {
+    "name": "Intel Core i7 6700",
+    "value": 8072
+  },
+  "Intel Core i7 4790K": {
+    "name": "Intel Core i7 4790K",
+    "value": 8057
+  },
+  "Intel Core i3 10105T": {
+    "name": "Intel Core i3 10105T",
+    "value": 7850
+  },
+  "Intel Core i5 9400T": {
+    "name": "Intel Core i5 9400T",
+    "value": 7809
+  },
+  "Intel Core i7 5775C": {
+    "name": "Intel Core i7 5775C",
+    "value": 7801
+  },
+  "AMD Ryzen 5 1400": {
+    "name": "AMD Ryzen 5 1400",
+    "value": 7789
+  },
+  "Intel Core i3 10300T": {
+    "name": "Intel Core i3 10300T",
+    "value": 7780
+  },
+  "AMD Ryzen 3 PRO 1300": {
+    "name": "AMD Ryzen 3 PRO 1300",
+    "value": 7717
+  },
+  "Intel Core i5 8500T": {
+    "name": "Intel Core i5 8500T",
+    "value": 7710
+  },
+  "AMD Athlon Gold PRO 3150G": {
+    "name": "AMD Athlon Gold PRO 3150G",
+    "value": 7702
+  },
+  "Intel Core i3 9350K": {
+    "name": "Intel Core i3 9350K",
+    "value": 7694
+  },
+  "Intel Core i7 5775R": {
+    "name": "Intel Core i7 5775R",
+    "value": 7676
+  },
+  "AMD Ryzen 3 2300X": {
+    "name": "AMD Ryzen 3 2300X",
+    "value": 7558
+  },
+  "Intel Core i7 7700T": {
+    "name": "Intel Core i7 7700T",
+    "value": 7544
+  },
+  "AMD Ryzen 5 PRO 2400GE": {
+    "name": "AMD Ryzen 5 PRO 2400GE",
+    "value": 7517
+  },
+  "Intel Core i3 9350KF": {
+    "name": "Intel Core i3 9350KF",
+    "value": 7485
+  },
+  "Intel Core i5 8400T": {
+    "name": "Intel Core i5 8400T",
+    "value": 7449
+  },
+  "AMD Ryzen 3 3200GE": {
+    "name": "AMD Ryzen 3 3200GE",
+    "value": 7408
+  },
+  "Intel Core i3 9320": {
+    "name": "Intel Core i3 9320",
+    "value": 7358
+  },
+  "Intel Core i3 9300": {
+    "name": "Intel Core i3 9300",
+    "value": 7279
+  },
+  "Intel Core i7 6700T": {
+    "name": "Intel Core i7 6700T",
+    "value": 7260
+  },
+  "Intel Core i7 4790": {
+    "name": "Intel Core i7 4790",
+    "value": 7236
+  },
+  "AMD Ryzen 3 3200G": {
+    "name": "AMD Ryzen 3 3200G",
+    "value": 7192
+  },
+  "Intel Core i7 990X": {
+    "name": "Intel Core i7 990X",
+    "value": 7148
+  },
+  "Intel Core i7 4770K": {
+    "name": "Intel Core i7 4770K",
+    "value": 7118
+  },
+  "AMD Athlon Gold PRO 3150GE": {
+    "name": "AMD Athlon Gold PRO 3150GE",
+    "value": 7093
+  },
+  "Intel Core i7 4771": {
+    "name": "Intel Core i7 4771",
+    "value": 7085
+  },
+  "Intel Core i7 995X": {
+    "name": "Intel Core i7 995X",
+    "value": 7079
+  },
+  "AMD Ryzen 3 PRO 3200G": {
+    "name": "AMD Ryzen 3 PRO 3200G",
+    "value": 7037
+  },
+  "Intel Core i7 4770": {
+    "name": "Intel Core i7 4770",
+    "value": 7023
+  },
+  "Intel Core i7 980": {
+    "name": "Intel Core i7 980",
+    "value": 7018
+  },
+  "AMD Athlon Gold 3150G": {
+    "name": "AMD Athlon Gold 3150G",
+    "value": 7002
+  },
+  "Intel Core i7 4790S": {
+    "name": "Intel Core i7 4790S",
+    "value": 6943
+  },
+  "Intel Pentium Gold G7400": {
+    "name": "Intel Pentium Gold G7400",
+    "value": 6916
+  },
+  "AMD Ryzen 3 1300X": {
+    "name": "AMD Ryzen 3 1300X",
+    "value": 6910
+  },
+  "Intel Core i5 7600K": {
+    "name": "Intel Core i5 7600K",
+    "value": 6872
+  },
+  "Intel Core i3 8350K": {
+    "name": "Intel Core i3 8350K",
+    "value": 6854
+  },
+  "Intel Core i7 4770S": {
+    "name": "Intel Core i7 4770S",
+    "value": 6818
+  },
+  "Intel Core i7 980X": {
+    "name": "Intel Core i7 980X",
+    "value": 6802
+  },
+  "AMD Ryzen 3 2200G": {
+    "name": "AMD Ryzen 3 2200G",
+    "value": 6780
+  },
+  "Intel Core i3 9100F": {
+    "name": "Intel Core i3 9100F",
+    "value": 6766
+  },
+  "AMD FX 9590": {
+    "name": "AMD FX 9590",
+    "value": 6764
+  },
+  "Intel Core i7 6700TE": {
+    "name": "Intel Core i7 6700TE",
+    "value": 6734
+  },
+  "AMD Ryzen 3 PRO 2200G": {
+    "name": "AMD Ryzen 3 PRO 2200G",
+    "value": 6703
+  },
+  "Intel Core i5 7640X": {
+    "name": "Intel Core i5 7640X",
+    "value": 6636
+  },
+  "Intel Core i3 9100": {
+    "name": "Intel Core i3 9100",
+    "value": 6628
+  },
+  "Intel Core i5 7600": {
+    "name": "Intel Core i5 7600",
+    "value": 6595
+  },
+  "AMD Ryzen 3 2200GE": {
+    "name": "AMD Ryzen 3 2200GE",
+    "value": 6537
+  },
+  "Intel Core i7 4820K": {
+    "name": "Intel Core i7 4820K",
+    "value": 6530
+  },
+  "Intel Core i7 970": {
+    "name": "Intel Core i7 970",
+    "value": 6499
+  },
+  "Intel Core i7 3770K": {
+    "name": "Intel Core i7 3770K",
+    "value": 6460
+  },
+  "Intel Core i7 4770R": {
+    "name": "Intel Core i7 4770R",
+    "value": 6429
+  },
+  "Intel Core i7 3770": {
+    "name": "Intel Core i7 3770",
+    "value": 6394
+  },
+  "AMD Ryzen 3 PRO 1200": {
+    "name": "AMD Ryzen 3 PRO 1200",
+    "value": 6347
+  },
+  "Intel Core i5 6600K": {
+    "name": "Intel Core i5 6600K",
+    "value": 6304
+  },
+  "AMD Ryzen 3 1200": {
+    "name": "AMD Ryzen 3 1200",
+    "value": 6303
+  },
+  "Intel Core i7 4790T": {
+    "name": "Intel Core i7 4790T",
+    "value": 6291
+  },
+  "Intel Core i3 8100": {
+    "name": "Intel Core i3 8100",
+    "value": 6171
+  },
+  "Intel Core i7 3770S": {
+    "name": "Intel Core i7 3770S",
+    "value": 6165
+  },
+  "Intel Core i3 9300T": {
+    "name": "Intel Core i3 9300T",
+    "value": 6162
+  },
+  "AMD FX 8370": {
+    "name": "AMD FX 8370",
+    "value": 6126
+  },
+  "Intel Core i5 6600": {
+    "name": "Intel Core i5 6600",
+    "value": 6108
+  },
+  "Intel Core i3 8300": {
+    "name": "Intel Core i3 8300",
+    "value": 6097
+  },
+  "Intel Core i7 5675C": {
+    "name": "Intel Core i7 5675C",
+    "value": 6089
+  },
+  "Intel Core i5 7600T": {
+    "name": "Intel Core i5 7600T",
+    "value": 6074
+  },
+  "Intel Core i5 7500": {
+    "name": "Intel Core i5 7500",
+    "value": 6070
+  },
+  "Intel Core i7 4770T": {
+    "name": "Intel Core i7 4770T",
+    "value": 6038
+  },
+  "AMD FX 9370": {
+    "name": "AMD FX 9370",
+    "value": 6022
+  },
+  "AMD FX 8350": {
+    "name": "AMD FX 8350",
+    "value": 5966
+  },
+  "AMD Ryzen 3 PRO 2200GE": {
+    "name": "AMD Ryzen 3 PRO 2200GE",
+    "value": 5897
+  },
+  "Intel Core i3 8300T": {
+    "name": "Intel Core i3 8300T",
+    "value": 5827
+  },
+  "Intel Core i7 3820": {
+    "name": "Intel Core i7 3820",
+    "value": 5756
+  },
+  "Intel Core i5 6500": {
+    "name": "Intel Core i5 6500",
+    "value": 5655
+  },
+  "Intel Core i5 6600T": {
+    "name": "Intel Core i5 6600T",
+    "value": 5655
+  },
+  "Intel Core i5 4690K": {
+    "name": "Intel Core i5 4690K",
+    "value": 5620
+  },
+  "Intel Core i7 2700K": {
+    "name": "Intel Core i7 2700K",
+    "value": 5599
+  },
+  "Intel Core i5 5675R": {
+    "name": "Intel Core i5 5675R",
+    "value": 5581
+  },
+  "Intel Core i7 3770T": {
+    "name": "Intel Core i7 3770T",
+    "value": 5573
+  },
+  "Intel Core i5 4690": {
+    "name": "Intel Core i5 4690",
+    "value": 5572
+  },
+  "Intel Core i5 5675C": {
+    "name": "Intel Core i5 5675C",
+    "value": 5548
+  },
+  "Intel Core i5 4670K": {
+    "name": "Intel Core i5 4670K",
+    "value": 5537
+  },
+  "Intel Core i5 7400": {
+    "name": "Intel Core i5 7400",
+    "value": 5519
+  },
+  "Intel Core i7 2600K": {
+    "name": "Intel Core i7 2600K",
+    "value": 5495
+  },
+  "Intel Core i5 6402P": {
+    "name": "Intel Core i5 6402P",
+    "value": 5493
+  },
+  "AMD Ryzen Embedded V1404I": {
+    "name": "AMD Ryzen Embedded V1404I",
+    "value": 5491
+  },
+  "Intel Core i5 4670": {
+    "name": "Intel Core i5 4670",
+    "value": 5427
+  },
+  "Intel Core i7 4785T": {
+    "name": "Intel Core i7 4785T",
+    "value": 5427
+  },
+  "Intel Core i3 9100T": {
+    "name": "Intel Core i3 9100T",
+    "value": 5419
+  },
+  "AMD FX 8320": {
+    "name": "AMD FX 8320",
+    "value": 5411
+  },
+  "Intel Core i5 4690S": {
+    "name": "Intel Core i5 4690S",
+    "value": 5382
+  },
+  "Intel Core i5 4590": {
+    "name": "Intel Core i5 4590",
+    "value": 5346
+  },
+  "Intel Core i7 2600": {
+    "name": "Intel Core i7 2600",
+    "value": 5344
+  },
+  "Intel Core i5 7500T": {
+    "name": "Intel Core i5 7500T",
+    "value": 5325
+  },
+  "Intel Core i3 8100T": {
+    "name": "Intel Core i3 8100T",
+    "value": 5285
+  },
+  "AMD FX 8300": {
+    "name": "AMD FX 8300",
+    "value": 5251
+  },
+  "AMD FX 8370E": {
+    "name": "AMD FX 8370E",
+    "value": 5235
+  },
+  "Intel Core i5 4670R": {
+    "name": "Intel Core i5 4670R",
+    "value": 5233
+  },
+  "Intel Core i5 4570": {
+    "name": "Intel Core i5 4570",
+    "value": 5189
+  },
+  "AMD FX 8150": {
+    "name": "AMD FX 8150",
+    "value": 5172
+  },
+  "Intel Core i5 6400": {
+    "name": "Intel Core i5 6400",
+    "value": 5165
+  },
+  "AMD FX 8310": {
+    "name": "AMD FX 8310",
+    "value": 5145
+  },
+  "Intel Core i5 4590S": {
+    "name": "Intel Core i5 4590S",
+    "value": 5093
+  },
+  "Intel Core i5 5575R": {
+    "name": "Intel Core i5 5575R",
+    "value": 5066
+  },
+  "Intel Core i7 4765T": {
+    "name": "Intel Core i7 4765T",
+    "value": 5036
+  },
+  "Intel Core i5 4670K CPT": {
+    "name": "Intel Core i5 4670K CPT",
+    "value": 5034
+  },
+  "AMD FX 8320E": {
+    "name": "AMD FX 8320E",
+    "value": 4970
+  },
+  "Intel Core i7 4700EQ": {
+    "name": "Intel Core i7 4700EQ",
+    "value": 4941
+  },
+  "Intel Core i5 3570K": {
+    "name": "Intel Core i5 3570K",
+    "value": 4934
+  },
+  "Intel Core i5 4570S": {
+    "name": "Intel Core i5 4570S",
+    "value": 4917
+  },
+  "Intel Core i5 3570": {
+    "name": "Intel Core i5 3570",
+    "value": 4908
+  },
+  "Intel Core i5 4670S": {
+    "name": "Intel Core i5 4670S",
+    "value": 4872
+  },
+  "AMD FX 8140": {
+    "name": "AMD FX 8140",
+    "value": 4860
+  },
+  "Intel Core i5 6500T": {
+    "name": "Intel Core i5 6500T",
+    "value": 4853
+  },
+  "Intel Core i3 7320": {
+    "name": "Intel Core i3 7320",
+    "value": 4852
+  },
+  "Intel Core i5 4460": {
+    "name": "Intel Core i5 4460",
+    "value": 4830
+  },
+  "Intel Core i3 7350K": {
+    "name": "Intel Core i3 7350K",
+    "value": 4819
+  },
+  "Intel Core i5 3550": {
+    "name": "Intel Core i5 3550",
+    "value": 4797
+  },
+  "Intel Core i5 6500TE": {
+    "name": "Intel Core i5 6500TE",
+    "value": 4776
+  },
+  "Intel Core i5 4470S": {
+    "name": "Intel Core i5 4470S",
+    "value": 4742
+  },
+  "Intel Core i5 4440": {
+    "name": "Intel Core i5 4440",
+    "value": 4713
+  },
+  "Intel Core i3 7300": {
+    "name": "Intel Core i3 7300",
+    "value": 4703
+  },
+  "Intel Core i5 7400T": {
+    "name": "Intel Core i5 7400T",
+    "value": 4679
+  },
+  "Intel Core i5 4690T": {
+    "name": "Intel Core i5 4690T",
+    "value": 4658
+  },
+  "Intel Core i5 3470": {
+    "name": "Intel Core i5 3470",
+    "value": 4655
+  },
+  "AMD Athlon Silver PRO 3125GE": {
+    "name": "AMD Athlon Silver PRO 3125GE",
+    "value": 4633
+  },
+  "Intel Core i5 4430": {
+    "name": "Intel Core i5 4430",
+    "value": 4630
+  },
+  "Intel Celeron N5095A": {
+    "name": "Intel Celeron N5095A",
+    "value": 4627
+  },
+  "Intel Core i5 3570S": {
+    "name": "Intel Core i5 3570S",
+    "value": 4620
+  },
+  "AMD FX 8120": {
+    "name": "AMD FX 8120",
+    "value": 4565
+  },
+  "AMD Athlon 240GE": {
+    "name": "AMD Athlon 240GE",
+    "value": 4551
+  },
+  "Intel Core i5 3550S": {
+    "name": "Intel Core i5 3550S",
+    "value": 4537
+  },
+  "Intel Core i5 4570R": {
+    "name": "Intel Core i5 4570R",
+    "value": 4527
+  },
+  "Intel Core i7 2600S": {
+    "name": "Intel Core i7 2600S",
+    "value": 4524
+  },
+  "Intel Core i5 4460S": {
+    "name": "Intel Core i5 4460S",
+    "value": 4522
+  },
+  "Intel Pentium Gold G6605": {
+    "name": "Intel Pentium Gold G6605",
+    "value": 4493
+  },
+  "Intel Core i5 3450": {
+    "name": "Intel Core i5 3450",
+    "value": 4486
+  },
+  "AMD Athlon 3000G": {
+    "name": "AMD Athlon 3000G",
+    "value": 4479
+  },
+  "AMD Athlon PRO 300GE": {
+    "name": "AMD Athlon PRO 300GE",
+    "value": 4475
+  },
+  "AMD FX 6330": {
+    "name": "AMD FX 6330",
+    "value": 4455
+  },
+  "AMD FX 6350": {
+    "name": "AMD FX 6350",
+    "value": 4442
+  },
+  "Intel Core i5 4670T": {
+    "name": "Intel Core i5 4670T",
+    "value": 4427
+  },
+  "Intel Core i3 6300": {
+    "name": "Intel Core i3 6300",
+    "value": 4396
+  },
+  "Intel Pentium Gold G6600": {
+    "name": "Intel Pentium Gold G6600",
+    "value": 4396
+  },
+  "Intel Pentium Gold G6505": {
+    "name": "Intel Pentium Gold G6505",
+    "value": 4378
+  },
+  "Intel Core i3 6320": {
+    "name": "Intel Core i3 6320",
+    "value": 4372
+  },
+  "AMD Athlon 300GE": {
+    "name": "AMD Athlon 300GE",
+    "value": 4366
+  },
+  "AMD FX 6130": {
+    "name": "AMD FX 6130",
+    "value": 4353
+  },
+  "Intel Core i5 3470S": {
+    "name": "Intel Core i5 3470S",
+    "value": 4351
+  },
+  "Intel Core i3 7100": {
+    "name": "Intel Core i3 7100",
+    "value": 4336
+  },
+  "Intel Core i5 6400T": {
+    "name": "Intel Core i5 6400T",
+    "value": 4302
+  },
+  "Intel Pentium Gold G6405": {
+    "name": "Intel Pentium Gold G6405",
+    "value": 4286
+  },
+  "Intel Core i5 4440S": {
+    "name": "Intel Core i5 4440S",
+    "value": 4277
+  },
+  "Intel Core i5 3450S": {
+    "name": "Intel Core i5 3450S",
+    "value": 4264
+  },
+  "AMD Ryzen Embedded R1606G": {
+    "name": "AMD Ryzen Embedded R1606G",
+    "value": 4260
+  },
+  "Intel Core i7 4770TE": {
+    "name": "Intel Core i7 4770TE",
+    "value": 4257
+  },
+  "AMD Athlon 320GE": {
+    "name": "AMD Athlon 320GE",
+    "value": 4237
+  },
+  "Intel Core i5 3350P": {
+    "name": "Intel Core i5 3350P",
+    "value": 4225
+  },
+  "AMD Ryzen 3 PRO 2100GE": {
+    "name": "AMD Ryzen 3 PRO 2100GE",
+    "value": 4187
+  },
+  "Intel Core i3 6100": {
+    "name": "Intel Core i3 6100",
+    "value": 4182
+  },
+  "Intel Core i5 3475S": {
+    "name": "Intel Core i5 3475S",
+    "value": 4177
+  },
+  "Intel Core i3 6098P": {
+    "name": "Intel Core i3 6098P",
+    "value": 4170
+  },
+  "Intel Core i5 3570T": {
+    "name": "Intel Core i5 3570T",
+    "value": 4168
+  },
+  "Intel Core i5 4430S": {
+    "name": "Intel Core i5 4430S",
+    "value": 4168
+  },
+  "Intel Core i5 3340": {
+    "name": "Intel Core i5 3340",
+    "value": 4161
+  },
+  "Intel Pentium Gold G5600F": {
+    "name": "Intel Pentium Gold G5600F",
+    "value": 4160
+  },
+  "Intel Core i3 7300T": {
+    "name": "Intel Core i3 7300T",
+    "value": 4159
+  },
+  "AMD FX 6300": {
+    "name": "AMD FX 6300",
+    "value": 4149
+  },
+  "Intel Pentium Gold G6500": {
+    "name": "Intel Pentium Gold G6500",
+    "value": 4147
+  },
+  "AMD Athlon PRO 200GE": {
+    "name": "AMD Athlon PRO 200GE",
+    "value": 4139
+  },
+  "Intel Pentium Gold G6400": {
+    "name": "Intel Pentium Gold G6400",
+    "value": 4136
+  },
+  "AMD Athlon 200GE": {
+    "name": "AMD Athlon 200GE",
+    "value": 4134
+  },
+  "Intel Core i5 2550K": {
+    "name": "Intel Core i5 2550K",
+    "value": 4123
+  },
+  "Intel Core i5 3340S": {
+    "name": "Intel Core i5 3340S",
+    "value": 4102
+  },
+  "Intel Pentium Gold G5620": {
+    "name": "Intel Pentium Gold G5620",
+    "value": 4102
+  },
+  "Intel Core i5 2500": {
+    "name": "Intel Core i5 2500",
+    "value": 4099
+  },
+  "Intel Core i5 2500K": {
+    "name": "Intel Core i5 2500K",
+    "value": 4094
+  },
+  "Intel Core i5 3330": {
+    "name": "Intel Core i5 3330",
+    "value": 4087
+  },
+  "Intel Celeron N5095": {
+    "name": "Intel Celeron N5095",
+    "value": 4081
+  },
+  "Intel Core i3 6300T": {
+    "name": "Intel Core i3 6300T",
+    "value": 4040
+  },
+  "Intel Pentium Gold G6500T": {
+    "name": "Intel Pentium Gold G6500T",
+    "value": 4005
+  },
+  "AMD FX 6200": {
+    "name": "AMD FX 6200",
+    "value": 3986
+  },
+  "Intel Core i5 2450P": {
+    "name": "Intel Core i5 2450P",
+    "value": 3974
+  },
+  "Intel Core i5 4590T": {
+    "name": "Intel Core i5 4590T",
+    "value": 3965
+  },
+  "Intel Core i3 7101TE": {
+    "name": "Intel Core i3 7101TE",
+    "value": 3911
+  },
+  "AMD A8 7500": {
+    "name": "AMD A8 7500",
+    "value": 3878
+  },
+  "AMD PRO A12 9800": {
+    "name": "AMD PRO A12 9800",
+    "value": 3878
+  },
+  "AMD FX 6120": {
+    "name": "AMD FX 6120",
+    "value": 3863
+  },
+  "AMD PRO A12 8870": {
+    "name": "AMD PRO A12 8870",
+    "value": 3848
+  },
+  "AMD FX 8100": {
+    "name": "AMD FX 8100",
+    "value": 3847
+  },
+  "Intel Core i5 2400": {
+    "name": "Intel Core i5 2400",
+    "value": 3836
+  },
+  "Intel Celeron G6900": {
+    "name": "Intel Celeron G6900",
+    "value": 3829
+  },
+  "Intel Pentium G4620": {
+    "name": "Intel Pentium G4620",
+    "value": 3824
+  },
+  "Intel Core i5 3330S": {
+    "name": "Intel Core i5 3330S",
+    "value": 3811
+  },
+  "Intel Core i3 4370": {
+    "name": "Intel Core i3 4370",
+    "value": 3799
+  },
+  "Intel Core i5 2380P": {
+    "name": "Intel Core i5 2380P",
+    "value": 3797
+  },
+  "AMD Athlon X4 845": {
+    "name": "AMD Athlon X4 845",
+    "value": 3780
+  },
+  "Intel Core i3 7100T": {
+    "name": "Intel Core i3 7100T",
+    "value": 3780
+  },
+  "Intel Pentium Gold G5600": {
+    "name": "Intel Pentium Gold G5600",
+    "value": 3769
+  },
+  "Intel Pentium Gold G5500": {
+    "name": "Intel Pentium Gold G5500",
+    "value": 3755
+  },
+  "Intel Core i5 3335S": {
+    "name": "Intel Core i5 3335S",
+    "value": 3754
+  },
+  "AMD PRO A10 8850B": {
+    "name": "AMD PRO A10 8850B",
+    "value": 3752
+  },
+  "Intel Pentium Gold G6405T": {
+    "name": "Intel Pentium Gold G6405T",
+    "value": 3746
+  },
+  "AMD Phenom II X6 1100T": {
+    "name": "AMD Phenom II X6 1100T",
+    "value": 3729
+  },
+  "Intel Pentium Gold G5400": {
+    "name": "Intel Pentium Gold G5400",
+    "value": 3728
+  },
+  "Intel Core i3 4360": {
+    "name": "Intel Core i3 4360",
+    "value": 3688
+  },
+  "AMD FX 6100": {
+    "name": "AMD FX 6100",
+    "value": 3676
+  },
+  "AMD Athlon X4 880K": {
+    "name": "AMD Athlon X4 880K",
+    "value": 3671
+  },
+  "AMD Phenom II X6 1090T": {
+    "name": "AMD Phenom II X6 1090T",
+    "value": 3649
+  },
+  "AMD PRO A10 9700": {
+    "name": "AMD PRO A10 9700",
+    "value": 3644
+  },
+  "Intel Pentium Gold G5420": {
+    "name": "Intel Pentium Gold G5420",
+    "value": 3641
+  },
+  "Intel Core i3 6100T": {
+    "name": "Intel Core i3 6100T",
+    "value": 3627
+  },
+  "Intel Core i5 2320": {
+    "name": "Intel Core i5 2320",
+    "value": 3624
+  },
+  "Intel Pentium Gold G6400T": {
+    "name": "Intel Pentium Gold G6400T",
+    "value": 3610
+  },
+  "Intel Pentium G4600": {
+    "name": "Intel Pentium G4600",
+    "value": 3604
+  },
+  "Intel Pentium Gold G5600T": {
+    "name": "Intel Pentium Gold G5600T",
+    "value": 3601
+  },
+  "Intel Core i5 2310": {
+    "name": "Intel Core i5 2310",
+    "value": 3600
+  },
+  "Intel Core i5 4460T": {
+    "name": "Intel Core i5 4460T",
+    "value": 3592
+  },
+  "AMD Athlon X4 950": {
+    "name": "AMD Athlon X4 950",
+    "value": 3570
+  },
+  "Intel Core i3 4170": {
+    "name": "Intel Core i3 4170",
+    "value": 3561
+  },
+  "AMD A10 9700": {
+    "name": "AMD A10 9700",
+    "value": 3541
+  },
+  "Intel Core i3 4330": {
+    "name": "Intel Core i3 4330",
+    "value": 3537
+  },
+  "AMD A10 8850": {
+    "name": "AMD A10 8850",
+    "value": 3525
+  },
+  "Intel Pentium Silver J5040": {
+    "name": "Intel Pentium Silver J5040",
+    "value": 3518
+  },
+  "Intel Pentium G4560": {
+    "name": "Intel Pentium G4560",
+    "value": 3516
+  },
+  "Intel Pentium Gold G5420T": {
+    "name": "Intel Pentium Gold G5420T",
+    "value": 3508
+  },
+  "Intel Core i3 4340": {
+    "name": "Intel Core i3 4340",
+    "value": 3506
+  },
+  "Intel Core i3 4160": {
+    "name": "Intel Core i3 4160",
+    "value": 3489
+  },
+  "AMD A10 7890K": {
+    "name": "AMD A10 7890K",
+    "value": 3477
+  },
+  "AMD A10 7870K": {
+    "name": "AMD A10 7870K",
+    "value": 3474
+  },
+  "Intel Core i3 4350": {
+    "name": "Intel Core i3 4350",
+    "value": 3459
+  },
+  "AMD A10 PRO 7850B APU": {
+    "name": "AMD A10 PRO 7850B APU",
+    "value": 3458
+  },
+  "AMD Athlon X4 860K": {
+    "name": "AMD Athlon X4 860K",
+    "value": 3454
+  },
+  "AMD A12 9800E": {
+    "name": "AMD A12 9800E",
+    "value": 3447
+  },
+  "Intel Core i5 2500S": {
+    "name": "Intel Core i5 2500S",
+    "value": 3445
+  },
+  "AMD A12 9800": {
+    "name": "AMD A12 9800",
+    "value": 3428
+  },
+  "AMD PRO A10 8770": {
+    "name": "AMD PRO A10 8770",
+    "value": 3418
+  },
+  "AMD Athlon X4 870K": {
+    "name": "AMD Athlon X4 870K",
+    "value": 3401
+  },
+  "Intel Core i5 2300": {
+    "name": "Intel Core i5 2300",
+    "value": 3376
+  },
+  "AMD FX B4150": {
+    "name": "AMD FX B4150",
+    "value": 3369
+  },
+  "Intel Core i7 975": {
+    "name": "Intel Core i7 975",
+    "value": 3356
+  },
+  "Intel Core i3 4150": {
+    "name": "Intel Core i3 4150",
+    "value": 3355
+  },
+  "AMD A10 7850K APU": {
+    "name": "AMD A10 7850K APU",
+    "value": 3353
+  },
+  "AMD PRO A8 9600": {
+    "name": "AMD PRO A8 9600",
+    "value": 3347
+  },
+  "Intel Core i3 4370T": {
+    "name": "Intel Core i3 4370T",
+    "value": 3343
+  },
+  "AMD Phenom II X6 1405T": {
+    "name": "AMD Phenom II X6 1405T",
+    "value": 3335
+  },
+  "AMD FX 4150": {
+    "name": "AMD FX 4150",
+    "value": 3327
+  },
+  "AMD A10 7860K": {
+    "name": "AMD A10 7860K",
+    "value": 3326
+  },
+  "AMD A10 8750": {
+    "name": "AMD A10 8750",
+    "value": 3320
+  },
+  "AMD Phenom II X6 1065T": {
+    "name": "AMD Phenom II X6 1065T",
+    "value": 3298
+  },
+  "Intel Core i3 4130": {
+    "name": "Intel Core i3 4130",
+    "value": 3289
+  },
+  "Intel Core i7 965": {
+    "name": "Intel Core i7 965",
+    "value": 3288
+  },
+  "AMD Athlon X4 840": {
+    "name": "AMD Athlon X4 840",
+    "value": 3287
+  },
+  "AMD A8 9600": {
+    "name": "AMD A8 9600",
+    "value": 3286
+  },
+  "AMD FX 4350": {
+    "name": "AMD FX 4350",
+    "value": 3261
+  },
+  "Intel Core i5 4400E": {
+    "name": "Intel Core i5 4400E",
+    "value": 3251
+  },
+  "AMD FX 4330": {
+    "name": "AMD FX 4330",
+    "value": 3248
+  },
+  "Intel Core i3 4570T": {
+    "name": "Intel Core i3 4570T",
+    "value": 3244
+  },
+  "Intel Core i7 960": {
+    "name": "Intel Core i7 960",
+    "value": 3243
+  },
+  "Intel Pentium Gold G5500T": {
+    "name": "Intel Pentium Gold G5500T",
+    "value": 3234
+  },
+  "AMD Phenom II X6 1075T": {
+    "name": "AMD Phenom II X6 1075T",
+    "value": 3231
+  },
+  "AMD A8 7600 APU": {
+    "name": "AMD A8 7600 APU",
+    "value": 3210
+  },
+  "AMD A8 7670K": {
+    "name": "AMD A8 7670K",
+    "value": 3210
+  },
+  "AMD PRO A8 8650B": {
+    "name": "AMD PRO A8 8650B",
+    "value": 3192
+  },
+  "AMD PRO A12 9800E": {
+    "name": "AMD PRO A12 9800E",
+    "value": 3191
+  },
+  "AMD Phenom II X6 1055T": {
+    "name": "AMD Phenom II X6 1055T",
+    "value": 3189
+  },
+  "AMD A10 PRO 7800B APU": {
+    "name": "AMD A10 PRO 7800B APU",
+    "value": 3184
+  },
+  "Intel Core i3 4360T": {
+    "name": "Intel Core i3 4360T",
+    "value": 3164
+  },
+  "Intel Core i3 4170T": {
+    "name": "Intel Core i3 4170T",
+    "value": 3162
+  },
+  "AMD A10 7700K APU": {
+    "name": "AMD A10 7700K APU",
+    "value": 3153
+  },
+  "Intel Core i5 2400S": {
+    "name": "Intel Core i5 2400S",
+    "value": 3150
+  },
+  "AMD A10 6800K APU": {
+    "name": "AMD A10 6800K APU",
+    "value": 3147
+  },
+  "Intel Core i7 950": {
+    "name": "Intel Core i7 950",
+    "value": 3145
+  },
+  "Intel Core i3 4160T": {
+    "name": "Intel Core i3 4160T",
+    "value": 3140
+  },
+  "AMD A10 7800 APU": {
+    "name": "AMD A10 7800 APU",
+    "value": 3136
+  },
+  "AMD FX 4200": {
+    "name": "AMD FX 4200",
+    "value": 3134
+  },
+  "AMD PRO A10 8770E": {
+    "name": "AMD PRO A10 8770E",
+    "value": 3133
+  },
+  "Intel Core i5 4570T": {
+    "name": "Intel Core i5 4570T",
+    "value": 3133
+  },
+  "Intel Pentium G4600T": {
+    "name": "Intel Pentium G4600T",
+    "value": 3130
+  },
+  "AMD A10 6790K APU": {
+    "name": "AMD A10 6790K APU",
+    "value": 3124
+  },
+  "Intel Core i7 875K": {
+    "name": "Intel Core i7 875K",
+    "value": 3119
+  },
+  "AMD FX 4170": {
+    "name": "AMD FX 4170",
+    "value": 3109
+  },
+  "Intel Core i5 4200H": {
+    "name": "Intel Core i5 4200H",
+    "value": 3108
+  },
+  "Intel Core i3 4330T": {
+    "name": "Intel Core i3 4330T",
+    "value": 3098
+  },
+  "AMD A10 6700 APU": {
+    "name": "AMD A10 6700 APU",
+    "value": 3090
+  },
+  "Intel Core i3 6100TE": {
+    "name": "Intel Core i3 6100TE",
+    "value": 3085
+  },
+  "Intel Core i5 4570TE": {
+    "name": "Intel Core i5 4570TE",
+    "value": 3084
+  },
+  "AMD PRO A12 8870E": {
+    "name": "AMD PRO A12 8870E",
+    "value": 3083
+  },
+  "AMD FX 4320": {
+    "name": "AMD FX 4320",
+    "value": 3073
+  },
+  "Intel Core i7 940": {
+    "name": "Intel Core i7 940",
+    "value": 3066
+  },
+  "Intel Core i7 870": {
+    "name": "Intel Core i7 870",
+    "value": 3064
+  },
+  "Intel Core i5 24050S": {
+    "name": "Intel Core i5 24050S",
+    "value": 3061
+  },
+  "Intel Pentium Silver J5005": {
+    "name": "Intel Pentium Silver J5005",
+    "value": 3039
+  },
+  "AMD Phenom II X6 1045T": {
+    "name": "AMD Phenom II X6 1045T",
+    "value": 3029
+  },
+  "AMD A8 7650K": {
+    "name": "AMD A8 7650K",
+    "value": 3013
+  },
+  "Intel Celeron J4125": {
+    "name": "Intel Celeron J4125",
+    "value": 3005
+  },
+  "AMD PRO A8 8670E": {
+    "name": "AMD PRO A8 8670E",
+    "value": 2989
+  },
+  "Intel Core i5 2405S": {
+    "name": "Intel Core i5 2405S",
+    "value": 2980
+  },
+  "AMD A8 6600K APU": {
+    "name": "AMD A8 6600K APU",
+    "value": 2977
+  },
+  "Intel Core i5 3470T": {
+    "name": "Intel Core i5 3470T",
+    "value": 2958
+  },
+  "AMD A10 9700E": {
+    "name": "AMD A10 9700E",
+    "value": 2947
+  },
+  "AMD Phenom II X6 1035T": {
+    "name": "AMD Phenom II X6 1035T",
+    "value": 2947
+  },
+  "Intel Pentium G4520": {
+    "name": "Intel Pentium G4520",
+    "value": 2945
+  },
+  "Intel Core i5 2500T": {
+    "name": "Intel Core i5 2500T",
+    "value": 2942
+  },
+  "AMD Athlon X4 760K": {
+    "name": "AMD Athlon X4 760K",
+    "value": 2941
+  },
+  "AMD A10 5800K APU": {
+    "name": "AMD A10 5800K APU",
+    "value": 2940
+  },
+  "AMD FX 4300": {
+    "name": "AMD FX 4300",
+    "value": 2940
+  },
+  "Intel Celeron G5925": {
+    "name": "Intel Celeron G5925",
+    "value": 2939
+  },
+  "Intel Core i7 880": {
+    "name": "Intel Core i7 880",
+    "value": 2920
+  },
+  "Intel Celeron J4105": {
+    "name": "Intel Celeron J4105",
+    "value": 2911
+  },
+  "Intel Pentium G4560T": {
+    "name": "Intel Pentium G4560T",
+    "value": 2909
+  },
+  "AMD Athlon X4 830": {
+    "name": "AMD Athlon X4 830",
+    "value": 2901
+  },
+  "AMD A8 6500B APU": {
+    "name": "AMD A8 6500B APU",
+    "value": 2898
+  },
+  "AMD A10 5800B APU": {
+    "name": "AMD A10 5800B APU",
+    "value": 2897
+  },
+  "AMD FX 670K": {
+    "name": "AMD FX 670K",
+    "value": 2897
+  },
+  "AMD PRO A10 9700E": {
+    "name": "AMD PRO A10 9700E",
+    "value": 2896
+  },
+  "Intel Core i7 860": {
+    "name": "Intel Core i7 860",
+    "value": 2883
+  },
+  "AMD PRO A10 8750B": {
+    "name": "AMD PRO A10 8750B",
+    "value": 2881
+  },
+  "Intel Core i3 4130T": {
+    "name": "Intel Core i3 4130T",
+    "value": 2881
+  },
+  "Intel Core i7 930": {
+    "name": "Intel Core i7 930",
+    "value": 2872
+  },
+  "Intel Celeron G5905": {
+    "name": "Intel Celeron G5905",
+    "value": 2868
+  },
+  "Intel Core i3 4150T": {
+    "name": "Intel Core i3 4150T",
+    "value": 2867
+  },
+  "AMD A10 6800B APU": {
+    "name": "AMD A10 6800B APU",
+    "value": 2824
+  },
+  "AMD A8 6500 APU": {
+    "name": "AMD A8 6500 APU",
+    "value": 2813
+  },
+  "AMD A8 5600K APU": {
+    "name": "AMD A8 5600K APU",
+    "value": 2799
+  },
+  "Intel Celeron G5900": {
+    "name": "Intel Celeron G5900",
+    "value": 2790
+  },
+  "Intel Core i7 870S": {
+    "name": "Intel Core i7 870S",
+    "value": 2786
+  },
+  "Intel Core 2 Extreme X9775": {
+    "name": "Intel Core 2 Extreme X9775",
+    "value": 2780
+  },
+  "AMD A8 PRO 7600B APU": {
+    "name": "AMD A8 PRO 7600B APU",
+    "value": 2776
+  },
+  "AMD A8 8650": {
+    "name": "AMD A8 8650",
+    "value": 2774
+  },
+  "Intel Core i7 920": {
+    "name": "Intel Core i7 920",
+    "value": 2738
+  },
+  "Intel Pentium G4500": {
+    "name": "Intel Pentium G4500",
+    "value": 2734
+  },
+  "AMD A10 5700 APU": {
+    "name": "AMD A10 5700 APU",
+    "value": 2731
+  },
+  "AMD FX 4130": {
+    "name": "AMD FX 4130",
+    "value": 2730
+  },
+  "Intel Core i7 860S": {
+    "name": "Intel Core i7 860S",
+    "value": 2725
+  },
+  "Intel Celeron G4950": {
+    "name": "Intel Celeron G4950",
+    "value": 2714
+  },
+  "AMD A8 5500B APU": {
+    "name": "AMD A8 5500B APU",
+    "value": 2707
+  },
+  "Intel Celeron J4115": {
+    "name": "Intel Celeron J4115",
+    "value": 2706
+  },
+  "AMD Athlon X4 740": {
+    "name": "AMD Athlon X4 740",
+    "value": 2655
+  },
+  "Intel Core i3 3250T": {
+    "name": "Intel Core i3 3250T",
+    "value": 2650
+  },
+  "Intel Celeron G5900T": {
+    "name": "Intel Celeron G5900T",
+    "value": 2648
+  },
+  "Intel Core i7 7Y75": {
+    "name": "Intel Core i7 7Y75",
+    "value": 2645
+  },
+  "AMD FirePro A320 APU": {
+    "name": "AMD FirePro A320 APU",
+    "value": 2634
+  },
+  "Intel Core 2 Extreme X9770": {
+    "name": "Intel Core 2 Extreme X9770",
+    "value": 2632
+  },
+  "Intel Pentium G4400": {
+    "name": "Intel Pentium G4400",
+    "value": 2598
+  },
+  "Intel Core i5 680": {
+    "name": "Intel Core i5 680",
+    "value": 2593
+  },
+  "Intel Core i5 760": {
+    "name": "Intel Core i5 760",
+    "value": 2589
+  },
+  "AMD FX 770K": {
+    "name": "AMD FX 770K",
+    "value": 2578
+  },
+  "AMD Phenom II X4 B65": {
+    "name": "AMD Phenom II X4 B65",
+    "value": 2576
+  },
+  "AMD A8 5500 APU": {
+    "name": "AMD A8 5500 APU",
+    "value": 2573
+  },
+  "Intel Celeron G4930": {
+    "name": "Intel Celeron G4930",
+    "value": 2571
+  },
+  "AMD FX 4100": {
+    "name": "AMD FX 4100",
+    "value": 2568
+  },
+  "AMD Athlon II X4 557": {
+    "name": "AMD Athlon II X4 557",
+    "value": 2567
+  },
+  "AMD Phenom II X4 965": {
+    "name": "AMD Phenom II X4 965",
+    "value": 2545
+  },
+  "Intel Pentium G4500T": {
+    "name": "Intel Pentium G4500T",
+    "value": 2518
+  },
+  "Intel Core i5 670": {
+    "name": "Intel Core i5 670",
+    "value": 2511
+  },
+  "Intel Core i3 4330TE": {
+    "name": "Intel Core i3 4330TE",
+    "value": 2500
+  },
+  "AMD Phenom II X4 B97": {
+    "name": "AMD Phenom II X4 B97",
+    "value": 2498
+  },
+  "Intel Core i5 750": {
+    "name": "Intel Core i5 750",
+    "value": 2496
+  },
+  "Intel Celeron G5920": {
+    "name": "Intel Celeron G5920",
+    "value": 2482
+  },
+  "Intel Core i3 3245": {
+    "name": "Intel Core i3 3245",
+    "value": 2480
+  },
+  "AMD Phenom II X4 B55": {
+    "name": "AMD Phenom II X4 B55",
+    "value": 2465
+  },
+  "Intel Core i5 661": {
+    "name": "Intel Core i5 661",
+    "value": 2462
+  },
+  "Intel Core 2 Extreme X9650": {
+    "name": "Intel Core 2 Extreme X9650",
+    "value": 2455
+  },
+  "Intel Celeron G4900": {
+    "name": "Intel Celeron G4900",
+    "value": 2448
+  },
+  "Intel Core i7 4610Y": {
+    "name": "Intel Core i7 4610Y",
+    "value": 2446
+  },
+  "AMD Phenom II X4 955": {
+    "name": "AMD Phenom II X4 955",
+    "value": 2431
+  },
+  "Intel Pentium G3470": {
+    "name": "Intel Pentium G3470",
+    "value": 2428
+  },
+  "Intel Core 2 Quad Q9650": {
+    "name": "Intel Core 2 Quad Q9650",
+    "value": 2409
+  },
+  "Intel Celeron G4920": {
+    "name": "Intel Celeron G4920",
+    "value": 2406
+  },
+  "Intel Celeron G4900T": {
+    "name": "Intel Celeron G4900T",
+    "value": 2403
+  },
+  "Intel Core i3 3250": {
+    "name": "Intel Core i3 3250",
+    "value": 2376
+  },
+  "Intel Celeron G3950": {
+    "name": "Intel Celeron G3950",
+    "value": 2369
+  },
+  "Intel Pentium J4205": {
+    "name": "Intel Pentium J4205",
+    "value": 2367
+  },
+  "Intel Core i5 2390T": {
+    "name": "Intel Core i5 2390T",
+    "value": 2364
+  },
+  "Intel Core i5 660": {
+    "name": "Intel Core i5 660",
+    "value": 2361
+  },
+  "AMD Phenom II X4 840": {
+    "name": "AMD Phenom II X4 840",
+    "value": 2350
+  },
+  "AMD Phenom II X4 B35": {
+    "name": "AMD Phenom II X4 B35",
+    "value": 2341
+  },
+  "AMD A8 3870K APU": {
+    "name": "AMD A8 3870K APU",
+    "value": 2336
+  },
+  "Intel Pentium G4400T": {
+    "name": "Intel Pentium G4400T",
+    "value": 2322
+  },
+  "AMD Phenom II X4 B95": {
+    "name": "AMD Phenom II X4 B95",
+    "value": 2313
+  },
+  "AMD A10 6700T APU": {
+    "name": "AMD A10 6700T APU",
+    "value": 2311
+  },
+  "Intel Celeron G3920": {
+    "name": "Intel Celeron G3920",
+    "value": 2310
+  },
+  "Intel Celeron G5905T": {
+    "name": "Intel Celeron G5905T",
+    "value": 2310
+  },
+  "AMD Phenom II X4 B70": {
+    "name": "AMD Phenom II X4 B70",
+    "value": 2303
+  },
+  "Intel Core 2 Quad Q9550": {
+    "name": "Intel Core 2 Quad Q9550",
+    "value": 2289
+  },
+  "Intel Core i3 3240": {
+    "name": "Intel Core i3 3240",
+    "value": 2282
+  },
+  "AMD Athlon II X4 645": {
+    "name": "AMD Athlon II X4 645",
+    "value": 2272
+  },
+  "Intel Celeron G3930": {
+    "name": "Intel Celeron G3930",
+    "value": 2268
+  },
+  "Intel Core 2 Extreme Q6850": {
+    "name": "Intel Core 2 Extreme Q6850",
+    "value": 2268
+  },
+  "Intel Core 2 Extreme Q6800": {
+    "name": "Intel Core 2 Extreme Q6800",
+    "value": 2267
+  },
+  "AMD Phenom II X4 945": {
+    "name": "AMD Phenom II X4 945",
+    "value": 2255
+  },
+  "AMD A8 3850 APU": {
+    "name": "AMD A8 3850 APU",
+    "value": 2244
+  },
+  "AMD Phenom II X4 B40": {
+    "name": "AMD Phenom II X4 B40",
+    "value": 2238
+  },
+  "AMD Phenom II X4 B50": {
+    "name": "AMD Phenom II X4 B50",
+    "value": 2237
+  },
+  "Intel Celeron J3455": {
+    "name": "Intel Celeron J3455",
+    "value": 2235
+  },
+  "AMD Phenom II X4 940": {
+    "name": "AMD Phenom II X4 940",
+    "value": 2228
+  },
+  "Intel Celeron G3930TE": {
+    "name": "Intel Celeron G3930TE",
+    "value": 2218
+  },
+  "Intel Core i5 650": {
+    "name": "Intel Core i5 650",
+    "value": 2218
+  },
+  "Intel Core i3 3225": {
+    "name": "Intel Core i3 3225",
+    "value": 2214
+  },
+  "Intel Celeron G4930T": {
+    "name": "Intel Celeron G4930T",
+    "value": 2209
+  },
+  "Intel Celeron G3900": {
+    "name": "Intel Celeron G3900",
+    "value": 2207
+  },
+  "Intel Core i3 3220": {
+    "name": "Intel Core i3 3220",
+    "value": 2201
+  },
+  "AMD Phenom II X4 960T": {
+    "name": "AMD Phenom II X4 960T",
+    "value": 2196
+  },
+  "Intel Core 2 Quad Q9500": {
+    "name": "Intel Core 2 Quad Q9500",
+    "value": 2187
+  },
+  "AMD Athlon II X4 638": {
+    "name": "AMD Athlon II X4 638",
+    "value": 2183
+  },
+  "AMD Phenom II X4 925": {
+    "name": "AMD Phenom II X4 925",
+    "value": 2173
+  },
+  "Intel Pentium G3460": {
+    "name": "Intel Pentium G3460",
+    "value": 2165
+  },
+  "AMD Athlon II X4 640": {
+    "name": "AMD Athlon II X4 640",
+    "value": 2164
+  },
+  "AMD Athlon II X4 641": {
+    "name": "AMD Athlon II X4 641",
+    "value": 2143
+  },
+  "Intel Celeron J3455E": {
+    "name": "Intel Celeron J3455E",
+    "value": 2139
+  },
+  "Intel Pentium G3440": {
+    "name": "Intel Pentium G3440",
+    "value": 2129
+  },
+  "Intel Pentium G3430": {
+    "name": "Intel Pentium G3430",
+    "value": 2125
+  },
+  "Intel Core i3 3210": {
+    "name": "Intel Core i3 3210",
+    "value": 2112
+  },
+  "Intel Celeron G3930T": {
+    "name": "Intel Celeron G3930T",
+    "value": 2109
+  },
+  "Intel Core 2 Quad Q9450": {
+    "name": "Intel Core 2 Quad Q9450",
+    "value": 2109
+  },
+  "AMD Phenom II X4 B25": {
+    "name": "AMD Phenom II X4 B25",
+    "value": 2108
+  },
+  "Intel Pentium G3440T": {
+    "name": "Intel Pentium G3440T",
+    "value": 2107
+  },
+  "AMD Phenom II X4 820": {
+    "name": "AMD Phenom II X4 820",
+    "value": 2105
+  },
+  "AMD Phenom II X4 B93": {
+    "name": "AMD Phenom II X4 B93",
+    "value": 2104
+  },
+  "AMD Athlon II X4 635": {
+    "name": "AMD Athlon II X4 635",
+    "value": 2101
+  },
+  "AMD A8 3820 APU": {
+    "name": "AMD A8 3820 APU",
+    "value": 2094
+  },
+  "Intel Core i3 2125": {
+    "name": "Intel Core i3 2125",
+    "value": 2093
+  },
+  "AMD Athlon II X4 630": {
+    "name": "AMD Athlon II X4 630",
+    "value": 2092
+  },
+  "Intel Pentium G2140": {
+    "name": "Intel Pentium G2140",
+    "value": 2092
+  },
+  "Intel Pentium G3450": {
+    "name": "Intel Pentium G3450",
+    "value": 2091
+  },
+  "Intel Pentium G3258": {
+    "name": "Intel Pentium G3258",
+    "value": 2089
+  },
+  "AMD Athlon II X4 631": {
+    "name": "AMD Athlon II X4 631",
+    "value": 2085
+  },
+  "Intel Celeron G3900T": {
+    "name": "Intel Celeron G3900T",
+    "value": 2085
+  },
+  "Intel Core i5 2415M": {
+    "name": "Intel Core i5 2415M",
+    "value": 2083
+  },
+  "Intel Core 2 Quad Q9400": {
+    "name": "Intel Core 2 Quad Q9400",
+    "value": 2062
+  },
+  "Intel Core 2 Quad Q6700": {
+    "name": "Intel Core 2 Quad Q6700",
+    "value": 2060
+  },
+  "AMD A6 3670 APU": {
+    "name": "AMD A6 3670 APU",
+    "value": 2055
+  },
+  "Intel Pentium G3260": {
+    "name": "Intel Pentium G3260",
+    "value": 2049
+  },
+  "AMD Phenom II X4 910e": {
+    "name": "AMD Phenom II X4 910e",
+    "value": 2044
+  },
+  "AMD A6 3650 APU": {
+    "name": "AMD A6 3650 APU",
+    "value": 2037
+  },
+  "Intel Core 2 Quad Q8400": {
+    "name": "Intel Core 2 Quad Q8400",
+    "value": 2033
+  },
+  "Intel Core i3 2102": {
+    "name": "Intel Core i3 2102",
+    "value": 2029
+  },
+  "Intel Core 2 Quad Q9505": {
+    "name": "Intel Core 2 Quad Q9505",
+    "value": 2020
+  },
+  "Intel Core i5 655K": {
+    "name": "Intel Core i5 655K",
+    "value": 2017
+  },
+  "Intel Pentium G3450T": {
+    "name": "Intel Pentium G3450T",
+    "value": 2016
+  },
+  "Intel Core 2 Extreme Q9200": {
+    "name": "Intel Core 2 Extreme Q9200",
+    "value": 2011
+  },
+  "Intel Core i3 3240T": {
+    "name": "Intel Core i3 3240T",
+    "value": 2000
+  },
+  "Intel Core i7 2655LE": {
+    "name": "Intel Core i7 2655LE",
+    "value": 1999
+  },
+  "Intel Pentium G3420": {
+    "name": "Intel Pentium G3420",
+    "value": 1990
+  },
+  "AMD Athlon X4 750": {
+    "name": "AMD Athlon X4 750",
+    "value": 1986
+  },
+  "Intel Core i3 2130": {
+    "name": "Intel Core i3 2130",
+    "value": 1986
+  },
+  "AMD Athlon II X4 615e": {
+    "name": "AMD Athlon II X4 615e",
+    "value": 1967
+  },
+  "AMD Athlon II X4 605e": {
+    "name": "AMD Athlon II X4 605e",
+    "value": 1961
+  },
+  "Intel Core 2 Quad Q9300": {
+    "name": "Intel Core 2 Quad Q9300",
+    "value": 1959
+  },
+  "Intel Core i3 3220T": {
+    "name": "Intel Core i3 3220T",
+    "value": 1949
+  },
+  "AMD A8 3800 APU": {
+    "name": "AMD A8 3800 APU",
+    "value": 1939
+  },
+  "AMD Athlon X4 730": {
+    "name": "AMD Athlon X4 730",
+    "value": 1936
+  },
+  "Intel Pentium G3240": {
+    "name": "Intel Pentium G3240",
+    "value": 1932
+  },
+  "AMD A6 7480": {
+    "name": "AMD A6 7480",
+    "value": 1931
+  },
+  "Intel Pentium G3250": {
+    "name": "Intel Pentium G3250",
+    "value": 1928
+  },
+  "Intel Celeron G1850": {
+    "name": "Intel Celeron G1850",
+    "value": 1926
+  },
+  "AMD Athlon II X3 460": {
+    "name": "AMD Athlon II X3 460",
+    "value": 1924
+  },
+  "AMD Athlon 5370 APU": {
+    "name": "AMD Athlon 5370 APU",
+    "value": 1923
+  },
+  "Intel Core i3 2120": {
+    "name": "Intel Core i3 2120",
+    "value": 1917
+  },
+  "AMD Athlon II X4 620": {
+    "name": "AMD Athlon II X4 620",
+    "value": 1914
+  },
+  "Intel Pentium G3420T": {
+    "name": "Intel Pentium G3420T",
+    "value": 1912
+  },
+  "Intel Core i5 3439Y": {
+    "name": "Intel Core i5 3439Y",
+    "value": 1907
+  },
+  "AMD Phenom II X4 920": {
+    "name": "AMD Phenom II X4 920",
+    "value": 1899
+  },
+  "AMD Phenom II X4 905e": {
+    "name": "AMD Phenom II X4 905e",
+    "value": 1895
+  },
+  "Intel Pentium G2130": {
+    "name": "Intel Pentium G2130",
+    "value": 1895
+  },
+  "AMD Phenom 9950": {
+    "name": "AMD Phenom 9950",
+    "value": 1892
+  },
+  "AMD PRO A6 8570": {
+    "name": "AMD PRO A6 8570",
+    "value": 1889
+  },
+  "AMD PRO A6 8550B": {
+    "name": "AMD PRO A6 8550B",
+    "value": 1885
+  },
+  "Intel Core i5 2515E": {
+    "name": "Intel Core i5 2515E",
+    "value": 1882
+  },
+  "AMD PRO A6 9500": {
+    "name": "AMD PRO A6 9500",
+    "value": 1875
+  },
+  "Intel Core i3 2105": {
+    "name": "Intel Core i3 2105",
+    "value": 1871
+  },
+  "Intel Pentium G2120": {
+    "name": "Intel Pentium G2120",
+    "value": 1870
+  },
+  "AMD Athlon II X4 610e": {
+    "name": "AMD Athlon II X4 610e",
+    "value": 1859
+  },
+  "AMD A6 9500": {
+    "name": "AMD A6 9500",
+    "value": 1856
+  },
+  "Intel Pentium G3220": {
+    "name": "Intel Pentium G3220",
+    "value": 1856
+  },
+  "AMD Phenom II X4 810": {
+    "name": "AMD Phenom II X4 810",
+    "value": 1849
+  },
+  "Intel Core 2 Extreme Q9300": {
+    "name": "Intel Core 2 Extreme Q9300",
+    "value": 1845
+  },
+  "AMD Phenom II X4 805": {
+    "name": "AMD Phenom II X4 805",
+    "value": 1844
+  },
+  "AMD A6 9500E": {
+    "name": "AMD A6 9500E",
+    "value": 1841
+  },
+  "AMD Athlon II X3 455": {
+    "name": "AMD Athlon II X3 455",
+    "value": 1832
+  },
+  "AMD A6 3620 APU": {
+    "name": "AMD A6 3620 APU",
+    "value": 1830
+  },
+  "AMD Phenom II X4 B15e": {
+    "name": "AMD Phenom II X4 B15e",
+    "value": 1825
+  },
+  "Intel Core i3 2330E": {
+    "name": "Intel Core i3 2330E",
+    "value": 1823
+  },
+  "Intel Core i5 4302Y": {
+    "name": "Intel Core i5 4302Y",
+    "value": 1817
+  },
+  "AMD A8 6500T APU": {
+    "name": "AMD A8 6500T APU",
+    "value": 1816
+  },
+  "Intel Core i3 2100": {
+    "name": "Intel Core i3 2100",
+    "value": 1816
+  },
+  "Intel Core 2 Quad Q8300": {
+    "name": "Intel Core 2 Quad Q8300",
+    "value": 1814
+  },
+  "AMD Phenom 9750": {
+    "name": "AMD Phenom 9750",
+    "value": 1804
+  },
+  "AMD A6 7470K": {
+    "name": "AMD A6 7470K",
+    "value": 1799
+  },
+  "AMD Athlon II X3 445": {
+    "name": "AMD Athlon II X3 445",
+    "value": 1799
+  },
+  "Intel Core 2 Quad Q8200": {
+    "name": "Intel Core 2 Quad Q8200",
+    "value": 1795
+  },
+  "AMD Athlon X4 530": {
+    "name": "AMD Athlon X4 530",
+    "value": 1786
+  },
+  "AMD Phenom X4 GP 9730": {
+    "name": "AMD Phenom X4 GP 9730",
+    "value": 1784
+  },
+  "AMD Phenom II X4 910": {
+    "name": "AMD Phenom II X4 910",
+    "value": 1776
+  },
+  "Intel Core 2 Quad Q6600": {
+    "name": "Intel Core 2 Quad Q6600",
+    "value": 1776
+  },
+  "Intel Celeron G1840": {
+    "name": "Intel Celeron G1840",
+    "value": 1764
+  },
+  "AMD Athlon II X3 450": {
+    "name": "AMD Athlon II X3 450",
+    "value": 1763
+  },
+  "Intel Pentium G3240T": {
+    "name": "Intel Pentium G3240T",
+    "value": 1755
+  },
+  "Intel Pentium G3260T": {
+    "name": "Intel Pentium G3260T",
+    "value": 1755
+  },
+  "AMD Athlon 5350 APU": {
+    "name": "AMD Athlon 5350 APU",
+    "value": 1737
+  },
+  "AMD Phenom 9600B": {
+    "name": "AMD Phenom 9600B",
+    "value": 1736
+  },
+  "Intel Pentium G3250T": {
+    "name": "Intel Pentium G3250T",
+    "value": 1726
+  },
+  "AMD Athlon II X4 600e": {
+    "name": "AMD Athlon II X4 600e",
+    "value": 1711
+  },
+  "Intel Pentium G2030": {
+    "name": "Intel Pentium G2030",
+    "value": 1711
+  },
+  "AMD Athlon II X3 440": {
+    "name": "AMD Athlon II X3 440",
+    "value": 1707
+  },
+  "Intel Celeron G1630": {
+    "name": "Intel Celeron G1630",
+    "value": 1707
+  },
+  "AMD Phenom 9650": {
+    "name": "AMD Phenom 9650",
+    "value": 1699
+  },
+  "Intel Core i3 560": {
+    "name": "Intel Core i3 560",
+    "value": 1696
+  },
+  "Intel Pentium G2100T": {
+    "name": "Intel Pentium G2100T",
+    "value": 1691
+  },
+  "Intel Celeron J4025": {
+    "name": "Intel Celeron J4025",
+    "value": 1688
+  },
+  "AMD Phenom 9850": {
+    "name": "AMD Phenom 9850",
+    "value": 1680
+  },
+  "AMD A9 9430": {
+    "name": "AMD A9 9430",
+    "value": 1676
+  },
+  "Intel Pentium G2020": {
+    "name": "Intel Pentium G2020",
+    "value": 1673
+  },
+  "AMD Athlon II X3 435": {
+    "name": "AMD Athlon II X3 435",
+    "value": 1670
+  },
+  "Intel Celeron G1820": {
+    "name": "Intel Celeron G1820",
+    "value": 1670
+  },
+  "AMD PRO A6 9500E": {
+    "name": "AMD PRO A6 9500E",
+    "value": 1662
+  },
+  "AMD A6 3600 APU": {
+    "name": "AMD A6 3600 APU",
+    "value": 1649
+  },
+  "AMD Phenom X4 GP 9600": {
+    "name": "AMD Phenom X4 GP 9600",
+    "value": 1649
+  },
+  "AMD A6 PRO 7400B": {
+    "name": "AMD A6 PRO 7400B",
+    "value": 1641
+  },
+  "AMD Phenom 9550": {
+    "name": "AMD Phenom 9550",
+    "value": 1640
+  },
+  "Intel Core i3 2100T": {
+    "name": "Intel Core i3 2100T",
+    "value": 1634
+  },
+  "Intel Pentium G3320TE": {
+    "name": "Intel Pentium G3320TE",
+    "value": 1623
+  },
+  "AMD Phenom 9600": {
+    "name": "AMD Phenom 9600",
+    "value": 1619
+  },
+  "Intel Core i5 E 520": {
+    "name": "Intel Core i5 E 520",
+    "value": 1619
+  },
+  "AMD A6 6400B APU": {
+    "name": "AMD A6 6400B APU",
+    "value": 1616
+  },
+  "Intel Celeron G1820T": {
+    "name": "Intel Celeron G1820T",
+    "value": 1614
+  },
+  "Intel Pentium G2120T": {
+    "name": "Intel Pentium G2120T",
+    "value": 1613
+  },
+  "AMD A6 8550": {
+    "name": "AMD A6 8550",
+    "value": 1604
+  },
+  "AMD A6 7400K APU": {
+    "name": "AMD A6 7400K APU",
+    "value": 1598
+  },
+  "Intel Core i3 550": {
+    "name": "Intel Core i3 550",
+    "value": 1588
+  },
+  "Intel Celeron J4005": {
+    "name": "Intel Celeron J4005",
+    "value": 1581
+  },
+  "AMD Athlon II X3 425": {
+    "name": "AMD Athlon II X3 425",
+    "value": 1576
+  },
+  "Intel Celeron G1840T": {
+    "name": "Intel Celeron G1840T",
+    "value": 1576
+  },
+  "AMD Phenom II X3 720": {
+    "name": "AMD Phenom II X3 720",
+    "value": 1574
+  },
+  "Intel Core i5 3339Y": {
+    "name": "Intel Core i5 3339Y",
+    "value": 1569
+  },
+  "Intel Pentium G3220T": {
+    "name": "Intel Pentium G3220T",
+    "value": 1564
+  },
+  "AMD A4 6320 APU": {
+    "name": "AMD A4 6320 APU",
+    "value": 1563
+  },
+  "Intel Celeron G1830": {
+    "name": "Intel Celeron G1830",
+    "value": 1560
+  },
+  "Intel Core i5 4200Y": {
+    "name": "Intel Core i5 4200Y",
+    "value": 1558
+  },
+  "AMD Athlon II X3 420e": {
+    "name": "AMD Athlon II X3 420e",
+    "value": 1557
+  },
+  "AMD Phenom II X3 710": {
+    "name": "AMD Phenom II X3 710",
+    "value": 1554
+  },
+  "AMD PRO A4 8350B": {
+    "name": "AMD PRO A4 8350B",
+    "value": 1552
+  },
+  "AMD A6 6420B APU": {
+    "name": "AMD A6 6420B APU",
+    "value": 1550
+  },
+  "Intel Pentium G2010": {
+    "name": "Intel Pentium G2010",
+    "value": 1541
+  },
+  "AMD A6 6420K APU": {
+    "name": "AMD A6 6420K APU",
+    "value": 1538
+  },
+  "AMD Phenom II X3 B73": {
+    "name": "AMD Phenom II X3 B73",
+    "value": 1538
+  },
+  "Intel Core i5 4210Y": {
+    "name": "Intel Core i5 4210Y",
+    "value": 1537
+  },
+  "Intel Pentium G2030T": {
+    "name": "Intel Pentium G2030T",
+    "value": 1535
+  },
+  "AMD Phenom 9750B": {
+    "name": "AMD Phenom 9750B",
+    "value": 1520
+  },
+  "Intel Core i3 540": {
+    "name": "Intel Core i3 540",
+    "value": 1514
+  },
+  "AMD Phenom 9500": {
+    "name": "AMD Phenom 9500",
+    "value": 1512
+  },
+  "Intel Celeron G1620T": {
+    "name": "Intel Celeron G1620T",
+    "value": 1507
+  },
+  "AMD Phenom II X4 900e": {
+    "name": "AMD Phenom II X4 900e",
+    "value": 1505
+  },
+  "AMD Phenom 9350e": {
+    "name": "AMD Phenom 9350e",
+    "value": 1501
+  },
+  "Intel Pentium G870": {
+    "name": "Intel Pentium G870",
+    "value": 1495
+  },
+  "AMD A4 7300 APU": {
+    "name": "AMD A4 7300 APU",
+    "value": 1492
+  },
+  "AMD PRO A6 8570E": {
+    "name": "AMD PRO A6 8570E",
+    "value": 1489
+  },
+  "Intel Core i3 2120T": {
+    "name": "Intel Core i3 2120T",
+    "value": 1486
+  },
+  "AMD Phenom II X3 B75": {
+    "name": "AMD Phenom II X3 B75",
+    "value": 1485
+  },
+  "AMD A4 PRO 7300B APU": {
+    "name": "AMD A4 PRO 7300B APU",
+    "value": 1481
+  },
+  "Intel Core i5 4300Y": {
+    "name": "Intel Core i5 4300Y",
+    "value": 1479
+  },
+  "Intel Celeron G1610": {
+    "name": "Intel Celeron G1610",
+    "value": 1475
+  },
+  "Intel Pentium J3710": {
+    "name": "Intel Pentium J3710",
+    "value": 1465
+  },
+  "AMD Phenom 9450e": {
+    "name": "AMD Phenom 9450e",
+    "value": 1455
+  },
+  "AMD A6 6400K APU": {
+    "name": "AMD A6 6400K APU",
+    "value": 1450
+  },
+  "Intel Celeron G1620": {
+    "name": "Intel Celeron G1620",
+    "value": 1450
+  },
+  "Intel Core i3 4020Y": {
+    "name": "Intel Core i3 4020Y",
+    "value": 1447
+  },
+  "Intel Core i3 530": {
+    "name": "Intel Core i3 530",
+    "value": 1447
+  },
+  "AMD Athlon II X3 415e": {
+    "name": "AMD Athlon II X3 415e",
+    "value": 1441
+  },
+  "AMD A4 6300 APU": {
+    "name": "AMD A4 6300 APU",
+    "value": 1431
+  },
+  "AMD Phenom II X3 700e": {
+    "name": "AMD Phenom II X3 700e",
+    "value": 1430
+  },
+  "AMD A6 5400B APU": {
+    "name": "AMD A6 5400B APU",
+    "value": 1428
+  },
+  "Intel Pentium G860": {
+    "name": "Intel Pentium G860",
+    "value": 1427
+  },
+  "AMD Phenom II X2 565": {
+    "name": "AMD Phenom II X2 565",
+    "value": 1405
+  },
+  "Intel Pentium G6951": {
+    "name": "Intel Pentium G6951",
+    "value": 1401
+  },
+  "AMD Phenom 8600B Triple Core": {
+    "name": "AMD Phenom 8600B Triple Core",
+    "value": 1390
+  },
+  "AMD Athlon 5150 APU": {
+    "name": "AMD Athlon 5150 APU",
+    "value": 1389
+  },
+  "AMD A6 3500 APU": {
+    "name": "AMD A6 3500 APU",
+    "value": 1382
+  },
+  "AMD Phenom II X2 570": {
+    "name": "AMD Phenom II X2 570",
+    "value": 1360
+  },
+  "Intel Pentium G645": {
+    "name": "Intel Pentium G645",
+    "value": 1353
+  },
+  "Intel Pentium G850": {
+    "name": "Intel Pentium G850",
+    "value": 1352
+  },
+  "Intel Core i3 4010Y": {
+    "name": "Intel Core i3 4010Y",
+    "value": 1350
+  },
+  "AMD A4 5300 APU": {
+    "name": "AMD A4 5300 APU",
+    "value": 1349
+  },
+  "AMD Phenom 8750 Triple Core": {
+    "name": "AMD Phenom 8750 Triple Core",
+    "value": 1343
+  },
+  "AMD Phenom 9150e": {
+    "name": "AMD Phenom 9150e",
+    "value": 1340
+  },
+  "Intel Core 2 Duo E8600": {
+    "name": "Intel Core 2 Duo E8600",
+    "value": 1338
+  },
+  "Intel Celeron G1610T": {
+    "name": "Intel Celeron G1610T",
+    "value": 1334
+  },
+  "AMD Athlon II X3 405e": {
+    "name": "AMD Athlon II X3 405e",
+    "value": 1331
+  },
+  "AMD A4 6300B APU": {
+    "name": "AMD A4 6300B APU",
+    "value": 1328
+  },
+  "Intel Core i5 750S": {
+    "name": "Intel Core i5 750S",
+    "value": 1326
+  },
+  "AMD Athlon II X3 400e": {
+    "name": "AMD Athlon II X3 400e",
+    "value": 1320
+  },
+  "Intel Core i5 4202Y": {
+    "name": "Intel Core i5 4202Y",
+    "value": 1309
+  },
+  "AMD Phenom II X2 555": {
+    "name": "AMD Phenom II X2 555",
+    "value": 1308
+  },
+  "Intel Pentium G2020T": {
+    "name": "Intel Pentium G2020T",
+    "value": 1308
+  },
+  "AMD Phenom X4 GP 9500": {
+    "name": "AMD Phenom X4 GP 9500",
+    "value": 1297
+  },
+  "Intel Pentium G6960": {
+    "name": "Intel Pentium G6960",
+    "value": 1293
+  },
+  "AMD Phenom 8850B Triple Core": {
+    "name": "AMD Phenom 8850B Triple Core",
+    "value": 1281
+  },
+  "AMD A6 9230": {
+    "name": "AMD A6 9230",
+    "value": 1279
+  },
+  "AMD Phenom 9100e": {
+    "name": "AMD Phenom 9100e",
+    "value": 1279
+  },
+  "AMD Sempron 240": {
+    "name": "AMD Sempron 240",
+    "value": 1278
+  },
+  "Intel Pentium G630": {
+    "name": "Intel Pentium G630",
+    "value": 1275
+  },
+  "AMD A6 5400K APU": {
+    "name": "AMD A6 5400K APU",
+    "value": 1268
+  },
+  "Intel Celeron G555": {
+    "name": "Intel Celeron G555",
+    "value": 1268
+  },
+  "Intel Pentium G640": {
+    "name": "Intel Pentium G640",
+    "value": 1259
+  },
+  "Intel Pentium J2900": {
+    "name": "Intel Pentium J2900",
+    "value": 1246
+  },
+  "Intel Core 2 Duo E8500": {
+    "name": "Intel Core 2 Duo E8500",
+    "value": 1239
+  },
+  "AMD Athlon II X2 270": {
+    "name": "AMD Athlon II X2 270",
+    "value": 1234
+  },
+  "AMD Athlon II X2 265": {
+    "name": "AMD Athlon II X2 265",
+    "value": 1233
+  },
+  "AMD Phenom X4 GP 9530": {
+    "name": "AMD Phenom X4 GP 9530",
+    "value": 1228
+  },
+  "AMD A4 4020 APU": {
+    "name": "AMD A4 4020 APU",
+    "value": 1225
+  },
+  "AMD Phenom II X3 705e": {
+    "name": "AMD Phenom II X3 705e",
+    "value": 1222
+  },
+  "AMD A4 5300B APU": {
+    "name": "AMD A4 5300B APU",
+    "value": 1220
+  },
+  "Intel Celeron J3160": {
+    "name": "Intel Celeron J3160",
+    "value": 1216
+  },
+  "AMD R 272F APU": {
+    "name": "AMD R 272F APU",
+    "value": 1215
+  },
+  "AMD Phenom 8450 Triple Core": {
+    "name": "AMD Phenom 8450 Triple Core",
+    "value": 1214
+  },
+  "Intel Pentium G620": {
+    "name": "Intel Pentium G620",
+    "value": 1213
+  },
+  "AMD Phenom 8600 Triple Core": {
+    "name": "AMD Phenom 8600 Triple Core",
+    "value": 1210
+  },
+  "AMD Phenom 8650 Triple Core": {
+    "name": "AMD Phenom 8650 Triple Core",
+    "value": 1205
+  },
+  "Intel Celeron G550": {
+    "name": "Intel Celeron G550",
+    "value": 1200
+  },
+  "Intel Celeron J3355": {
+    "name": "Intel Celeron J3355",
+    "value": 1195
+  },
+  "AMD Phenom 8750B Triple Core": {
+    "name": "AMD Phenom 8750B Triple Core",
+    "value": 1188
+  },
+  "AMD A4 4000 APU": {
+    "name": "AMD A4 4000 APU",
+    "value": 1184
+  },
+  "AMD Athlon II X2 B28": {
+    "name": "AMD Athlon II X2 B28",
+    "value": 1177
+  },
+  "Intel Pentium G840": {
+    "name": "Intel Pentium G840",
+    "value": 1175
+  },
+  "Intel Celeron G540T": {
+    "name": "Intel Celeron G540T",
+    "value": 1174
+  },
+  "AMD Phenom II X2 550": {
+    "name": "AMD Phenom II X2 550",
+    "value": 1169
+  },
+  "Intel Core 2 Duo E8400": {
+    "name": "Intel Core 2 Duo E8400",
+    "value": 1168
+  },
+  "Intel Pentium E6800": {
+    "name": "Intel Pentium E6800",
+    "value": 1166
+  },
+  "Intel Pentium G645T": {
+    "name": "Intel Pentium G645T",
+    "value": 1164
+  },
+  "Intel Core 2 Duo E7600": {
+    "name": "Intel Core 2 Duo E7600",
+    "value": 1161
+  },
+  "Intel Pentium E5800": {
+    "name": "Intel Pentium E5800",
+    "value": 1161
+  },
+  "AMD Athlon II X2 250e": {
+    "name": "AMD Athlon II X2 250e",
+    "value": 1155
+  },
+  "AMD Athlon II X2 255": {
+    "name": "AMD Athlon II X2 255",
+    "value": 1155
+  },
+  "AMD Sempron 3850 APU": {
+    "name": "AMD Sempron 3850 APU",
+    "value": 1153
+  },
+  "Intel Pentium E6700": {
+    "name": "Intel Pentium E6700",
+    "value": 1152
+  },
+  "AMD Phenom II X2 B55": {
+    "name": "AMD Phenom II X2 B55",
+    "value": 1151
+  },
+  "AMD Phenom 8850 Triple Core": {
+    "name": "AMD Phenom 8850 Triple Core",
+    "value": 1142
+  },
+  "Intel Core 2 Duo E6850": {
+    "name": "Intel Core 2 Duo E6850",
+    "value": 1140
+  },
+  "Intel Pentium G640T": {
+    "name": "Intel Pentium G640T",
+    "value": 1139
+  },
+  "Intel Celeron J1900": {
+    "name": "Intel Celeron J1900",
+    "value": 1135
+  },
+  "AMD Phenom 8450e Triple Core": {
+    "name": "AMD Phenom 8450e Triple Core",
+    "value": 1134
+  },
+  "AMD Phenom II X2 B53": {
+    "name": "AMD Phenom II X2 B53",
+    "value": 1126
+  },
+  "Intel Celeron G1820TE": {
+    "name": "Intel Celeron G1820TE",
+    "value": 1115
+  },
+  "AMD Phenom 8250 Triple Core": {
+    "name": "AMD Phenom 8250 Triple Core",
+    "value": 1114
+  },
+  "Intel Celeron G540": {
+    "name": "Intel Celeron G540",
+    "value": 1110
+  },
+  "AMD Phenom II X2 545": {
+    "name": "AMD Phenom II X2 545",
+    "value": 1107
+  },
+  "AMD Athlon II X2 210e": {
+    "name": "AMD Athlon II X2 210e",
+    "value": 1105
+  },
+  "AMD Athlon II X2 260": {
+    "name": "AMD Athlon II X2 260",
+    "value": 1102
+  },
+  "Intel Celeron G550T": {
+    "name": "Intel Celeron G550T",
+    "value": 1102
+  },
+  "AMD A4 3420 APU": {
+    "name": "AMD A4 3420 APU",
+    "value": 1099
+  },
+  "Intel Celeron G530": {
+    "name": "Intel Celeron G530",
+    "value": 1096
+  },
+  "Intel Core 2 Duo E7500": {
+    "name": "Intel Core 2 Duo E7500",
+    "value": 1087
+  },
+  "Intel Celeron G1101": {
+    "name": "Intel Celeron G1101",
+    "value": 1086
+  },
+  "AMD Phenom 8250e Triple Core": {
+    "name": "AMD Phenom 8250e Triple Core",
+    "value": 1084
+  },
+  "AMD Athlon II X2 250": {
+    "name": "AMD Athlon II X2 250",
+    "value": 1082
+  },
+  "AMD Phenom 8400 Triple Core": {
+    "name": "AMD Phenom 8400 Triple Core",
+    "value": 1079
+  },
+  "AMD Athlon II X2 245e": {
+    "name": "AMD Athlon II X2 245e",
+    "value": 1075
+  },
+  "AMD Athlon II X2 B24": {
+    "name": "AMD Athlon II X2 B24",
+    "value": 1073
+  },
+  "Intel Pentium E6500": {
+    "name": "Intel Pentium E6500",
+    "value": 1073
+  },
+  "Intel Pentium E6600": {
+    "name": "Intel Pentium E6600",
+    "value": 1072
+  },
+  "Intel Core 2 Duo E8200": {
+    "name": "Intel Core 2 Duo E8200",
+    "value": 1064
+  },
+  "Intel Pentium G6950": {
+    "name": "Intel Pentium G6950",
+    "value": 1061
+  },
+  "Intel Celeron G530T": {
+    "name": "Intel Celeron G530T",
+    "value": 1055
+  },
+  "AMD A4 3400 APU": {
+    "name": "AMD A4 3400 APU",
+    "value": 1051
+  },
+  "AMD Athlon II X2 235e": {
+    "name": "AMD Athlon II X2 235e",
+    "value": 1049
+  },
+  "Intel Atom E3845": {
+    "name": "Intel Atom E3845",
+    "value": 1038
+  },
+  "AMD Athlon 7850": {
+    "name": "AMD Athlon 7850",
+    "value": 1037
+  },
+  "AMD Athlon II X2 B22": {
+    "name": "AMD Athlon II X2 B22",
+    "value": 1036
+  },
+  "Intel Core 2 Duo E8300": {
+    "name": "Intel Core 2 Duo E8300",
+    "value": 1034
+  },
+  "Intel Pentium G630T": {
+    "name": "Intel Pentium G630T",
+    "value": 1029
+  },
+  "AMD A4 PRO 7350B": {
+    "name": "AMD A4 PRO 7350B",
+    "value": 1024
+  },
+  "AMD Athlon II X2 245": {
+    "name": "AMD Athlon II X2 245",
+    "value": 1022
+  },
+  "AMD Athlon II X2 220": {
+    "name": "AMD Athlon II X2 220",
+    "value": 1018
+  },
+  "Intel Pentium J2850": {
+    "name": "Intel Pentium J2850",
+    "value": 1016
+  },
+  "Intel Core 2 Duo E6700": {
+    "name": "Intel Core 2 Duo E6700",
+    "value": 1012
+  },
+  "Intel Pentium E5700": {
+    "name": "Intel Pentium E5700",
+    "value": 1012
+  },
+  "Intel Pentium E5500": {
+    "name": "Intel Pentium E5500",
+    "value": 1010
+  },
+  "Intel Core 2 Duo E6750": {
+    "name": "Intel Core 2 Duo E6750",
+    "value": 1008
+  },
+  "Intel Core i3 3229Y": {
+    "name": "Intel Core i3 3229Y",
+    "value": 1004
+  },
+  "Intel Pentium E6300": {
+    "name": "Intel Pentium E6300",
+    "value": 1000
+  },
+  "Intel Pentium Extreme Edition 965": {
+    "name": "Intel Pentium Extreme Edition 965",
+    "value": 987
+  },
+  "AMD Athlon II X2 240e": {
+    "name": "AMD Athlon II X2 240e",
+    "value": 980
+  },
+  "Intel Core 2 Duo E7400": {
+    "name": "Intel Core 2 Duo E7400",
+    "value": 979
+  },
+  "AMD Phenom X3 8550": {
+    "name": "AMD Phenom X3 8550",
+    "value": 976
+  },
+  "Intel Core 2 Duo E7300": {
+    "name": "Intel Core 2 Duo E7300",
+    "value": 976
+  },
+  "AMD Athlon 64 FX 74": {
+    "name": "AMD Athlon 64 FX 74",
+    "value": 972
+  },
+  "AMD A4 3300 APU": {
+    "name": "AMD A4 3300 APU",
+    "value": 971
+  },
+  "AMD Athlon 64 X2 6400+": {
+    "name": "AMD Athlon 64 X2 6400+",
+    "value": 967
+  },
+  "AMD E2 3200 APU": {
+    "name": "AMD E2 3200 APU",
+    "value": 967
+  },
+  "Intel Core 2 Duo E7200": {
+    "name": "Intel Core 2 Duo E7200",
+    "value": 962
+  },
+  "AMD Athlon II X2 215": {
+    "name": "AMD Athlon II X2 215",
+    "value": 957
+  },
+  "AMD Athlon 7750": {
+    "name": "AMD Athlon 7750",
+    "value": 950
+  },
+  "Intel Pentium E5400": {
+    "name": "Intel Pentium E5400",
+    "value": 944
+  },
+  "AMD Athlon 64 FX 62": {
+    "name": "AMD Athlon 64 FX 62",
+    "value": 943
+  },
+  "Intel Celeron J1850": {
+    "name": "Intel Celeron J1850",
+    "value": 942
+  },
+  "AMD Athlon II X2 240": {
+    "name": "AMD Athlon II X2 240",
+    "value": 935
+  },
+  "Intel Celeron E3500": {
+    "name": "Intel Celeron E3500",
+    "value": 935
+  },
+  "AMD Sempron X2 198": {
+    "name": "AMD Sempron X2 198",
+    "value": 930
+  },
+  "AMD E2 9030": {
+    "name": "AMD E2 9030",
+    "value": 922
+  },
+  "AMD Athlon 64 X2 6000+": {
+    "name": "AMD Athlon 64 X2 6000+",
+    "value": 913
+  },
+  "AMD Athlon 64 X2 5600+": {
+    "name": "AMD Athlon 64 X2 5600+",
+    "value": 911
+  },
+  "Intel Pentium E5300": {
+    "name": "Intel Pentium E5300",
+    "value": 901
+  },
+  "Intel Core 2 Duo E6600": {
+    "name": "Intel Core 2 Duo E6600",
+    "value": 899
+  },
+  "Intel Pentium G620T": {
+    "name": "Intel Pentium G620T",
+    "value": 896
+  },
+  "AMD Athlon 64 X2 5400+": {
+    "name": "AMD Athlon 64 X2 5400+",
+    "value": 876
+  },
+  "Athlon 64 5600+": {
+    "name": "Athlon 64 5600+",
+    "value": 875
+  },
+  "AMD Athlon 5200": {
+    "name": "AMD Athlon 5200",
+    "value": 869
+  },
+  "Intel Core 2 Duo E6550": {
+    "name": "Intel Core 2 Duo E6550",
+    "value": 868
+  },
+  "AMD Athlon II X2 4450e": {
+    "name": "AMD Athlon II X2 4450e",
+    "value": 867
+  },
+  "Intel Pentium E5200": {
+    "name": "Intel Pentium E5200",
+    "value": 867
+  },
+  "Intel Celeron E3200": {
+    "name": "Intel Celeron E3200",
+    "value": 860
+  },
+  "AMD Athlon 7550": {
+    "name": "AMD Athlon 7550",
+    "value": 859
+  },
+  "Athlon 64 5000+": {
+    "name": "Athlon 64 5000+",
+    "value": 850
+  },
+  "Intel Celeron E3300": {
+    "name": "Intel Celeron E3300",
+    "value": 837
+  },
+  "AMD Athlon 5000": {
+    "name": "AMD Athlon 5000",
+    "value": 835
+  },
+  "AMD Athlon 5000B": {
+    "name": "AMD Athlon 5000B",
+    "value": 835
+  },
+  "Intel Core 2 Duo E4600": {
+    "name": "Intel Core 2 Duo E4600",
+    "value": 827
+  },
+  "AMD Athlon 5400B": {
+    "name": "AMD Athlon 5400B",
+    "value": 826
+  },
+  "Intel Core 2 Extreme X6800": {
+    "name": "Intel Core 2 Extreme X6800",
+    "value": 823
+  },
+  "AMD Athlon 64 X2 5200+": {
+    "name": "AMD Athlon 64 X2 5200+",
+    "value": 812
+  },
+  "Intel Celeron E3400": {
+    "name": "Intel Celeron E3400",
+    "value": 810
+  },
+  "Intel Core 2 Duo E6540": {
+    "name": "Intel Core 2 Duo E6540",
+    "value": 808
+  },
+  "AMD Athlon64 X2 4600+": {
+    "name": "AMD Athlon64 X2 4600+",
+    "value": 803
+  },
+  "Intel Core 2 Duo E4700": {
+    "name": "Intel Core 2 Duo E4700",
+    "value": 803
+  },
+  "AMD Athlon 64 X2 5800+": {
+    "name": "AMD Athlon 64 X2 5800+",
+    "value": 797
+  },
+  "AMD Athlon 5200B": {
+    "name": "AMD Athlon 5200B",
+    "value": 796
+  },
+  "Intel Pentium E2220": {
+    "name": "Intel Pentium E2220",
+    "value": 793
+  },
+  "AMD Athlon 7450": {
+    "name": "AMD Athlon 7450",
+    "value": 789
+  },
+  "Intel Core 2 Duo E6400": {
+    "name": "Intel Core 2 Duo E6400",
+    "value": 772
+  },
+  "Athlon 4850e": {
+    "name": "Athlon 4850e",
+    "value": 769
+  },
+  "AMD Athlon 64 X2 5000+": {
+    "name": "AMD Athlon 64 X2 5000+",
+    "value": 760
+  },
+  "Intel Pentium E2200": {
+    "name": "Intel Pentium E2200",
+    "value": 752
+  },
+  "AMD Athlon 5050e": {
+    "name": "AMD Athlon 5050e",
+    "value": 748
+  },
+  "Intel Celeron 1047UE": {
+    "name": "Intel Celeron 1047UE",
+    "value": 748
+  },
+  "Intel Pentium D 960": {
+    "name": "Intel Pentium D 960",
+    "value": 743
+  },
+  "Intel Core 2 Duo E4500": {
+    "name": "Intel Core 2 Duo E4500",
+    "value": 739
+  },
+  "AMD Athlon 5600B": {
+    "name": "AMD Athlon 5600B",
+    "value": 737
+  },
+  "AMD Athlon 4850e": {
+    "name": "AMD Athlon 4850e",
+    "value": 735
+  },
+  "AMD Athlon 4850B": {
+    "name": "AMD Athlon 4850B",
+    "value": 727
+  },
+  "AMD Athlon 64 X2 4800+": {
+    "name": "AMD Athlon 64 X2 4800+",
+    "value": 722
+  },
+  "AMD Athlon 64 X2 4600+": {
+    "name": "AMD Athlon 64 X2 4600+",
+    "value": 716
+  },
+  "Intel Core 2 Duo E6420": {
+    "name": "Intel Core 2 Duo E6420",
+    "value": 714
+  },
+  "Intel Celeron E1600": {
+    "name": "Intel Celeron E1600",
+    "value": 712
+  },
+  "AMD Athlon 64 FX 60": {
+    "name": "AMD Athlon 64 FX 60",
+    "value": 709
+  },
+  "Intel Pentium E2210": {
+    "name": "Intel Pentium E2210",
+    "value": 702
+  },
+  "AMD Athlon 4450e": {
+    "name": "AMD Athlon 4450e",
+    "value": 698
+  },
+  "Intel Celeron G470": {
+    "name": "Intel Celeron G470",
+    "value": 691
+  },
+  "AMD Athlon X2 BE 2400": {
+    "name": "AMD Athlon X2 BE 2400",
+    "value": 688
+  },
+  "AMD Athlon 4450B": {
+    "name": "AMD Athlon 4450B",
+    "value": 684
+  },
+  "AMD Athlon 64 X2 4400+": {
+    "name": "AMD Athlon 64 X2 4400+",
+    "value": 683
+  },
+  "Athlon 4450e": {
+    "name": "Athlon 4450e",
+    "value": 681
+  },
+  "Intel Pentium D 950": {
+    "name": "Intel Pentium D 950",
+    "value": 679
+  },
+  "AMD Athlon II X2 270u": {
+    "name": "AMD Athlon II X2 270u",
+    "value": 675
+  },
+  "Intel Celeron E1400": {
+    "name": "Intel Celeron E1400",
+    "value": 671
+  },
+  "Intel Pentium E2180": {
+    "name": "Intel Pentium E2180",
+    "value": 671
+  },
+  "Athlon 4050e": {
+    "name": "Athlon 4050e",
+    "value": 670
+  },
+  "Intel Celeron J3060": {
+    "name": "Intel Celeron J3060",
+    "value": 668
+  },
+  "VIA QuadCore U4650": {
+    "name": "VIA QuadCore U4650",
+    "value": 666
+  },
+  "AMD Athlon II X2 260u": {
+    "name": "AMD Athlon II X2 260u",
+    "value": 663
+  },
+  "AMD Athlon 64 X2 4200+": {
+    "name": "AMD Athlon 64 X2 4200+",
+    "value": 662
+  },
+  "AMD Athlon 64 X2 4000+": {
+    "name": "AMD Athlon 64 X2 4000+",
+    "value": 661
+  },
+  "Intel Celeron E1500": {
+    "name": "Intel Celeron E1500",
+    "value": 649
+  },
+  "Intel Pentium E2160": {
+    "name": "Intel Pentium E2160",
+    "value": 640
+  },
+  "Intel Core 2 Duo E4400": {
+    "name": "Intel Core 2 Duo E4400",
+    "value": 632
+  },
+  "AMD Athlon 4050e": {
+    "name": "AMD Athlon 4050e",
+    "value": 616
+  },
+  "AMD Athlon 64 X2 3800+": {
+    "name": "AMD Athlon 64 X2 3800+",
+    "value": 611
+  },
+  "AMD Athlon II X2 250u": {
+    "name": "AMD Athlon II X2 250u",
+    "value": 604
+  },
+  "Intel Core 2 Duo E6320": {
+    "name": "Intel Core 2 Duo E6320",
+    "value": 597
+  },
+  "AMD Athlon 64 X2 3600+": {
+    "name": "AMD Athlon 64 X2 3600+",
+    "value": 596
+  },
+  "Intel Celeron J1750": {
+    "name": "Intel Celeron J1750",
+    "value": 595
+  },
+  "AMD Athlon 64 X2 BE 2300": {
+    "name": "AMD Athlon 64 X2 BE 2300",
+    "value": 594
+  },
+  "Intel Core 2 Duo E6300": {
+    "name": "Intel Core 2 Duo E6300",
+    "value": 592
+  },
+  "AMD Athlon X2 BE 2350": {
+    "name": "AMD Athlon X2 BE 2350",
+    "value": 591
+  },
+  "Intel Celeron J1800": {
+    "name": "Intel Celeron J1800",
+    "value": 583
+  },
+  "Intel Celeron 1019Y": {
+    "name": "Intel Celeron 1019Y",
+    "value": 576
+  },
+  "AMD Athlon 64 X2 BE 2350": {
+    "name": "AMD Athlon 64 X2 BE 2350",
+    "value": 573
+  },
+  "AMD Athlon X2 BE 2300": {
+    "name": "AMD Athlon X2 BE 2300",
+    "value": 570
+  },
+  "AMD Athlon 64 X2 3800+": {
+    "name": "AMD Athlon 64 X2 3800+",
+    "value": 566
+  },
+  "AMD Sempron 2650 APU": {
+    "name": "AMD Sempron 2650 APU",
+    "value": 561
+  },
+  "Intel Core 2 Duo E4300": {
+    "name": "Intel Core 2 Duo E4300",
+    "value": 561
+  },
+  "Intel Pentium E2140": {
+    "name": "Intel Pentium E2140",
+    "value": 549
+  },
+  "AMD Athlon 64 X2 3400+": {
+    "name": "AMD Athlon 64 X2 3400+",
+    "value": 531
+  },
+  "AMD Athlon 64 FX 57": {
+    "name": "AMD Athlon 64 FX 57",
+    "value": 517
+  },
+  "AMD Sempron 150": {
+    "name": "AMD Sempron 150",
+    "value": 498
+  },
+  "Intel Pentium D 940": {
+    "name": "Intel Pentium D 940",
+    "value": 498
+  },
+  "Intel Celeron G460": {
+    "name": "Intel Celeron G460",
+    "value": 494
+  },
+  "Intel Pentium D 830": {
+    "name": "Intel Pentium D 830",
+    "value": 494
+  },
+  "AMD Sempron 145": {
+    "name": "AMD Sempron 145",
+    "value": 493
+  },
+  "Intel Atom D2700": {
+    "name": "Intel Atom D2700",
+    "value": 492
+  },
+  "Intel Celeron E1200": {
+    "name": "Intel Celeron E1200",
+    "value": 492
+  },
+  "AMD Athlon 64 3100+": {
+    "name": "AMD Athlon 64 3100+",
+    "value": 484
+  },
+  "Intel Celeron G465": {
+    "name": "Intel Celeron G465",
+    "value": 480
+  },
+  "AMD Sempron 140": {
+    "name": "AMD Sempron 140",
+    "value": 471
+  },
+  "Intel Pentium Extreme Edition 955": {
+    "name": "Intel Pentium Extreme Edition 955",
+    "value": 469
+  },
+  "AMD Athlon 64 FX 59": {
+    "name": "AMD Athlon 64 FX 59",
+    "value": 465
+  },
+  "AMD E2 1800 APU": {
+    "name": "AMD E2 1800 APU",
+    "value": 444
+  },
+  "Intel Atom D2560": {
+    "name": "Intel Atom D2560",
+    "value": 433
+  },
+  "Intel Celeron 450": {
+    "name": "Intel Celeron 450",
+    "value": 433
+  },
+  "AMD Athlon LE 1640": {
+    "name": "AMD Athlon LE 1640",
+    "value": 430
+  },
+  "Intel Celeron G440": {
+    "name": "Intel Celeron G440",
+    "value": 426
+  },
+  "Intel Pentium D 915": {
+    "name": "Intel Pentium D 915",
+    "value": 423
+  },
+  "AMD Athlon LE 1620": {
+    "name": "AMD Athlon LE 1620",
+    "value": 421
+  },
+  "AMD E 350": {
+    "name": "AMD E 350",
+    "value": 420
+  },
+  "AMD Athlon LE 1660": {
+    "name": "AMD Athlon LE 1660",
+    "value": 416
+  },
+  "AMD Athlon 1640B": {
+    "name": "AMD Athlon 1640B",
+    "value": 412
+  },
+  "AMD Athlon LE 1600": {
+    "name": "AMD Athlon LE 1600",
+    "value": 412
+  },
+  "Intel Atom D2550": {
+    "name": "Intel Atom D2550",
+    "value": 408
+  },
+  "AMD Athlon 64 FX 55": {
+    "name": "AMD Athlon 64 FX 55",
+    "value": 404
+  },
+  "Intel Atom D510": {
+    "name": "Intel Atom D510",
+    "value": 404
+  },
+  "AMD E 350 APU": {
+    "name": "AMD E 350 APU",
+    "value": 401
+  },
+  "AMD Sempron LE 1300": {
+    "name": "AMD Sempron LE 1300",
+    "value": 400
+  },
+  "Intel Atom D525": {
+    "name": "Intel Atom D525",
+    "value": 399
+  },
+  "AMD Athlon 64 3700+": {
+    "name": "AMD Athlon 64 3700+",
+    "value": 394
+  },
+  "Intel Core Duo L2300": {
+    "name": "Intel Core Duo L2300",
+    "value": 387
+  },
+  "Intel Atom E3825": {
+    "name": "Intel Atom E3825",
+    "value": 385
+  },
+  "Intel Pentium 4 3.73GHz": {
+    "name": "Intel Pentium 4 3.73GHz",
+    "value": 385
+  },
+  "Intel Pentium D 805": {
+    "name": "Intel Pentium D 805",
+    "value": 374
+  },
+  "Intel Celeron D 360": {
+    "name": "Intel Celeron D 360",
+    "value": 372
+  },
+  "Intel Atom 330": {
+    "name": "Intel Atom 330",
+    "value": 371
+  },
+  "Intel Celeron 440": {
+    "name": "Intel Celeron 440",
+    "value": 368
+  },
+  "AMD Sempron 3600+": {
+    "name": "AMD Sempron 3600+",
+    "value": 364
+  },
+  "AMD Sempron 3800+": {
+    "name": "AMD Sempron 3800+",
+    "value": 360
+  },
+  "AMD Athlon II 160u": {
+    "name": "AMD Athlon II 160u",
+    "value": 358
+  },
+  "AMD Athlon II 170u": {
+    "name": "AMD Athlon II 170u",
+    "value": 357
+  },
+  "AMD Sempron LE 1200": {
+    "name": "AMD Sempron LE 1200",
+    "value": 349
+  },
+  "AMD Athlon 2850e": {
+    "name": "AMD Athlon 2850e",
+    "value": 333
+  },
+  "Intel Pentium 4 3.20GHz": {
+    "name": "Intel Pentium 4 3.20GHz",
+    "value": 326
+  },
+  "Intel Core Duo T2050": {
+    "name": "Intel Core Duo T2050",
+    "value": 320
+  },
+  "AMD Sempron 3300+": {
+    "name": "AMD Sempron 3300+",
+    "value": 315
+  },
+  "AMD Sempron LE 1100": {
+    "name": "AMD Sempron LE 1100",
+    "value": 315
+  },
+  "Intel Pentium 4 3.60GHz": {
+    "name": "Intel Pentium 4 3.60GHz",
+    "value": 315
+  },
+  "Intel Celeron D 420": {
+    "name": "Intel Celeron D 420",
+    "value": 313
+  },
+  "Intel Pentium 4 3.00GHz": {
+    "name": "Intel Pentium 4 3.00GHz",
+    "value": 313
+  },
+  "Intel Pentium 4 3.80GHz": {
+    "name": "Intel Pentium 4 3.80GHz",
+    "value": 313
+  },
+  "AMD Athlon 64 3000+": {
+    "name": "AMD Athlon 64 3000+",
+    "value": 303
+  },
+  "AMD Sempron LE 1250": {
+    "name": "AMD Sempron LE 1250",
+    "value": 301
+  },
+  "AMD Sempron 3100+": {
+    "name": "AMD Sempron 3100+",
+    "value": 298
+  },
+  "Intel Pentium 4 3.46GHz": {
+    "name": "Intel Pentium 4 3.46GHz",
+    "value": 295
+  },
+  "Intel Celeron 430": {
+    "name": "Intel Celeron 430",
+    "value": 293
+  },
+  "Intel Pentium 4 3.40GHz": {
+    "name": "Intel Pentium 4 3.40GHz",
+    "value": 293
+  },
+  "AMD Sempron 3400+": {
+    "name": "AMD Sempron 3400+",
+    "value": 292
+  },
+  "AMD Sempron 3200+": {
+    "name": "AMD Sempron 3200+",
+    "value": 288
+  },
+  "Intel Celeron D 352": {
+    "name": "Intel Celeron D 352",
+    "value": 283
+  },
+  "Intel Atom D2500": {
+    "name": "Intel Atom D2500",
+    "value": 275
+  },
+  "AMD Athlon 2650e": {
+    "name": "AMD Athlon 2650e",
+    "value": 274
+  },
+  "AMD Sempron 3000+": {
+    "name": "AMD Sempron 3000+",
+    "value": 268
+  },
+  "AMD Athlon XP 3000+": {
+    "name": "AMD Athlon XP 3000+",
+    "value": 262
+  },
+  "AMD Sempron 2600+": {
+    "name": "AMD Sempron 2600+",
+    "value": 253
+  },
+  "AMD Sempron LE 1150": {
+    "name": "AMD Sempron LE 1150",
+    "value": 251
+  },
+  "Intel Celeron D 356": {
+    "name": "Intel Celeron D 356",
+    "value": 251
+  },
+  "Intel Pentium 4 3.06GHz": {
+    "name": "Intel Pentium 4 3.06GHz",
+    "value": 249
+  },
+  "AMD Sempron 2800+": {
+    "name": "AMD Sempron 2800+",
+    "value": 243
+  },
+  "Intel Pentium 4 2.80GHz": {
+    "name": "Intel Pentium 4 2.80GHz",
+    "value": 236
+  },
+  "Intel Celeron 420": {
+    "name": "Intel Celeron 420",
+    "value": 235
+  },
+  "AMD Sempron 3500+": {
+    "name": "AMD Sempron 3500+",
+    "value": 232
+  },
+  "Intel Celeron D 347": {
+    "name": "Intel Celeron D 347",
+    "value": 232
+  },
+  "Mobile Intel Pentium 4 3.20GHz": {
+    "name": "Mobile Intel Pentium 4 3.20GHz",
+    "value": 232
+  },
+  "Intel Atom D425": {
+    "name": "Intel Atom D425",
+    "value": 222
+  },
+  "Mobile Intel Pentium 4 3.06GHz": {
+    "name": "Mobile Intel Pentium 4 3.06GHz",
+    "value": 220
+  },
+  "Intel Pentium 4 2.60GHz": {
+    "name": "Intel Pentium 4 2.60GHz",
+    "value": 215
+  },
+  "Intel Atom 230": {
+    "name": "Intel Atom 230",
+    "value": 210
+  },
+  "Intel Celeron 220": {
+    "name": "Intel Celeron 220",
+    "value": 209
+  },
+  "AMD Sempron 2300+": {
+    "name": "AMD Sempron 2300+",
+    "value": 207
+  },
+  "AMD Sempron 2500+": {
+    "name": "AMD Sempron 2500+",
+    "value": 207
+  },
+  "AMD Sempron 2400+": {
+    "name": "AMD Sempron 2400+",
+    "value": 205
+  },
+  "Mobile Intel Pentium 4 2.80GHz": {
+    "name": "Mobile Intel Pentium 4 2.80GHz",
+    "value": 205
+  },
+  "AMD Athlon XP 1800+": {
+    "name": "AMD Athlon XP 1800+",
+    "value": 195
+  },
+  "AMD Athlon XP 2000+": {
+    "name": "AMD Athlon XP 2000+",
+    "value": 195
+  },
+  "Intel Pentium III 1400S": {
+    "name": "Intel Pentium III 1400S",
+    "value": 194
+  },
+  "Intel Pentium III 1400": {
+    "name": "Intel Pentium III 1400",
+    "value": 193
+  },
+  "Intel Celeron 2.80GHz": {
+    "name": "Intel Celeron 2.80GHz",
+    "value": 190
+  },
+  "AMD Sempron 2200+": {
+    "name": "AMD Sempron 2200+",
+    "value": 184
+  },
+  "Mobile Intel Pentium 4 2.66GHz": {
+    "name": "Mobile Intel Pentium 4 2.66GHz",
+    "value": 182
+  },
+  "Intel Atom D410": {
+    "name": "Intel Atom D410",
+    "value": 177
+  },
+  "AMD Athlon XP 1700+": {
+    "name": "AMD Athlon XP 1700+",
+    "value": 176
+  },
+  "Intel Pentium 4 2.53GHz": {
+    "name": "Intel Pentium 4 2.53GHz",
+    "value": 162
+  },
+  "Intel Pentium 4 2.50GHz": {
+    "name": "Intel Pentium 4 2.50GHz",
+    "value": 160
+  },
+  "Intel Atom E3815": {
+    "name": "Intel Atom E3815",
+    "value": 159
+  },
+  "Intel Pentium 4 2.20GHz": {
+    "name": "Intel Pentium 4 2.20GHz",
+    "value": 157
+  },
+  "Intel Pentium 4 2.66GHz": {
+    "name": "Intel Pentium 4 2.66GHz",
+    "value": 157
+  },
+  "Intel Pentium 4 3.83GHz": {
+    "name": "Intel Pentium 4 3.83GHz",
+    "value": 154
+  },
+  "Intel Pentium 4 2.26GHz": {
+    "name": "Intel Pentium 4 2.26GHz",
+    "value": 151
+  },
+  "Intel Pentium 4 2.93GHz": {
+    "name": "Intel Pentium 4 2.93GHz",
+    "value": 150
+  },
+  "VIA C7 D 1800MHz": {
+    "name": "VIA C7 D 1800MHz",
+    "value": 150
+  },
+  "Intel Pentium 4 2.00GHz": {
+    "name": "Intel Pentium 4 2.00GHz",
+    "value": 133
+  },
+  "Intel Pentium 4 2.40GHz": {
+    "name": "Intel Pentium 4 2.40GHz",
+    "value": 131
+  },
+  "Intel Celeron 2.00GHz": {
+    "name": "Intel Celeron 2.00GHz",
+    "value": 125
+  },
+  "Intel Pentium 4 1.80GHz": {
+    "name": "Intel Pentium 4 1.80GHz",
+    "value": 115
+  },
+  "Intel Pentium 4 1800MHz": {
+    "name": "Intel Pentium 4 1800MHz",
+    "value": 114
+  },
+  "Intel Pentium 4 1.90GHz": {
+    "name": "Intel Pentium 4 1.90GHz",
+    "value": 104
+  },
+  "Intel Pentium 4 1700MHz": {
+    "name": "Intel Pentium 4 1700MHz",
+    "value": 100
+  },
+  "Intel Celeron 1.80GHz": {
+    "name": "Intel Celeron 1.80GHz",
+    "value": 96
+  },
+  "Intel Pentium 4 1.50GHz": {
+    "name": "Intel Pentium 4 1.50GHz",
+    "value": 86
+  },
+  "Intel Pentium 4 1.70GHz": {
+    "name": "Intel Pentium 4 1.70GHz",
+    "value": 86
+  },
+  "Intel Pentium 4 1.60GHz": {
+    "name": "Intel Pentium 4 1.60GHz",
+    "value": 84
+  },
+  "Intel Pentium 4 1400MHz": {
+    "name": "Intel Pentium 4 1400MHz",
+    "value": 83
+  },
+  "Intel Pentium 4 1500MHz": {
+    "name": "Intel Pentium 4 1500MHz",
+    "value": 81
+  },
+  "Intel Pentium 4 1300MHz": {
+    "name": "Intel Pentium 4 1300MHz",
+    "value": 77
+  }
+}

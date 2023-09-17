@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<!-- Table Style -->
+	<style>
+	table, th, td {
+		border:1px solid black;
+	}
+	</style>
+  <head>
+    <meta charset="utf-8">
+    <title>ReqCheck - Admin Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+	<link rel="icon" type="image/x-icon" href="favicon.ico?">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+    		<ul>
+    			<li><a href="index.html";>HOME</a></li>
+    			<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+    			<li><a href="faq.html">FAQ</a></li>
+				<li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+				<li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+				<!-- Search Bar -->
+				<li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+				<div id="search">
+					<input id="searchBar"; type="text"; placeholder="Search...">
+					<nav id="matchList"></nav>
+				</div>
+    		</ul>
+    	</div>
+    </nav>
+
+    <!-- Content -->
+    <div class="container">
+      <p>
+
+        <!-- Hardware Interactions -->
+        <nav id="leftSide">
+          <!-- Switch between build tabs -->
+            <div class="tab">
+				<select id="gameSelect"; onchange="openGame(value)";>
+					<option class="gameLinks"; value="Loading">Loading...</option>
+				</select>
+				<hr>
+            </div>
+					
+  					<!-- Users Tab content -->
+						<!-- Intel Core i5 12600K -->
+  						<div class="hardwareContent">
+  						<!-- Users -->
+  						<h3>Processors</h3>
+						<table style="width: 100%" id="processorsTable">
+							<!-- Table Headers -->
+							<tr>
+								<th>Name</th>
+								<th>Impressions</th>
+							</tr>
+  						</table>
+  					</div>
+        </nav>
+
+        <!-- Game Interaction -->
+        <nav id="rightSide">
+  					<!-- Users Tab content -->
+						<h3 id="impressions" style="text-align: left">Impressions:</h3>	
+						<hr>
+						<h3>Graphics</h3>
+						<table style="width: 100%" id="graphicsTable">
+							<!-- Table Headers -->
+							<tr>
+								<th>Name</th>
+								<th>Impressions</th>
+							</tr>
+  						</table>
+
+        </nav>
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="../index.html">HOME</a>
+    			<a href="hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="faq.html">FAQ</a>
+    </footer>
+
+  </body>
+
+  <script type="text/javascript" src="../js/dev.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+	<script type="text/javascript">load(null);</script>
+</html>

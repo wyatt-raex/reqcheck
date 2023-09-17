@@ -1,0 +1,117 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title id="titleName"></title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico?">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+    		<ul>
+    			<li><a href="index.html";>HOME</a></li>
+    			<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+    			<li><a href="faq.html">FAQ</a></li>
+          <li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+          <li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+          <!-- Search Bar -->
+          <li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+          <div id="search">
+            <input id="searchBar"; type="text"; placeholder="Search...">
+            <nav id="matchList"></nav>
+          </div>
+    		</ul>
+    	</div>
+    </nav>
+
+    <!-- Content -->
+
+    <div class="container">
+      <p>
+        <nav id="leftSide">
+          <nav id="builds">
+            <h2 id="gameName">NAME</h2>
+            <hr>
+            <img src="" alt="Game Image" width="100%" style="display: block; margin: auto"; id="gameImage">
+            <hr>
+            <p id="gameDescription"></p>
+          </nav>
+
+        </nav>
+
+        <nav id="rightSide">
+            <h2>Requirements</h2>
+            <hr>
+            <nav id="builds">
+              <form onclick="checkOS()">
+                <label for="build">Select a build:</label>
+                <br>
+                <select name="build" id="build">
+                </select>
+              </form>
+
+              <ul id="buildSpecs"></ul>
+            <button onclick="compareOption()">Compare</button>
+
+              <br>
+              
+              <nav id="buildResults">
+              <hr>
+              <!--Min Results-->
+              <nav>
+                <h3 id="minResults">Minimum Results</h3>
+                <ul>
+                  <li id="minResults0"><strong>Processor: Loading...</strong></li>
+                  <li id="minResults1"><strong>Memory: Loading...</strong></li>
+                  <li id="minResults2"><strong>Graphics: Loading...</strong></li>
+                  <li id="minResults3"><strong>Storage: Loading...</strong></li>
+                </ul>
+              </nav>
+              
+              <!--Rec Results-->
+              <nav id="recResults">
+                <br>
+                <h3>Recommended Results</h3>
+                <ul>
+                  <li id="recResults0"><strong>Processor: Loading...</strong></li>
+                  <li id="recResults1"><strong>Memory: Loading...</strong></li>
+                  <li id="recResults2"><strong>Graphics: Loading...</strong></li>
+                  <li id="recResults3"><strong>Storage: Loading...</strong></li>
+                </ul>
+              </nav>
+            </nav>
+
+            
+            
+            <hr>
+            <p id="gameRequirements"></p>
+                
+                
+            </nav>
+        </nav>
+
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="../index.html">HOME</a>
+    			<a href="../pages/hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="../pages/faq.html">FAQ</a>
+    </footer>
+  </body>
+
+  <script type="text/javascript" src="../js/game.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+</html>

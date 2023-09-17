@@ -1,0 +1,1826 @@
+{
+  "GeForce RTX 3080 Ti": {
+    "name": "GeForce RTX 3080 Ti",
+    "value": 26630
+  },
+  "GeForce RTX 3090": {
+    "name": "GeForce RTX 3090",
+    "value": 26326
+  },
+  "Radeon RX 6900 XT": {
+    "name": "Radeon RX 6900 XT",
+    "value": 25385
+  },
+  "GeForce RTX 3080": {
+    "name": "GeForce RTX 3080",
+    "value": 24776
+  },
+  "GeForce RTX 3070 Ti": {
+    "name": "GeForce RTX 3070 Ti",
+    "value": 23216
+  },
+  "Radeon RX 6800 XT": {
+    "name": "Radeon RX 6800 XT",
+    "value": 23207
+  },
+  "GeForce RTX 3070": {
+    "name": "GeForce RTX 3070",
+    "value": 22072
+  },
+  "GeForce RTX 2080 Ti": {
+    "name": "GeForce RTX 2080 Ti",
+    "value": 21782
+  },
+  "Radeon RX 6800": {
+    "name": "Radeon RX 6800",
+    "value": 20649
+  },
+  "GeForce RTX 3060 Ti": {
+    "name": "GeForce RTX 3060 Ti",
+    "value": 20149
+  },
+  "GeForce RTX 2080 SUPER": {
+    "name": "GeForce RTX 2080 SUPER",
+    "value": 19507
+  },
+  "Radeon RX 6700 XT": {
+    "name": "Radeon RX 6700 XT",
+    "value": 18924
+  },
+  "TITAN V": {
+    "name": "TITAN V",
+    "value": 18816
+  },
+  "GeForce RTX 2080": {
+    "name": "GeForce RTX 2080",
+    "value": 18713
+  },
+  "NVIDIA TITAN Xp": {
+    "name": "NVIDIA TITAN Xp",
+    "value": 18280
+  },
+  "GeForce GTX 1080 Ti": {
+    "name": "GeForce GTX 1080 Ti",
+    "value": 18248
+  },
+  "GeForce RTX 2070 SUPER": {
+    "name": "GeForce RTX 2070 SUPER",
+    "value": 18165
+  },
+  "GeForce RTX 3060": {
+    "name": "GeForce RTX 3060",
+    "value": 16895
+  },
+  "Radeon RX 5700 XT": {
+    "name": "Radeon RX 5700 XT",
+    "value": 16885
+  },
+  "Radeon VII": {
+    "name": "Radeon VII",
+    "value": 16745
+  },
+  "GeForce RTX 2060 SUPER": {
+    "name": "GeForce RTX 2060 SUPER",
+    "value": 16496
+  },
+  "GeForce RTX 2070": {
+    "name": "GeForce RTX 2070",
+    "value": 16080
+  },
+  "Radeon RX 6600 XT": {
+    "name": "Radeon RX 6600 XT",
+    "value": 15815
+  },
+  "GeForce GTX 1080": {
+    "name": "GeForce GTX 1080",
+    "value": 15243
+  },
+  "Radeon Pro W5700": {
+    "name": "Radeon Pro W5700",
+    "value": 15079
+  },
+  "Radeon RX 5700": {
+    "name": "Radeon RX 5700",
+    "value": 14720
+  },
+  "Radeon RX Vega 64": {
+    "name": "Radeon RX Vega 64",
+    "value": 14671
+  },
+  "GeForce GTX 1070 Ti": {
+    "name": "GeForce GTX 1070 Ti",
+    "value": 14474
+  },
+  "Radeon Pro WX 8200": {
+    "name": "Radeon Pro WX 8200",
+    "value": 14095
+  },
+  "GeForce RTX 2060": {
+    "name": "GeForce RTX 2060",
+    "value": 13936
+  },
+  "GeForce GTX 980 Ti": {
+    "name": "GeForce GTX 980 Ti",
+    "value": 13862
+  },
+  "Radeon RX 5600 XT": {
+    "name": "Radeon RX 5600 XT",
+    "value": 13839
+  },
+  "NVIDIA TITAN X": {
+    "name": "NVIDIA TITAN X",
+    "value": 13660
+  },
+  "Radeon RX Vega 56": {
+    "name": "Radeon RX Vega 56",
+    "value": 13643
+  },
+  "GeForce GTX 1070": {
+    "name": "GeForce GTX 1070",
+    "value": 13477
+  },
+  "Radeon Pro WX 9100": {
+    "name": "Radeon Pro WX 9100",
+    "value": 13139
+  },
+  "GeForce GTX TITAN X": {
+    "name": "GeForce GTX TITAN X",
+    "value": 13083
+  },
+  "GeForce GTX 1660 SUPER": {
+    "name": "GeForce GTX 1660 SUPER",
+    "value": 12726
+  },
+  "Radeon Pro 5700 XT": {
+    "name": "Radeon Pro 5700 XT",
+    "value": 12484
+  },
+  "Radeon Pro Vega 56": {
+    "name": "Radeon Pro Vega 56",
+    "value": 12386
+  },
+  "Radeon Pro 5700": {
+    "name": "Radeon Pro 5700",
+    "value": 11844
+  },
+  "GeForce GTX 1660 Ti": {
+    "name": "GeForce GTX 1660 Ti",
+    "value": 11796
+  },
+  "GeForce GTX 1660": {
+    "name": "GeForce GTX 1660",
+    "value": 11682
+  },
+  "GeForce GTX 980": {
+    "name": "GeForce GTX 980",
+    "value": 11240
+  },
+  "Radeon RX 5600": {
+    "name": "Radeon RX 5600",
+    "value": 11030
+  },
+  "GeForce GTX 1060": {
+    "name": "GeForce GTX 1060",
+    "value": 10075
+  },
+  "GeForce GTX 1650 SUPER": {
+    "name": "GeForce GTX 1650 SUPER",
+    "value": 10039
+  },
+  "GeForce GTX 1060 3GB": {
+    "name": "GeForce GTX 1060 3GB",
+    "value": 9728
+  },
+  "GeForce GTX 970": {
+    "name": "GeForce GTX 970",
+    "value": 9691
+  },
+  "Radeon RX 590": {
+    "name": "Radeon RX 590",
+    "value": 9673
+  },
+  "Radeon R9 390X": {
+    "name": "Radeon R9 390X",
+    "value": 8389
+  },
+  "GeForce GTX 780 Ti": {
+    "name": "GeForce GTX 780 Ti",
+    "value": 9296
+  },
+  "Radeon Pro W5500": {
+    "name": "Radeon Pro W5500",
+    "value": 9286
+  },
+  "GeForce GTX TITAN Z": {
+    "name": "GeForce GTX TITAN Z",
+    "value": 9189
+  },
+  "Radeon RX 5500 XT": {
+    "name": "Radeon RX 5500 XT",
+    "value": 9189
+  },
+  "GeForce GTX TITAN Black": {
+    "name": "GeForce GTX TITAN Black",
+    "value": 9096
+  },
+  "Radeon R9 390": {
+    "name": "Radeon R9 390",
+    "value": 8150
+  },
+  "Radeon RX 580": {
+    "name": "Radeon RX 580",
+    "value": 8908
+  },
+  "Radeon RX 5500": {
+    "name": "Radeon RX 5500",
+    "value": 8772
+  },
+  "GeForce GTX 1060 5GB": {
+    "name": "GeForce GTX 1060 5GB",
+    "value": 8686
+  },
+  "Radeon RX 480": {
+    "name": "Radeon RX 480",
+    "value": 8674
+  },
+  "Radeon RX590 GME": {
+    "name": "Radeon RX590 GME",
+    "value": 8628
+  },
+  "Radeon R9 295X2": {
+    "name": "Radeon R9 295X2",
+    "value": 8619
+  },
+  "GeForce GTX Titan": {
+    "name": "GeForce GTX Titan",
+    "value": 8557
+  },
+  "Radeon R9 290X": {
+    "name": "Radeon R9 290X",
+    "value": 8389
+  },
+  "Radeon Pro Duo": {
+    "name": "Radeon Pro Duo",
+    "value": 8324
+  },
+  "Radeon R9 290": {
+    "name": "Radeon R9 290",
+    "value": 8150
+  },
+  "Radeon RX 570": {
+    "name": "Radeon RX 570",
+    "value": 8069
+  },
+  "Radeon RX 470": {
+    "name": "Radeon RX 470",
+    "value": 8069
+  },
+  "GeForce GTX 780": {
+    "name": "GeForce GTX 780",
+    "value": 8026
+  },
+  "GeForce GTX 1650": {
+    "name": "GeForce GTX 1650",
+    "value": 7798
+  },
+  "Radeon RX 580X": {
+    "name": "Radeon RX 580X",
+    "value": 7798
+  },
+  "Radeon RX 5300": {
+    "name": "Radeon RX 5300",
+    "value": 7611
+  },
+  "Radeon Pro 580X": {
+    "name": "Radeon Pro 580X",
+    "value": 7540
+  },
+  "GeForce GTX 1050 Ti": {
+    "name": "GeForce GTX 1050 Ti",
+    "value": 6314
+  },
+  "Radeon R9 280X": {
+    "name": "Radeon R9 280X",
+    "value": 5248
+  },
+  "Radeon R9 380": {
+    "name": "Radeon R9 380",
+    "value": 5550
+  },
+  "Radeon R9 380X": {
+    "name": "Radeon R9 380X",
+    "value": 6183
+  },
+  "GeForce GTX 960": {
+    "name": "GeForce GTX 960",
+    "value": 6045
+  },
+  "GeForce GTX 770": {
+    "name": "GeForce GTX 770",
+    "value": 5885
+  },
+  "Radeon R9 280": {
+    "name": "Radeon R9 280",
+    "value": 5660
+  },
+  "GeForce GTX 690": {
+    "name": "GeForce GTX 690",
+    "value": 5654
+  },
+  "Radeon HD 7990": {
+    "name": "Radeon HD 7990",
+    "value": 5566
+  },
+  "Radeon R9 285": {
+    "name": "Radeon R9 285",
+    "value": null
+  },
+  "GeForce GTX 680": {
+    "name": "GeForce GTX 680",
+    "value": 5535
+  },
+  "GeForce GTX 950": {
+    "name": "GeForce GTX 950",
+    "value": 5396
+  },
+  "GeForce GTX 670": {
+    "name": "GeForce GTX 670",
+    "value": 5316
+  },
+  "Radeon HD 7970": {
+    "name": "Radeon HD 7970",
+    "value": 5248
+  },
+  "Radeon HD 8990": {
+    "name": "Radeon HD 8990",
+    "value": 5214
+  },
+  "GeForce GTX 760 Ti": {
+    "name": "GeForce GTX 760 Ti",
+    "value": 5189
+  },
+  "GeForce GTX 1050": {
+    "name": "GeForce GTX 1050",
+    "value": 5090
+  },
+  "Radeon R9 270X": {
+    "name": "Radeon R9 270X",
+    "value": 4917
+  },
+  "GeForce GTX 760": {
+    "name": "GeForce GTX 760",
+    "value": 4777
+  },
+  "Radeon HD 7950": {
+    "name": "Radeon HD 7950",
+    "value": 4765
+  },
+  "Radeon HD R9 280": {
+    "name": "Radeon HD R9 280",
+    "value": 4765
+  },
+  "Radeon R9 370": {
+    "name": "Radeon R9 370",
+    "value": 4722
+  },
+  "Radeon HD 7870": {
+    "name": "Radeon HD 7870",
+    "value": 4668
+  },
+  "GeForce GTX 580": {
+    "name": "GeForce GTX 580",
+    "value": 4511
+  },
+  "Radeon R7 370": {
+    "name": "Radeon R7 370",
+    "value": 4474
+  },
+  "Radeon HD 7870 XT": {
+    "name": "Radeon HD 7870 XT",
+    "value": 4470
+  },
+  "GeForce GTX 660 Ti": {
+    "name": "GeForce GTX 660 Ti",
+    "value": 4372
+  },
+  "Radeon R9 270": {
+    "name": "Radeon R9 270",
+    "value": 4260
+  },
+  "Radeon R9 R7 370": {
+    "name": "Radeon R9 R7 370",
+    "value": 4260
+  },
+  "GeForce GTX 480": {
+    "name": "GeForce GTX 480",
+    "value": 4112
+  },
+  "Radeon RX 460": {
+    "name": "Radeon RX 460",
+    "value": 4108
+  },
+  "GeForce GTX 660": {
+    "name": "GeForce GTX 660",
+    "value": 4004
+  },
+  "GeForce GTX 750 Ti": {
+    "name": "GeForce GTX 750 Ti",
+    "value": 3920
+  },
+  "GeForce GTX 570": {
+    "name": "GeForce GTX 570",
+    "value": 3898
+  },
+  "Radeon HD 7850": {
+    "name": "Radeon HD 7850",
+    "value": 3824
+  },
+  "Radeon Pro WX 4100": {
+    "name": "Radeon Pro WX 4100",
+    "value": 3766
+  },
+  "Radeon RX 560": {
+    "name": "Radeon RX 560",
+    "value": 3592
+  },
+  "GeForce GTX 750": {
+    "name": "GeForce GTX 750",
+    "value": 3399
+  },
+  "GeForce GTX 590": {
+    "name": "GeForce GTX 590",
+    "value": 3308
+  },
+  "Radeon RX 560X": {
+    "name": "Radeon RX 560X",
+    "value": 3181
+  },
+  "GeForce GTX 470": {
+    "name": "GeForce GTX 470",
+    "value": 3151
+  },
+  "Radeon R7 260X": {
+    "name": "Radeon R7 260X",
+    "value": 3146
+  },
+  "Radeon HD 7790": {
+    "name": "Radeon HD 7790",
+    "value": 3090
+  },
+  "GeForce GTX 560 Ti": {
+    "name": "GeForce GTX 560 Ti",
+    "value": 3056
+  },
+  "Radeon R9 360": {
+    "name": "Radeon R9 360",
+    "value": 3032
+  },
+  "Radeon R7 360": {
+    "name": "Radeon R7 360",
+    "value": 3031
+  },
+  "Radeon HD 6990": {
+    "name": "Radeon HD 6990",
+    "value": 3013
+  },
+  "Radeon R7 260": {
+    "name": "Radeon R7 260",
+    "value": 2892
+  },
+  "Radeon HD 6970": {
+    "name": "Radeon HD 6970",
+    "value": 2872
+  },
+  "Radeon RX 550": {
+    "name": "Radeon RX 550",
+    "value": 2715
+  },
+  "GeForce GTX 560": {
+    "name": "GeForce GTX 560",
+    "value": 2706
+  },
+  "GeForce GTX 465": {
+    "name": "GeForce GTX 465",
+    "value": 2681
+  },
+  "Radeon HD 6950": {
+    "name": "Radeon HD 6950",
+    "value": 2641
+  },
+  "GeForce GT 1030": {
+    "name": "GeForce GT 1030",
+    "value": 2548
+  },
+  "GeForce GTX 650 Ti": {
+    "name": "GeForce GTX 650 Ti",
+    "value": 2527
+  },
+  "Radeon RX 550X": {
+    "name": "Radeon RX 550X",
+    "value": 2414
+  },
+  "GeForce GTX 460": {
+    "name": "GeForce GTX 460",
+    "value": 2284
+  },
+  "Radeon R7 250X": {
+    "name": "Radeon R7 250X",
+    "value": 2269
+  },
+  "Radeon HD 8950": {
+    "name": "Radeon HD 8950",
+    "value": 2267
+  },
+  "Radeon HD 5870": {
+    "name": "Radeon HD 5870",
+    "value": 2266
+  },
+  "Radeon HD 5970": {
+    "name": "Radeon HD 5970",
+    "value": 2249
+  },
+  "Radeon HD 6870": {
+    "name": "Radeon HD 6870",
+    "value": 2221
+  },
+  "Radeon HD 7770": {
+    "name": "Radeon HD 7770",
+    "value": 2199
+  },
+  "GeForce GTX 745": {
+    "name": "GeForce GTX 745",
+    "value": 2174
+  },
+  "Radeon RX Vega 11": {
+    "name": "Radeon RX Vega 11",
+    "value": 2132
+  },
+  "GeForce GTX 560 SE": {
+    "name": "GeForce GTX 560 SE",
+    "value": 2087
+  },
+  "Radeon R9 350": {
+    "name": "Radeon R9 350",
+    "value": 2007
+  },
+  "GeForce GTX 460 v2": {
+    "name": "GeForce GTX 460 v2",
+    "value": 2005
+  },
+  "Radeon HD 6850": {
+    "name": "Radeon HD 6850",
+    "value": 1979
+  },
+  "Radeon R7 450": {
+    "name": "Radeon R7 450",
+    "value": 1974
+  },
+  "GeForce GTX 460 SE": {
+    "name": "GeForce GTX 460 SE",
+    "value": 1969
+  },
+  "Radeon HD 5850": {
+    "name": "Radeon HD 5850",
+    "value": 1967
+  },
+  "Radeon RX 570X": {
+    "name": "Radeon RX 570X",
+    "value": 1923
+  },
+  "GeForce GTX 645": {
+    "name": "GeForce GTX 645",
+    "value": 1855
+  },
+  "Radeon RX 540": {
+    "name": "Radeon RX 540",
+    "value": 1820
+  },
+  "GeForce GTX 555": {
+    "name": "GeForce GTX 555",
+    "value": 1807
+  },
+  "GeForce GTX 650": {
+    "name": "GeForce GTX 650",
+    "value": 1768
+  },
+  "Radeon HD 5830": {
+    "name": "Radeon HD 5830",
+    "value": 1745
+  },
+  "Radeon HD 7750": {
+    "name": "Radeon HD 7750",
+    "value": 1695
+  },
+  "Radeon HD 6790": {
+    "name": "Radeon HD 6790",
+    "value": 1613
+  },
+  "Radeon Vega 8": {
+    "name": "Radeon Vega 8",
+    "value": 1594
+  },
+  "GeForce GTX 550 Ti": {
+    "name": "GeForce GTX 550 Ti",
+    "value": 1559
+  },
+  "GeForce GTX 285": {
+    "name": "GeForce GTX 285",
+    "value": 1550
+  },
+  "Radeon HD 4890": {
+    "name": "Radeon HD 4890",
+    "value": 1533
+  },
+  "GeForce GT 740": {
+    "name": "GeForce GT 740",
+    "value": 1526
+  },
+  "Radeon R9 255": {
+    "name": "Radeon R9 255",
+    "value": 1485
+  },
+  "Radeon RX 640": {
+    "name": "Radeon RX 640",
+    "value": 1470
+  },
+  "GeForce GTX 275": {
+    "name": "GeForce GTX 275",
+    "value": 1401
+  },
+  "Radeon HD 4870": {
+    "name": "Radeon HD 4870",
+    "value": 1377
+  },
+  "Radeon HD 5770": {
+    "name": "Radeon HD 5770",
+    "value": 1354
+  },
+  "GeForce GTS 450": {
+    "name": "GeForce GTS 450",
+    "value": 1315
+  },
+  "Radeon HD 4870 X2": {
+    "name": "Radeon HD 4870 X2",
+    "value": 1309
+  },
+  "Radeon HD 6770": {
+    "name": "Radeon HD 6770",
+    "value": 1232
+  },
+  "GeForce GTX 260": {
+    "name": "GeForce GTX 260",
+    "value": 1222
+  },
+  "Radeon HD 7730": {
+    "name": "Radeon HD 7730",
+    "value": 1217
+  },
+  "GeForce GT 640": {
+    "name": "GeForce GT 640",
+    "value": 1183
+  },
+  "GeForce GTX 280": {
+    "name": "GeForce GTX 280",
+    "value": 1181
+  },
+  "Radeon HD 5750": {
+    "name": "Radeon HD 5750",
+    "value": 1156
+  },
+  "Radeon R7 250": {
+    "name": "Radeon R7 250",
+    "value": 1154
+  },
+  "GeForce GTX 295": {
+    "name": "GeForce GTX 295",
+    "value": 1148
+  },
+  "Radeon HD 4850 X2": {
+    "name": "Radeon HD 4850 X2",
+    "value": 1132
+  },
+  "Intel UHD Graphics 620": {
+    "name": "Intel UHD Graphics 620",
+    "value": 1037
+  },
+  "Radeon HD 6750": {
+    "name": "Radeon HD 6750",
+    "value": 998
+  },
+  "Radeon HD 8570": {
+    "name": "Radeon HD 8570",
+    "value": 989
+  },
+  "Radeon R7 A10-7850K": {
+    "name": "Radeon R7 A10-7850K",
+    "value": 978
+  },
+  "Radeon HD 4850": {
+    "name": "Radeon HD 4850",
+    "value": 952
+  },
+  "Radeon HD 4770": {
+    "name": "Radeon HD 4770",
+    "value": 906
+  },
+  "Radeon R7 240": {
+    "name": "Radeon R7 240",
+    "value": 865
+  },
+  "Radeon HD 4830": {
+    "name": "Radeon HD 4830",
+    "value": 860
+  },
+  "Radeon HD 3850 X2": {
+    "name": "Radeon HD 3850 X2",
+    "value": 822
+  },
+  "Radeon HD 7670": {
+    "name": "Radeon HD 7670",
+    "value": 813
+  },
+  "GeForce GT 730": {
+    "name": "GeForce GT 730",
+    "value": 810
+  },
+  "GeForce 9800 GX2": {
+    "name": "GeForce 9800 GX2",
+    "value": 798
+  },
+  "Radeon HD 5670": {
+    "name": "Radeon HD 5670",
+    "value": 780
+  },
+  "GeForce GT 340": {
+    "name": "GeForce GT 340",
+    "value": 774
+  },
+  "GeForce 9800 GTX": {
+    "name": "GeForce 9800 GTX",
+    "value": 769
+  },
+  "Radeon HD 4810": {
+    "name": "Radeon HD 4810",
+    "value": 769
+  },
+  "GeForce GT 440": {
+    "name": "GeForce GT 440",
+    "value": 765
+  },
+  "Radeon HD 6670": {
+    "name": "Radeon HD 6670",
+    "value": 745
+  },
+  "Radeon HD 3870 X2": {
+    "name": "Radeon HD 3870 X2",
+    "value": 709
+  },
+  "GeForce GT 630": {
+    "name": "GeForce GT 630",
+    "value": 683
+  },
+  "GeForce GT 530": {
+    "name": "GeForce GT 530",
+    "value": 676
+  },
+  "Radeon HD 2900 XT": {
+    "name": "Radeon HD 2900 XT",
+    "value": 660
+  },
+  "GeForce GT 140": {
+    "name": "GeForce GT 140",
+    "value": 658
+  },
+  "Radeon R6": {
+    "name": "Radeon R6",
+    "value": 650
+  },
+  "GeForce 8800 Ultra": {
+    "name": "GeForce 8800 Ultra",
+    "value": 639
+  },
+  "GeForce GT 710": {
+    "name": "GeForce GT 710",
+    "value": 637
+  },
+  "Radeon HD 2900 PRO": {
+    "name": "Radeon HD 2900 PRO",
+    "value": 628
+  },
+  "Intel HD 4600": {
+    "name": "Intel HD 4600",
+    "value": 625
+  },
+  "GeForce GTS 240": {
+    "name": "GeForce GTS 240",
+    "value": 622
+  },
+  "GeForce GTS 250": {
+    "name": "GeForce GTS 250",
+    "value": 620
+  },
+  "Radeon HD 7570": {
+    "name": "Radeon HD 7570",
+    "value": 620
+  },
+  "GeForce GT 720": {
+    "name": "GeForce GT 720",
+    "value": 608
+  },
+  "GeForce 8800 GTX": {
+    "name": "GeForce 8800 GTX",
+    "value": 597
+  },
+  "GeForce GT 430": {
+    "name": "GeForce GT 430",
+    "value": 597
+  },
+  "GeForce 8800 GTS 512": {
+    "name": "GeForce 8800 GTS 512",
+    "value": 591
+  },
+  "Radeon HD 3870": {
+    "name": "Radeon HD 3870",
+    "value": 576
+  },
+  "GeForce GT 240": {
+    "name": "GeForce GT 240",
+    "value": 544
+  },
+  "GeForce 9800 GTX+": {
+    "name": "GeForce 9800 GTX+",
+    "value": 538
+  },
+  "GeForce 8800 GT": {
+    "name": "GeForce 8800 GT",
+    "value": 518
+  },
+  "Radeon R5 240": {
+    "name": "Radeon R5 240",
+    "value": 518
+  },
+  "Radeon R5 330": {
+    "name": "Radeon R5 330",
+    "value": 513
+  },
+  "GeForce 9600 GT": {
+    "name": "GeForce 9600 GT",
+    "value": 505
+  },
+  "Radeon HD 7660D": {
+    "name": "Radeon HD 7660D",
+    "value": 505
+  },
+  "Radeon HD 6570": {
+    "name": "Radeon HD 6570",
+    "value": 492
+  },
+  "GeForce 9800 GT": {
+    "name": "GeForce 9800 GT",
+    "value": 482
+  },
+  "Radeon HD 5570": {
+    "name": "Radeon HD 5570",
+    "value": 474
+  },
+  "Radeon HD 7560D": {
+    "name": "Radeon HD 7560D",
+    "value": 468
+  },
+  "GeForce 710A": {
+    "name": "GeForce 710A",
+    "value": 451
+  },
+  "GeForce 8800 GTS": {
+    "name": "GeForce 8800 GTS",
+    "value": 447
+  },
+  "GeForce GT 320": {
+    "name": "GeForce GT 320",
+    "value": 444
+  },
+  "Radeon HD 3850 AGP": {
+    "name": "Radeon HD 3850 AGP",
+    "value": 432
+  },
+  "Radeon HD 6550D": {
+    "name": "Radeon HD 6550D",
+    "value": 417
+  },
+  "GeForce GT 420": {
+    "name": "GeForce GT 420",
+    "value": 413
+  },
+  "Radeon HD 3850": {
+    "name": "Radeon HD 3850",
+    "value": 410
+  },
+  "GeForce 7900 GTX": {
+    "name": "GeForce 7900 GTX",
+    "value": 388
+  },
+  "Radeon HD 4670": {
+    "name": "Radeon HD 4670",
+    "value": 384
+  },
+  "Radeon HD 5550": {
+    "name": "Radeon HD 5550",
+    "value": 383
+  },
+  "GeForce GT 620": {
+    "name": "GeForce GT 620",
+    "value": 364
+  },
+  "GeForce GT 705": {
+    "name": "GeForce GT 705",
+    "value": 355
+  },
+  "GeForce 9600 GSO": {
+    "name": "GeForce 9600 GSO",
+    "value": 350
+  },
+  "GeForce GT 130": {
+    "name": "GeForce GT 130",
+    "value": 347
+  },
+  "GeForce 9600 GSO 512": {
+    "name": "GeForce 9600 GSO 512",
+    "value": 345
+  },
+  "GeForce 7950 GT": {
+    "name": "GeForce 7950 GT",
+    "value": 344
+  },
+  "Radeon HD 7540D": {
+    "name": "Radeon HD 7540D",
+    "value": 339
+  },
+  "GeForce 8800 GS": {
+    "name": "GeForce 8800 GS",
+    "value": 332
+  },
+  "GeForce GT 625": {
+    "name": "GeForce GT 625",
+    "value": 329
+  },
+  "Radeon R5 235": {
+    "name": "Radeon R5 235",
+    "value": 329
+  },
+  "Radeon HD 6530D": {
+    "name": "Radeon HD 6530D",
+    "value": 325
+  },
+  "Radeon HD 7470": {
+    "name": "Radeon HD 7470",
+    "value": 316
+  },
+  "GeForce GT 610": {
+    "name": "GeForce GT 610",
+    "value": 303
+  },
+  "GeForce GT 520": {
+    "name": "GeForce GT 520",
+    "value": 295
+  },
+  "Radeon HD 2900 GT": {
+    "name": "Radeon HD 2900 GT",
+    "value": 292
+  },
+  "GeForce 7800 GTX": {
+    "name": "GeForce 7800 GTX",
+    "value": 291
+  },
+  "Radeon HD 7480D": {
+    "name": "Radeon HD 7480D",
+    "value": 288
+  },
+  "Radeon HD 2600 XT": {
+    "name": "Radeon HD 2600 XT",
+    "value": 283
+  },
+  "Radeon R5 235X": {
+    "name": "Radeon R5 235X",
+    "value": 280
+  },
+  "GeForce 9600 GS": {
+    "name": "GeForce 9600 GS",
+    "value": 279
+  },
+  "Radeon HD 8490": {
+    "name": "Radeon HD 8490",
+    "value": 267
+  },
+  "Radeon HD 6370D": {
+    "name": "Radeon HD 6370D",
+    "value": 265
+  },
+  "GeForce 7900 GT": {
+    "name": "GeForce 7900 GT",
+    "value": 258
+  },
+  "GeForce 510": {
+    "name": "GeForce 510",
+    "value": 257
+  },
+  "Radeon HD 8470": {
+    "name": "Radeon HD 8470",
+    "value": 257
+  },
+  "GeForce 7900 GS": {
+    "name": "GeForce 7900 GS",
+    "value": 254
+  },
+  "GeForce 7900 GT/GTO": {
+    "name": "GeForce 7900 GT/GTO",
+    "value": 247
+  },
+  "GeForce 7800 GT": {
+    "name": "GeForce 7800 GT",
+    "value": 244
+  },
+  "Radeon HD 6410D": {
+    "name": "Radeon HD 6410D",
+    "value": 243
+  },
+  "Radeon HD 4550": {
+    "name": "Radeon HD 4550",
+    "value": 236
+  },
+  "Radeon HD 7450": {
+    "name": "Radeon HD 7450",
+    "value": 221
+  },
+  "Radeon HD 4650": {
+    "name": "Radeon HD 4650",
+    "value": 219
+  },
+  "Radeon HD 2600 PRO": {
+    "name": "Radeon HD 2600 PRO",
+    "value": 211
+  },
+  "GeForce GT 220": {
+    "name": "GeForce GT 220",
+    "value": 208
+  },
+  "GeForce 7600 GT": {
+    "name": "GeForce 7600 GT",
+    "value": 204
+  },
+  "GeForce 7950 GX2": {
+    "name": "GeForce 7950 GX2",
+    "value": 202
+  },
+  "Radeon HD 6450": {
+    "name": "Radeon HD 6450",
+    "value": 200
+  },
+  "GeForce 6800 GS": {
+    "name": "GeForce 6800 GS",
+    "value": 195
+  },
+  "Radeon HD 7350": {
+    "name": "Radeon HD 7350",
+    "value": 193
+  },
+  "GeForce 7800 GS": {
+    "name": "GeForce 7800 GS",
+    "value": 177
+  },
+  "GeForce GT 120": {
+    "name": "GeForce GT 120",
+    "value": 175
+  },
+  "Radeon HD 8350": {
+    "name": "Radeon HD 8350",
+    "value": 165
+  },
+  "GeForce 8600 GTS": {
+    "name": "GeForce 8600 GTS",
+    "value": 161
+  },
+  "GeForce 315": {
+    "name": "GeForce 315",
+    "value": 159
+  },
+  "GeForce 7600 GS": {
+    "name": "GeForce 7600 GS",
+    "value": 158
+  },
+  "Radeon X1950 CrossFire Edition": {
+    "name": "Radeon X1950 CrossFire Edition",
+    "value": 151
+  },
+  "Radeon X1900 GT": {
+    "name": "Radeon X1900 GT",
+    "value": 146
+  },
+  "GeForce 6800 GT": {
+    "name": "GeForce 6800 GT",
+    "value": 142
+  },
+  "Radeon HD 4290": {
+    "name": "Radeon HD 4290",
+    "value": 141
+  },
+  "RADEON HD 6350": {
+    "name": "RADEON HD 6350",
+    "value": 141
+  },
+  "Radeon X1800 GTO": {
+    "name": "Radeon X1800 GTO",
+    "value": 141
+  },
+  "GeForce 6800 Ultra": {
+    "name": "GeForce 6800 Ultra",
+    "value": 139
+  },
+  "Radeon HD 5450": {
+    "name": "Radeon HD 5450",
+    "value": 138
+  },
+  "GeForce 6600 GT": {
+    "name": "GeForce 6600 GT",
+    "value": 137
+  },
+  "Radeon X1900 CrossFire Edition": {
+    "name": "Radeon X1900 CrossFire Edition",
+    "value": 137
+  },
+  "GeForce 7300 GT": {
+    "name": "GeForce 7300 GT",
+    "value": 135
+  },
+  "GeForce 9500 GT": {
+    "name": "GeForce 9500 GT",
+    "value": 135
+  },
+  "Radeon R5 220": {
+    "name": "Radeon R5 220",
+    "value": 135
+  },
+  "RADEON X800 SE": {
+    "name": "RADEON X800 SE",
+    "value": 130
+  },
+  "GeForce 6800 XT": {
+    "name": "GeForce 6800 XT",
+    "value": 128
+  },
+  "GeForce 8400 GS": {
+    "name": "GeForce 8400 GS",
+    "value": 128
+  },
+  "GeForce 205": {
+    "name": "GeForce 205",
+    "value": 126
+  },
+  "Radeon HD 4250": {
+    "name": "Radeon HD 4250",
+    "value": 123
+  },
+  "GeForce 310": {
+    "name": "GeForce 310",
+    "value": 121
+  },
+  "Radeon HD 3450": {
+    "name": "Radeon HD 3450",
+    "value": 121
+  },
+  "Radeon HD 2400 XT": {
+    "name": "Radeon HD 2400 XT",
+    "value": 119
+  },
+  "GeForce 8500 GT": {
+    "name": "GeForce 8500 GT",
+    "value": 117
+  },
+  "GeForce 8600 GT": {
+    "name": "GeForce 8600 GT",
+    "value": 116
+  },
+  "Radeon X1600 XT": {
+    "name": "Radeon X1600 XT",
+    "value": 116
+  },
+  "RADEON X800 GTO": {
+    "name": "RADEON X800 GTO",
+    "value": 115
+  },
+  "Radeon HD 2400 Pro": {
+    "name": "Radeon HD 2400 Pro",
+    "value": 114
+  },
+  "GeForce 6800": {
+    "name": "GeForce 6800",
+    "value": 113
+  },
+  "Radeon X1950 Pro": {
+    "name": "Radeon X1950 Pro",
+    "value": 113
+  },
+  "Radeon HD 4200": {
+    "name": "Radeon HD 4200",
+    "value": 112
+  },
+  "GeForce 6800 LE": {
+    "name": "GeForce 6800 LE",
+    "value": 110
+  },
+  "Radeon X1950 GT": {
+    "name": "Radeon X1950 GT",
+    "value": 106
+  },
+  "GeForce 9400 GT": {
+    "name": "GeForce 9400 GT",
+    "value": 105
+  },
+  "GeForce 6800 GS/XT": {
+    "name": "GeForce 6800 GS/XT",
+    "value": 103
+  },
+  "Radeon HD 4350": {
+    "name": "Radeon HD 4350",
+    "value": 102
+  },
+  "Radeon X1600 Pro": {
+    "name": "Radeon X1600 Pro",
+    "value": 99
+  },
+  "RADEON X800 XT": {
+    "name": "RADEON X800 XT",
+    "value": 98
+  },
+  "GeForce 210": {
+    "name": "GeForce 210",
+    "value": 97
+  },
+  "GeForce 8600 GS": {
+    "name": "GeForce 8600 GS",
+    "value": 92
+  },
+  "GeForce 6600": {
+    "name": "GeForce 6600",
+    "value": 91
+  },
+  "Radeon HD 3470": {
+    "name": "Radeon HD 3470",
+    "value": 90
+  },
+  "GeForce 9300 GE": {
+    "name": "GeForce 9300 GE",
+    "value": 88
+  },
+  "Intel G33/G31 Express": {
+    "name": "Intel G33/G31 Express",
+    "value": 88
+  },
+  "Radeon X1650 Pro": {
+    "name": "Radeon X1650 Pro",
+    "value": 85
+  },
+  "RADEON X800 GT": {
+    "name": "RADEON X800 GT",
+    "value": 84
+  },
+  "GeForce 7300 GS": {
+    "name": "GeForce 7300 GS",
+    "value": 82
+  },
+  "RADEON X850 XT Platinum Edition": {
+    "name": "RADEON X850 XT Platinum Edition",
+    "value": 82
+  },
+  "RADEON X800 XT Platinum Edition": {
+    "name": "RADEON X800 XT Platinum Edition",
+    "value": 81
+  },
+  "RADEON X850 XT": {
+    "name": "RADEON X850 XT",
+    "value": 81
+  },
+  "GeForce 7300 LE": {
+    "name": "GeForce 7300 LE",
+    "value": 78
+  },
+  "Radeon HD 2350": {
+    "name": "Radeon HD 2350",
+    "value": 77
+  },
+  "RADEON X700 PRO": {
+    "name": "RADEON X700 PRO",
+    "value": 76
+  },
+  "Intel G45Express Chipset": {
+    "name": "Intel G45Express Chipset",
+    "value": 75
+  },
+  "Intel G43 Express Chipset": {
+    "name": "Intel G43 Express Chipset",
+    "value": 75
+  },
+  "RADEON X700": {
+    "name": "RADEON X700",
+    "value": 73
+  },
+  "RADEON X800 PRO/GTO": {
+    "name": "RADEON X800 PRO/GTO",
+    "value": 73
+  },
+  "RADEON X850 PRO": {
+    "name": "RADEON X850 PRO",
+    "value": 73
+  },
+  "GeForce 9300 GS": {
+    "name": "GeForce 9300 GS",
+    "value": 71
+  },
+  "RADEON X700 SE": {
+    "name": "RADEON X700 SE",
+    "value": 71
+  },
+  "RADEON X800 XL": {
+    "name": "RADEON X800 XL",
+    "value": 69
+  },
+  "GeForce 8300 GS": {
+    "name": "GeForce 8300 GS",
+    "value": 67
+  },
+  "Radeon X1550": {
+    "name": "Radeon X1550",
+    "value": 67
+  },
+  "GeForce 7500 LE": {
+    "name": "GeForce 7500 LE",
+    "value": 66
+  },
+  "RADEON X800 PRO": {
+    "name": "RADEON X800 PRO",
+    "value": 65
+  },
+  "GeForce FX 5950 Ultra": {
+    "name": "GeForce FX 5950 Ultra",
+    "value": 59
+  },
+  "RADEON 9800 PRO": {
+    "name": "RADEON 9800 PRO",
+    "value": 59
+  },
+  "RADEON 9800": {
+    "name": "RADEON 9800",
+    "value": 58
+  },
+  "Radeon X1300": {
+    "name": "Radeon X1300",
+    "value": 58
+  },
+  "RADEON 9800 XT": {
+    "name": "RADEON 9800 XT",
+    "value": 57
+  },
+  "RADEON X600 256MB HyperMemory": {
+    "name": "RADEON X600 256MB HyperMemory",
+    "value": 57
+  },
+  "RADEON 9700 PRO": {
+    "name": "RADEON 9700 PRO",
+    "value": 54
+  },
+  "GeForce 7100 GS": {
+    "name": "GeForce 7100 GS",
+    "value": 52
+  },
+  "GeForce 6600 LE": {
+    "name": "GeForce 6600 LE",
+    "value": 51
+  },
+  "RADEON X550": {
+    "name": "RADEON X550",
+    "value": 51
+  },
+  "Radeon X1050": {
+    "name": "Radeon X1050",
+    "value": 49
+  },
+  "RADEON 9600 PRO": {
+    "name": "RADEON 9600 PRO",
+    "value": 43
+  },
+  "GeForce FX 5700": {
+    "name": "GeForce FX 5700",
+    "value": 41
+  },
+  "GeForce FX 5900 Ultra": {
+    "name": "GeForce FX 5900 Ultra",
+    "value": 41
+  },
+  "GeForce FX 5900XT": {
+    "name": "GeForce FX 5900XT",
+    "value": 40
+  },
+  "GeForce 7300 SE": {
+    "name": "GeForce 7300 SE",
+    "value": 39
+  },
+  "GeForce 6500": {
+    "name": "GeForce 6500",
+    "value": 38
+  },
+  "RADEON 9500": {
+    "name": "RADEON 9500",
+    "value": 36
+  },
+  "GeForce 6200": {
+    "name": "GeForce 6200",
+    "value": 35
+  },
+  "GeForce 7100 / nForce 630i": {
+    "name": "GeForce 7100 / nForce 630i",
+    "value": 35
+  },
+  "GeForce FX 5900": {
+    "name": "GeForce FX 5900",
+    "value": 35
+  },
+  "GeForce PCX 5750": {
+    "name": "GeForce PCX 5750",
+    "value": 35
+  },
+  "RADEON 9550": {
+    "name": "RADEON 9550",
+    "value": 35
+  },
+  "RADEON 9600 XT": {
+    "name": "RADEON 9600 XT",
+    "value": 35
+  },
+  "GeForce FX 5700 Ultra": {
+    "name": "GeForce FX 5700 Ultra",
+    "value": 34
+  },
+  "GeForce PCX 5900": {
+    "name": "GeForce PCX 5900",
+    "value": 34
+  },
+  "GeForce FX 5700VE": {
+    "name": "GeForce FX 5700VE",
+    "value": 33
+  },
+  "GeForce FX 5900ZT": {
+    "name": "GeForce FX 5900ZT",
+    "value": 33
+  },
+  "GeForce 6200 A-LE": {
+    "name": "GeForce 6200 A-LE",
+    "value": 32
+  },
+  "GeForce 6200 LE": {
+    "name": "GeForce 6200 LE",
+    "value": 31
+  },
+  "GeForce FX 5700LE": {
+    "name": "GeForce FX 5700LE",
+    "value": 25
+  },
+  "RADEON 9800 SE": {
+    "name": "RADEON 9800 SE",
+    "value": 24
+  },
+  "GeForce 7200 GS": {
+    "name": "GeForce 7200 GS",
+    "value": 23
+  },
+  "GeForce FX 5600 Ultra": {
+    "name": "GeForce FX 5600 Ultra",
+    "value": 17
+  },
+  "GeForce FX 5600": {
+    "name": "GeForce FX 5600",
+    "value": 13
+  },
+  "GeForce FX 5200 Ultra": {
+    "name": "GeForce FX 5200 Ultra",
+    "value": 12
+  },
+  "GeForce FX 5200": {
+    "name": "GeForce FX 5200",
+    "value": 8
+  },
+  "GeForce FX 5500": {
+    "name": "GeForce FX 5500",
+    "value": 8
+  },
+  "GeForce PCX 5300": {
+    "name": "GeForce PCX 5300",
+    "value": 6
+  },
+  "GeForce2 Ultra": {
+    "name": "GeForce2 Ultra",
+    "value": 6
+  },
+  "GeForce4 Ti 4600": {
+    "name": "GeForce4 Ti 4600",
+    "value": 6
+  },
+  "GeForce2 Ti": {
+    "name": "GeForce2 Ti",
+    "value": 5
+  },
+  "GeForce3": {
+    "name": "GeForce3",
+    "value": 5
+  },
+  "GeForce4 MX 420": {
+    "name": "GeForce4 MX 420",
+    "value": 5
+  },
+  "GeForce4 MX 440": {
+    "name": "GeForce4 MX 440",
+    "value": 5
+  },
+  "GeForce4 MX 440 with AGP8X": {
+    "name": "GeForce4 MX 440 with AGP8X",
+    "value": 5
+  },
+  "RADEON 9000": {
+    "name": "RADEON 9000",
+    "value": 5
+  },
+  "GeForce 6200A": {
+    "name": "GeForce 6200A",
+    "value": 4
+  },
+  "GeForce4 MX 460": {
+    "name": "GeForce4 MX 460",
+    "value": 4
+  },
+  "RADEON 9200": {
+    "name": "RADEON 9200",
+    "value": 4
+  },
+  "GeForce2 MX": {
+    "name": "GeForce2 MX",
+    "value": 3
+  },
+  "RADEON 7500": {
+    "name": "RADEON 7500",
+    "value": 3
+  },
+  "RADEON 9200 SE": {
+    "name": "RADEON 9200 SE",
+    "value": 3
+  },
+  "Intel G35 Express": {
+    "name": "Intel G35 Express",
+    "value": 3090
+  },
+  "Intel Iris Xe": {
+    "name": "Intel Iris Xe",
+    "value": 2791
+  },
+  "Intel UHD 770": {
+    "name": "Intel UHD 770",
+    "value": 2622
+  },
+  "Intel UHD P630": {
+    "name": "Intel UHD P630",
+    "value": 2565
+  },
+  "Intel Iris Pro P580": {
+    "name": "Intel Iris Pro P580",
+    "value": 2169
+  },
+  "Intel Iris Pro 580": {
+    "name": "Intel Iris Pro 580",
+    "value": 1993
+  },
+  "Intel Iris Xe MAX": {
+    "name": "Intel Iris Xe MAX",
+    "value": 1973
+  },
+  "Intel Iris Plus": {
+    "name": "Intel Iris Plus",
+    "value": 1849
+  },
+  "Intel Iris 650": {
+    "name": "Intel Iris 650",
+    "value": 1795
+  },
+  "Intel UHD 750": {
+    "name": "Intel UHD 750",
+    "value": 1778
+  },
+  "Intel Iris Plus 655": {
+    "name": "Intel Iris Plus 655",
+    "value": 1772
+  },
+  "Intel UHD P750": {
+    "name": "Intel UHD P750",
+    "value": 1767
+  },
+  "Intel Iris Plus 645": {
+    "name": "Intel Iris Plus 645",
+    "value": 1742
+  },
+  "Intel Iris Pro P6300": {
+    "name": "Intel Iris Pro P6300",
+    "value": 1654
+  },
+  "Intel UHD": {
+    "name": "Intel UHD",
+    "value": 1597
+  },
+  "Intel Iris Plus 650": {
+    "name": "Intel Iris Plus 650",
+    "value": 1587
+  },
+  "Intel UHD 730": {
+    "name": "Intel UHD 730",
+    "value": 1520
+  },
+  "Intel Iris Pro Graphics 6200": {
+    "name": "Intel Iris Pro Graphics 6200",
+    "value": 1429
+  },
+  "Intel Iris 550": {
+    "name": "Intel Iris 550",
+    "value": 1338
+  },
+  "Intel Iris Plus 640": {
+    "name": "Intel Iris Plus 640",
+    "value": 1330
+  },
+  "Intel UHD 630": {
+    "name": "Intel UHD 630",
+    "value": 1299
+  },
+  "Intel Iris 540": {
+    "name": "Intel Iris 540",
+    "value": 1256
+  },
+  "Intel HD P630": {
+    "name": "Intel HD P630",
+    "value": 1237
+  },
+  "Intel HD P530": {
+    "name": "Intel HD P530",
+    "value": 1220
+  },
+  "Intel UHD 710": {
+    "name": "Intel UHD 710",
+    "value": 1171
+  },
+  "Intel Coffee Lake UHD": {
+    "name": "Intel Coffee Lake UHD",
+    "value": 1158
+  },
+  "Intel HD 630": {
+    "name": "Intel HD 630",
+    "value": 1123
+  },
+  "Intel Iris Pro 5200": {
+    "name": "Intel Iris Pro 5200",
+    "value": 1020
+  },
+  "Intel HD 530": {
+    "name": "Intel HD 530",
+    "value": 985
+  },
+  "Intel Iris Pro 6100": {
+    "name": "Intel Iris Pro 6100",
+    "value": 925
+  },
+  "Intel HD Graphics 620": {
+    "name": "Intel HD Graphics 620",
+    "value": 921
+  },
+  "Intel Iris 6100": {
+    "name": "Intel Iris 6100",
+    "value": 905
+  },
+  "Intel UHD 620": {
+    "name": "Intel UHD 620",
+    "value": 889
+  },
+  "Intel HD 520": {
+    "name": "Intel HD 520",
+    "value": 866
+  },
+  "Intel HD 6000": {
+    "name": "Intel HD 6000",
+    "value": 850
+  },
+  "Intel UHD 617": {
+    "name": "Intel UHD 617",
+    "value": 848
+  },
+  "Intel HD 5200": {
+    "name": "Intel HD 5200",
+    "value": 830
+  },
+  "Intel UHD 615": {
+    "name": "Intel UHD 615",
+    "value": 763
+  },
+  "Intel Iris 5100": {
+    "name": "Intel Iris 5100",
+    "value": 755
+  },
+  "Intel Poison Ivy": {
+    "name": "Intel Poison Ivy",
+    "value": 739
+  },
+  "Intel UHD 610": {
+    "name": "Intel UHD 610",
+    "value": 729
+  },
+  "Intel HD 615": {
+    "name": "Intel HD 615",
+    "value": 727
+  },
+  "Intel HD 5600": {
+    "name": "Intel HD 5600",
+    "value": 712
+  },
+  "Intel HD 610": {
+    "name": "Intel HD 610",
+    "value": 671
+  },
+  "Intel HD P4600/P4700": {
+    "name": "Intel HD P4600/P4700",
+    "value": 624
+  },
+  "Intel HD 515": {
+    "name": "Intel HD 515",
+    "value": 621
+  },
+  "Intel HD 510": {
+    "name": "Intel HD 510",
+    "value": 618
+  },
+  "Intel HD P4600": {
+    "name": "Intel HD P4600",
+    "value": 605
+  },
+  "Intel HD 5500": {
+    "name": "Intel HD 5500",
+    "value": 582
+  },
+  "Intel Skylake HD DT GT2": {
+    "name": "Intel Skylake HD DT GT2",
+    "value": 577
+  },
+  "Intel HD 5000": {
+    "name": "Intel HD 5000",
+    "value": 563
+  },
+  "Intel HD 4400": {
+    "name": "Intel HD 4400",
+    "value": 520
+  },
+  "Intel HD P4000": {
+    "name": "Intel HD P4000",
+    "value": 516
+  },
+  "Intel HD Family": {
+    "name": "Intel HD Family",
+    "value": 451
+  },
+  "Intel HD 5300": {
+    "name": "Intel HD 5300",
+    "value": 389
+  },
+  "Intel UHD 605": {
+    "name": "Intel UHD 605",
+    "value": 373
+  },
+  "Intel HD 505": {
+    "name": "Intel HD 505",
+    "value": 339
+  },
+  "Intel HD 4000": {
+    "name": "Intel HD 4000",
+    "value": 332
+  },
+  "Intel UHD 600": {
+    "name": "Intel UHD 600",
+    "value": 328
+  },
+  "Intel HD P3000": {
+    "name": "Intel HD P3000",
+    "value": 297
+  },
+  "Intel HD 500": {
+    "name": "Intel HD 500",
+    "value": 296
+  },
+  "Intel HD 3000": {
+    "name": "Intel HD 3000",
+    "value": 257
+  },
+  "Intel HD 2000": {
+    "name": "Intel HD 2000",
+    "value": 69
+  }
+}

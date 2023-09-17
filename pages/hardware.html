@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ReqCheck - A System Requirement Checker</title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+	<link rel="icon" type="image/x-icon" href="favicon.ico?">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+			<ul>
+    			<li><a href="index.html";>HOME</a></li>
+    			<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+    			<li><a href="faq.html">FAQ</a></li>
+				<li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+				<li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+				<!-- Search Bar -->
+				<li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+				<div id="search">
+					<input id="searchBar"; type="text"; placeholder="Search...">
+					<nav id="matchList"></nav>
+				</div>
+    		</ul>
+    	</div>
+    </nav>
+
+    <!-- Content -->
+    <div class="container">
+      <p>
+        <nav id="leftSide">
+
+  			<!-- Save Button -->
+  			<button onclick="saveOption()"> Save </button>
+  			<!-- Load Button, not yet working -->
+  			<button onclick="alert('Not Yet!')"> Load </button>
+  			<br>
+  			<!-- Name Build -->
+  			<input style="font-size: 20px"; type="PC Build Name" value="PC Build Name" id="name" placeholder="Build Name">
+  			<br>
+  			<!-- Dropdown Options -->
+  			<form>
+    			<label for="cpu">CPU:</label>
+    			<br>
+    			<select name="cpu" id="cpu"></select>
+				<br>
+
+    			<label for="RAM">RAM:</label>
+    			<br>
+      			<select name="ram" id="ram"></select>
+    			<br>
+
+				<label for="gpu">GPU:</label>
+    			<br>
+    			<select name="gpu" id="gpu"></select>
+    			<br>
+
+    			<label for="storage">Storage:</label>
+    			<br>
+    			<select name="storage" id="storage"></select>
+    			<br>
+
+				<label for="cpu">OS:</label>
+				<br>
+				<select name="os" id="os">
+					<option value="windows">Windows</option>
+					<option value="mac">Mac</option>
+					<option value="linux">Linux</option>
+    			</select>
+    			<br>
+  			</form>
+
+			<!-- Save Options -->
+			<button onclick="saveOption()">Save</button>
+    </nav>
+
+        <nav id="rightSide">
+
+			<!-- Switch between build tabs -->
+			<div class="tab">
+				<button class="tablinks" onclick="openType('MYBUILDS')">MY BUILDS</button>
+				<button class="tablinks" onclick="openType('PREBUILTS')">PREBUILTS</button>
+			</div>
+
+			<!-- Prebuilt Tab content -->
+			<nav id="builds">
+				<div id="PREBUILTS" class="tabcontent">
+					<hr>
+				</div>
+			</nav>
+
+			<!-- Personal Build Tab content -->
+			<nav id="builds">
+				<hr>
+				<div id="MYBUILDS" class="tabcontent">
+					
+				</div>
+			</nav>
+
+        </nav>
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="../index.html">HOME</a>
+    			<a href="hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="faq.html">FAQ</a>
+    </footer>
+
+  </body>
+
+  <script type="text/javascript" src="../js/hardware.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+</html>

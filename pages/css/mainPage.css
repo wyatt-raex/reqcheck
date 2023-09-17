@@ -1,0 +1,261 @@
+/* Main */
+body
+{
+	background-color: #838383;
+	color:555;
+	font-family: "Trebuchet MS", Helvetica, sans-serif;
+	font-size: 16px;
+	line-height: 1.6em;
+	margin: 0;
+}
+
+a {
+	color: #FFFFFF;
+}
+
+hr {
+	border: 1px solid #000000;
+}
+
+h2 {
+	text-align: center;
+	text-decoration: underline;
+}
+
+h3 {
+	margin: 0px;
+	text-decoration: underline;
+}
+
+label {
+	font-size: 18px;
+	font-weight: bold;
+	text-decoration: underline;
+	margin: 0px;
+}
+
+img {
+	width: 100%;
+}
+
+option {
+	max-height: 200px;
+	overflow-y: auto;
+	overflow-x: hidden;	
+}
+
+button {
+	text-align: center;
+	font-size: 16px;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 3px;
+	padding-bottom: 3px;
+	margin: auto;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+	cursor: inherit;
+}
+
+input {
+	margin-top: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+}
+
+select {
+  padding: 5px;
+  border-radius: 5px;
+	margin: 0px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+}
+
+table {
+  padding: 4px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+}
+
+.container {
+	width: 70%;
+	margin: auto;
+	overflow: hidden;
+}
+
+/* Header */
+#mainHeader {
+	background-color: #434343;
+	text-align: center;
+	color:#ffffff;
+}
+
+#mainHeader a {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+/* NavBar */
+#navBar {
+	background-color: #434343;
+	color: #fff;
+	text-align: center;
+	font-size: 14px;
+	height: auto;
+}
+
+#navBar ul {
+	padding: 5px 10px;
+	list-style: none;
+	border: none;
+	text-align: left;
+}
+
+#navBar li {
+  display: inline;
+  text-align: center;
+  padding-left: 15px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  white-space: nowrap;
+  margin: 0px;
+}
+
+#navBar li:hover {
+	background-color: #828282;
+}
+
+#navBar a {
+	color: #fff;
+	text-decoration: none;
+  	text-align: center;
+	font-size: 18px;
+	padding-right: 15px;
+}
+
+#navBar input {
+  display: inline;
+  overflow: hidden;
+  float: right;
+  margin-top: 5px;
+  size: 50px;
+}
+
+#navBar button {
+ display: inline;
+  overflow: hidden;
+  float: right;
+  margin-top: 5px;
+}
+
+#search {
+  float: right;
+}
+
+#searchBar {
+	padding: 2px;
+	border-radius: 5px;
+	color: black;
+	font-weight: bold;
+	background-color: white;
+	width: 300px;
+}
+
+#matchList {
+	color: white;
+	background-color: white;
+	position: absolute;
+	max-height: 300px;
+	width: 308px;
+	overflow-y: auto;
+	overflow-x: hidden;
+	display: inline;
+	margin-top: 30px;
+}
+
+#matchList a {
+	color: black;
+	text-align: left;
+	
+	display: block;
+}
+
+#matchList a:hover {
+	color: black;
+	background-color: #343434;
+}
+
+/* left side */
+#leftSide {
+	width: 45%;
+	float: left;
+}
+
+/* Right side */
+#rightSide {
+	width: 45%;
+	float: right;
+}
+
+/* Top Games */
+#topGames a{
+	color: #000000;
+}
+
+#topGames li {
+	color: #000000;
+}
+
+/* PC Builds */
+#builds ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+#builds li {
+	color: #000000;
+	display: block;
+}
+
+#builds a {
+	color: #000000;
+}
+
+/* Login Page */
+#loginPage input {
+	display: block;
+	width: 75%;
+	margin: auto;
+	margin-top: 5px;
+  padding: 5px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  background-color: #3a3a3a;
+	cursor: inherit;
+}
+
+/* Footer */
+#mainFooter {
+	background-color: #434343;
+	color: #fff;
+	text-align: center;
+	padding: 10px;
+  font-size: 20px;
+	margin-top:30px;
+}
+
+#mainFooter a {
+	display: inline;
+	color: #fff;
+  font-size: 16px;
+	padding: 10px;
+}

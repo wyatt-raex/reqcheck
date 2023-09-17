@@ -1,0 +1,196 @@
+--SteamAPI--
+
+GET /api/steam/appID
+-Returns JSON of steam app data of the provided key.
+-If send local ID, returns JSON of provided key.
+
+--General Database--
+
+GET /api/db
+-Returns JSON of databases
+
+--Login--
+
+GET /api/db/login 
+-Returns all users
+-Returns 400 code if no users in database.
+
+GET /api/db/login/:email (Ex. /api/db/login/admin@reqcheck.com)
+-Returns JSON of data for that user
+-Will send back 400 code if there is no user of that email.
+
+DELETE /api/db/login/:email (Ex. /api/db/login/admin@reqcheck.com)
+-Delete login of email
+-Will send back 400 code if there is no user of that email.
+
+POST /api/db/login (Content-Type: application/json)
+-Adds a new login with JSON data provided in body of the request.
+-Will send back 400 code if there is a user of the same email.
+Format:
+{
+    "email": "testEmail",
+    "password": "1234",
+    "role": "admin",
+    "games": [],
+	"builds": []
+}
+
+PUT /api/db/login/email/:email/:newEmail (Ex. /api/db/login/email/admin@reqcheck.com/newAdmin@reqcheck.com)
+-Updates email of user.
+-Will send back 400 code if there is no user of that email.
+
+PUT /api/db/login/password/:email/:newPassword (Ex. /api/db/login/email/admin@reqcheck.com/1234)
+-Updates password of user.
+-Will send back 400 code if there is no user of that email.
+
+PUT /api/db/login/role/:email/:newRole (Ex. /api/db/login/email/admin@reqcheck.com/admin)
+-Updates role of user.
+-Will send back 400 code if there is no user of that email.
+
+POST /api/db/login/build/:email
+-Updates build array for the user of specified email to body of POST
+-Returns 400 if no user of email found
+Format:
+[
+	{	
+	"name": "Build1",
+	"processor": "Intel Core i5 6500",
+	"memory": "8 GB",
+	"graphics": "RTX 2060",
+	"storage": "1 TB",
+	"os": "windows"
+	},
+	{	
+	"name": "Build2",
+	"processor": "Intel Core i7 11700K",
+	"memory": "16 GB",
+	"graphics": "RTX 3070",
+	"storage": "2 TB",
+	"os": "windows"
+	},
+]
+
+
+--Developers--
+
+PUT /api/db/dev/:email/:appID (Ex. /api/db/dev/dev@reqcheck.com/220)
+-Updates the games array within the user with the body of the POST request.
+-Returns 400 code if there is no user with email
+Format:
+[appID 1, appID2, ...]
+
+--Hardware--
+
+GET /api/db/hardware/:type (#x. /api/db/hardware/processor)
+-Returns JSON of all hardware of specified type (processor or graphics)
+-Returns 400 code if there is no hardware
+
+GET /api/db/hardware/:type/:name (#x. /api/db/hardware/processor/Intel Core i5 12600K)
+-Returns JSON of all hardware of specified type (processor or graphics)
+-Returns 400 code if there is no hardware
+
+POST /api/db/hardware/:type (Ex. /api/db/hardware/graphics)
+-Adds hardware of specified type (processor or graphics) to database with data provided in POST request
+-Returns 400 if there is hardware of the same name
+Format:
+{
+    "name": "test i6",
+    "value": 48
+}
+
+DELETE /api/db/hardware/:type/:name (Ex. /api/db/hardware/graphics)
+-Deletes hardware of specified type (processor or graphics) and name from database
+-Return 400 if there is no hardware of given name
+
+PUT /api/db/hardware/:type/:name/:newValue (Ex. /api/db/hardware/processor/Intel Core i5/100)
+-Updates the comparator value for hardware of specified type (processor or graphics) and name to newValue.
+-Returns 400 if there is no hardware of given name
+
+POST /api/db/hardware/prebuilt 
+-Adds prebuilt of data from POST body
+-Returns 400 if prebuilt of same name already exists
+Format:
+{
+    "id": 1,
+    "name": "The Fast Potato",
+    "processor": "Intel Core i3-10100",
+    "memory": "8GB RAM",
+    "graphics": "GeForce GTX 1050 Ti",
+    "storage": "500 GB",
+	"os": "windows"
+}
+
+GET /api/db/hardware/prebuilt 
+-Returns JSON of all prebuilts
+-Returns 400 if no prebuilts
+
+GET /api/db/hardware/prebuilt/:id
+-Returns JSON of prebuilt of speicifed ID
+-Returns 400 if no prebuilt of that id
+
+--Games--
+
+GET /api/db/games/steam
+-Returns list of all steam games in JSON format.
+-WARNING: A lot of data, tends to be slow
+-Return 400 if no steam games
+
+GET /api/db/games/local
+-Returns list of all local games in JSON format.
+-Return 400 if no local games
+
+POST /api/db/games/local/:appID (Ex. /api/db/games/local/01)
+-Adds local game to the local game list with data in POST body
+-Returns 400 if game id already exists
+-NOTE: Since steam appIDs never start with 0, our local ids can start with 01, 02 etc.
+Format (there is a method in the database.js called formatRequirement that can take all the info and return a JSON):
+{
+	"appid": "appID",
+	"appID": 
+	{
+		"data": 
+		{
+			"name": "gameName",
+			"appid": "appID",
+			"about_the_game": "gameDesc",
+			"header_image": "gameImage",
+			"platforms": {"windows": "windows", "mac": "mac", "linux": "linux"},
+			"pc_requirements": {"minimum": "windowsMin", "recommended": "windowsRec"},
+			"mac_requirements": {"minimum": "macMin", "recommended": "macRec"},
+			"linux_requirements": {"minimum": "linuxMin", "recommended": "linuxRec"}
+		}
+    }
+}
+
+DELETE /api/db/games/local/:appID (Ex. /api/db/games/local/rc1)
+-Deletes local game of given appID from database
+-Returns 400 if there is no game of appID
+
+POST /api/db/game/local/update/:appID (Ex. /api/db/games/local/update/rc1)
+-Update local game to JSON data provided in POST body
+-Returns 400 if there is no game of appID
+Format (there is a method in the database.js called formatRequirement that can take all the info and return a JSON):
+{
+	appid: appID
+	appID: 
+	{
+		data: {
+		name: gameName,
+		appid: appID,
+		about_the_game: gameDesc,
+		header_image: gameImage,
+		platforms: {windows: windows, mac: mac, linux: linux},
+		pc_requirements: {minimum: windowsMin, recommended: windowsRec},
+		mac_requirements: {minimum: macMin, recommended: macRec},
+		linux_requirements: {minimum: linuxMin, recommended: linuxRec}
+		}
+	}
+}
+
+PUT /api/db/games/:type/:appID/:hardwareName/' (Ex. /api/db/games/processor/Intel Core i5/15);
+-Sets hardware impression value for game
+-Returns 400 if there is no game with that ID
+
+PUT /api/db/games/:appID/:newValue (Ex. /api/db/games/01/15);
+-Sets game impression value for game
+-Returns 400 if there is no game with that ID

@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>ReqCheck - A System Requirement Checker</title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+    <link rel="icon" type="image/x-icon" href="favicon.ico?">
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+    		<ul>
+    			<li><a href="index.html";>HOME</a></li>
+    			<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+    			<li><a href="faq.html">FAQ</a></li>
+          <li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+          <li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+          <!-- Search Bar -->
+          <li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+          <div id="search">
+            <input id="searchBar"; type="text"; placeholder="Search...">
+            <nav id="matchList"></nav>
+          </div>
+    		</ul>
+    	</div>
+    </nav>
+    
+    
+
+    <!-- Content -->
+
+    <div class="container">
+      <p>
+        <nav id="leftSide">
+          <h2>Your PC Hardware/Recommended Builds</h2>
+          <nav id="builds">
+            <hr>
+
+          </nav>
+
+        </nav>
+
+        <nav id="rightSide">
+            <h2>Top Games</h2>
+            <hr>
+            <nav id="topGames">
+              <ol>
+                <li><a href="game.html?appID=01">Minecraft</a></li>
+                <li><a href="game.html?appID=1245620">Elden Ring</a></li>
+                <li><a href="game.html?appID=39210">FINAL FANTASY XIV Online</a></li>
+                <li><a href="game.html?appID=1446780">Monster Hunter Rise</a></li>
+                <li><a href="game.html?appID=1196590">Resident Evil Village</a></li>
+                <li><a href="game.html?appID=1097150">Fall Guys</a></li>
+                <li><a href="game.html?appID=546560">Half Life Alyx</a></li>
+                <li><a href="game.html?appID=678950">Dragon Ball FighterZ</a></li>
+                <li><a href="game.html?appID=379720">Doom (2016)</a></li>
+              </ol>
+            </nav>
+        </nav>
+
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="index.html">HOME</a>
+    			<a href="hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="faq.html">FAQ</a>
+    </footer>
+  </body>
+
+  <script type="text/javascript" src="../js/index.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+</html>

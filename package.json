@@ -1,0 +1,30 @@
+{
+  "name": "csc340-reqcheck",
+  "version": "1.0.0",
+  "description": "ReqCheck",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server",
+    "dev": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wyatt-raex/CSC340-REQCHECK.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wyatt-raex/CSC340-REQCHECK/issues"
+  },
+  "homepage": "https://github.com/wyatt-raex/CSC340-REQCHECK#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "express": "^4.17.3",
+    "express-flash": "^0.0.2",
+    "express-session": "^1.17.2",
+    "mongodb": "^4.5.0",
+    "uuid": "^8.3.2"
+  }
+}

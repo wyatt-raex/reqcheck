@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+	<!-- Table Style -->
+	<style>
+	table, th, td {
+		border:1px solid black;
+	}
+	</style>
+  <head>
+    <meta charset="utf-8">
+    <title>ReqCheck - Admin Dashboard</title>
+    <link rel="stylesheet" type="text/css" href="../css/mainPage.css">
+	<link rel="icon" type="image/x-icon" href="favicon.ico?">
+	<script src="https://code.jquery.com/jquery-3.2.1.min.js"></script>
+  </head>
+  <body>
+
+    <!-- Header -->
+    <header id="mainHeader">
+    	<div class="container">
+    		<a href="index.html"><h1>ReqCheck</h1></a>
+    	</div>
+    </header>
+
+    <!-- NavBar -->
+    <nav id="navBar">
+    	<div class="container">
+			<ul>
+				<li><a href="index.html";>HOME</a></li>
+				<li id="hardwareButton"><a href="hardware.html"; onclick="gotoHardware();">HARDWARE</a></li>
+				<li><a href="faq.html">FAQ</a></li>
+				<li id="adminButton"><a href="admin.html";  onclick="gotoAdmin()";>ADMIN DASHBOARD</a></li>
+				<li id="devButton"><a href="dev.html";  onclick="gotoDev()";>DEVELOPER DASHBOARD</a></li>
+				<!-- Search Bar -->
+				<li><a href="login.html"; onclick="gotoLogin()"; id="loginButton"></a></li>
+				<div id="search">
+					<input id="searchBar"; type="text"; placeholder="Search...">
+					<nav id="matchList"></nav>
+				</div>
+    		</ul>
+    	</div>
+    </nav>
+
+    <!-- Content -->
+    <div class="container">
+      <p>
+				<!-- Switch between build tabs -->
+					<div class="tab">
+						<button class="tablinks" onclick="openType(event, 'USERS')">USERS</button>
+						<button class="tablinks" onclick="openType(event, 'STEAM')">STEAM GAMES</button>
+						<button class="tablinks" onclick="openType(event, 'LOCAL')">LOCAL GAMES</button>
+						<button class="tablinks" onclick="openType(event, 'PROCESSOR')">PROCESSORS</button>
+						<button class="tablinks" onclick="openType(event, 'GRAPHICS')">GRAPHICS</button>
+						<button onclick="updateDatabase()" style="float: right"> CONFIRM CHANGES </button>
+						
+						<br>
+
+						<input id="input_searchDb" type="text" placeholder="Search Database...">
+						<button onclick="searchDatabase(event)">SEARCH</button>
+					</div>
+
+					<!-- Users Tab content -->
+					<div id="USERS" class="tabcontent">
+						<hr>
+						<!-- Users -->
+						<h3 id="table-title">Users</h3>
+						<table id="table" style="width:100%">
+							<!-- Table Headers -->
+							<tr>
+								<th>Email</th>
+								<th>Password</th>
+								<th>Role</th>
+							</tr>
+							<!-- User Values -->
+							
+						</table>
+					</div>
+
+					<br>
+					<button id="create_button" onclick="create_document()">Create Document</button>
+					<button id="push_document" onclick="push_document(this)">Push Document</button>
+					
+        <nav id="leftSide">
+
+
+        </nav>
+
+        <nav id="rightSide">
+
+        </nav>
+      </p>
+    </div>
+
+    <!-- NavBar -->
+    <footer id="mainFooter">
+    			<a href="../index.html">HOME</a>
+    			<a href="hardware.html"; onclick="gotoHardware()">HARDWARE</a>
+    			<a href="faq.html">FAQ</a>
+    </footer>
+
+  </body>
+
+  <script type="text/javascript" src="../js/admin.js"></script>
+  <script type="text/javascript" src="../js/navbar.js"></script>
+  <script type="text/javascript">load(null, 'USERS');</script>
+</html>
