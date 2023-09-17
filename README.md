@@ -7,5 +7,5 @@ To Run Application, open VS Code and...
 
 # Group Members for this project
 - https://github.com/robinfire110
-- https://github.com/kadirlofca
+- https://github.com/MichaMung
 - https://github.com/wyatt-raex
